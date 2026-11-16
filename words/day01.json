@@ -1,0 +1,982 @@
+{
+ "day": "DAY 01",
+ "words": [
+  {
+   "no": "0001",
+   "word": "interrelated",
+   "ph": "[ìntərriléitid]",
+   "pos": "형",
+   "mean": "상호 연관된",
+   "ex": "Obviously, no aspect of the language arts stands alone either in learning or in teaching. Listening, speaking, reading, writing, viewing, and visually representing are <b>interrelated</b>.",
+   "exKo": "분명히, 언어 예술의 어떤 측면도 학습에서 또는 가르침에서 홀로 서 있지 않다. 듣기, 말하기, 읽기, 쓰기, 보기와 시각적 표현은 상호 연관되어 있다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0002",
+   "word": "optical",
+   "ph": "[áptikəl]",
+   "pos": "형",
+   "mean": "시각적인, 광학의",
+   "ex": "So the technology works in the opposite way from how <b>optical</b> glasses work.",
+   "exKo": "따라서 그 기술은 광학 안경의 작동 원리와 반대로 작용한다.",
+   "derived": [
+    [
+     "auditory",
+     "청각의 (sense of hearing)"
+    ],
+    [
+     "tactile",
+     "촉각의 (sense of touch)"
+    ],
+    [
+     "olfactory",
+     "후각의 (sense of smell)"
+    ],
+    [
+     "palate",
+     "미각, 미각의 (sense of taste)"
+    ]
+   ],
+   "syn": [
+    [
+     "visual",
+     "시각의, 눈에 보이는"
+    ],
+    [
+     "ocular",
+     "눈의, 접안경"
+    ]
+   ]
+  },
+  {
+   "no": "0003",
+   "word": "appease",
+   "ph": "[əpíːz]",
+   "pos": "동",
+   "mean": "달래다, 완화시키다",
+   "ex": "To <b>appease</b> critics, the wireless industry has launched a $12 million public-education campaign on the drive-time radio.",
+   "exKo": "비평가들을 달래기 위해, 무선 통신업계는 드라이브 타임 라디오에서 1,200만 달러의 공교육 캠페인을 시작했다.",
+   "derived": [],
+   "syn": [
+    [
+     "alleviate",
+     "완화시키다, 덜다"
+    ],
+    [
+     "mitigate",
+     "완화시키다"
+    ]
+   ]
+  },
+  {
+   "no": "0004",
+   "word": "discern",
+   "ph": "[disə́ːrn]",
+   "pos": "동",
+   "mean": "분별하다, 구별하다, 차별하다",
+   "ex": "With her keen intellect, she could <b>discern</b> the subtle nuances of the painting that others might overlook.",
+   "exKo": "그녀는 예리한 지성으로, 다른 이들이 놓치는 작품의 미묘한 세부 사항을 분별할 수 있었다.",
+   "derived": [],
+   "syn": [
+    [
+     "distinguish",
+     "구별하다"
+    ]
+   ]
+  },
+  {
+   "no": "0005",
+   "word": "assimilate",
+   "ph": "[əsíməlèit]",
+   "pos": "동",
+   "mean": "동화시키다, 받아들이다",
+   "ex": "It takes time to <b>assimilate</b> into a new culture, but with patience and an open mind, one can embrace its customs and traditions.",
+   "exKo": "새로운 문화에 동화되는 데에는 시간이 필요하지만, 인내와 개방적인 마음으로 그 문화의 관습과 전통을 받아들일 수 있다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0006",
+   "word": "dissatisfy",
+   "ph": "[dissǽtisfài]",
+   "pos": "동",
+   "mean": "불만족시키다",
+   "ex": "The restaurant's bland food and slow service <b>dissatisfied</b> the customers, prompting them to leave negative reviews online.",
+   "exKo": "식당의 싱거운 음식과 느린 서비스에 고객들을 불만족시켰고, 고객들은 온라인에 부정적인 후기를 남기게 되었다.",
+   "derived": [
+    [
+     "satisfy",
+     "만족시키다"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "0007",
+   "word": "underline",
+   "ph": "[ʌ́ndərlàin]",
+   "pos": "동",
+   "mean": "강조하다, 밑줄을 긋다",
+   "ex": "Her achievements <b>underline</b> the importance of perseverance and dedication in reaching one's goals despite obstacles.",
+   "exKo": "그녀의 성취는 장애물에도 불구하고 목표를 달성하기 위한 인내와 헌신의 중요성을 강조한다.",
+   "derived": [
+    [
+     "⚠ undermine",
+     "(혼동 주의) 약화시키다, 손상시키다"
+    ]
+   ],
+   "syn": [
+    [
+     "stress",
+     "강조하다, 스트레스"
+    ],
+    [
+     "emphasize",
+     "강조하다"
+    ],
+    [
+     "highlight",
+     "강조하다"
+    ]
+   ]
+  },
+  {
+   "no": "0008",
+   "word": "supplementary",
+   "ph": "[sʌ̀pləméntəri]",
+   "pos": "형",
+   "mean": "보충의, 추가의",
+   "ex": "Difficult terminology and content will require <b>supplementary</b> explanation.",
+   "exKo": "어려운 용어나 내용은 보충적인 설명이 필요하다.",
+   "derived": [],
+   "syn": [
+    [
+     "additional",
+     "추가적인"
+    ],
+    [
+     "complementary",
+     "보충의, 보완의"
+    ]
+   ]
+  },
+  {
+   "no": "0009",
+   "word": "via",
+   "ph": "[váiə] [víːə]",
+   "pos": "전",
+   "mean": "~을 통해, ~을 경유하여",
+   "ex": "New and changed business models have emerged, in which cars are shared <b>via</b> apps.",
+   "exKo": "새롭고 변화된 비즈니스 모델들이 등장했으며, 그 안에서 자동차가 앱을 통해 공유된다.",
+   "derived": [],
+   "syn": [
+    [
+     "through",
+     "~을 통해"
+    ],
+    [
+     "by way of",
+     "~을 경유하여"
+    ]
+   ]
+  },
+  {
+   "no": "0010",
+   "word": "following",
+   "ph": "[fálouiŋ]",
+   "pos": "형",
+   "mean": "그 다음의",
+   "ex": "The <b>following</b> instructions must be carefully adhered to in order to complete the experiment accurately.",
+   "exKo": "다음의 지시사항은 실험을 정확하게 완료하기 위해 주의 깊게 준수되어야 한다.",
+   "derived": [
+    [
+     "follow",
+     "따르다"
+    ],
+    [
+     "follower",
+     "추종자"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "0011",
+   "word": "rather",
+   "ph": "[rǽðər]",
+   "pos": "부",
+   "mean": "오히려, 차라리, 약간",
+   "ex": "<b>Rather</b>, I mean to recommend ordering your information intake so that extraneous stuff doesn't eat up your attention.",
+   "exKo": "오히려, 쓸데없는 것들이 당신의 주의를 갉아먹게 하지 않기 위해, 나는 당신의 정보 입수 방식을 정리하라고 권고하고자 한다.",
+   "derived": [],
+   "syn": [
+    [
+     "instead",
+     "대신에, 그 대신에"
+    ],
+    [
+     "preferably",
+     "선호하여"
+    ]
+   ]
+  },
+  {
+   "no": "0012",
+   "word": "humility",
+   "ph": "[hjuːmíləti]",
+   "pos": "명",
+   "mean": "겸손",
+   "ex": "Her first defeat was an early lesson in <b>humility</b>.",
+   "exKo": "그녀의 첫 패배는 일찍이 주어진 겸손에 관한 교훈이었다.",
+   "derived": [],
+   "syn": [
+    [
+     "modesty",
+     "겸손함"
+    ],
+    [
+     "humbleness",
+     "겸손함"
+    ]
+   ]
+  },
+  {
+   "no": "0013",
+   "word": "boldness",
+   "ph": "[bóuldnis]",
+   "pos": "명",
+   "mean": "대담함",
+   "ex": "The artist's masterpiece reflects their <b>boldness</b> in experimenting with vibrant colors and unconventional techniques.",
+   "exKo": "작가의 걸작은 화려한 색상과 관행을 벗어난 기술을 실험하는 그들의 대담함을 반영한다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0014",
+   "word": "outcome",
+   "ph": "[áutkʌ̀m]",
+   "pos": "명",
+   "mean": "결과, 성과",
+   "ex": "The <b>outcome</b> of the negotiations surprised everyone, as both sides reached an agreement without conflict.",
+   "exKo": "협상 결과는 모두를 놀라게 했는데, 이는 양측이 충돌 없이 합의에 도달했기 때문이다.",
+   "derived": [
+    [
+     "income",
+     "소득, 수입"
+    ]
+   ],
+   "syn": [
+    [
+     "result",
+     "결과"
+    ],
+    [
+     "consequence",
+     "결과"
+    ]
+   ]
+  },
+  {
+   "no": "0015",
+   "word": "vulnerable",
+   "ph": "[vʌ́lnərəbl]",
+   "pos": "형",
+   "mean": "취약한, 영향 받기 쉬운",
+   "ex": "Small businesses are often <b>vulnerable</b> to sudden changes in the economy.",
+   "exKo": "소규모 기업은 갑작스러운 경제 변화에 취약한 경우가 많다.",
+   "derived": [],
+   "syn": [
+    [
+     "susceptible",
+     "영향받기 쉬운"
+    ],
+    [
+     "fragile",
+     "쉽게 손상되는"
+    ]
+   ]
+  },
+  {
+   "no": "0016",
+   "word": "integration",
+   "ph": "[ìntəgréiʃən]",
+   "pos": "명",
+   "mean": "통합, 융합",
+   "ex": "The <b>integration</b> of digital tools into traditional classrooms has transformed the way students learn and interact.",
+   "exKo": "디지털 도구의 전통 교실로의 통합은 학생들의 학습 방식 및 소통 방식을 변화시켰다.",
+   "derived": [],
+   "syn": [
+    [
+     "combination",
+     "결합"
+    ],
+    [
+     "merging",
+     "융합"
+    ],
+    [
+     "blending",
+     "혼합"
+    ]
+   ]
+  },
+  {
+   "no": "0017",
+   "word": "compel",
+   "ph": "[kəmpél]",
+   "pos": "동",
+   "mean": "강요하다, (억지로) ~하게 만들다",
+   "ex": "The law may <b>compel</b> companies to disclose their financial records.",
+   "exKo": "그 법은 기업들로 하여금 재무 기록을 공개하도록 강요할 수 있다.",
+   "derived": [
+    [
+     "compelling",
+     "강력한, 주목을 끄는"
+    ]
+   ],
+   "syn": [
+    [
+     "force",
+     "강요하다"
+    ],
+    [
+     "coerce",
+     "강압하다"
+    ],
+    [
+     "oblige",
+     "(의무적으로) 하게 하다"
+    ]
+   ]
+  },
+  {
+   "no": "0018",
+   "word": "deception",
+   "ph": "[disépʃən]",
+   "pos": "명",
+   "mean": "속임수, 사기",
+   "ex": "The whole episode had been a cruel <b>deception</b>.",
+   "exKo": "그 에피소드가 모두 잔인한 속임수였던 것이다.",
+   "derived": [
+    [
+     "deceive",
+     "속이다"
+    ],
+    [
+     "deceptive",
+     "속이는, 기만하는"
+    ]
+   ],
+   "syn": [
+    [
+     "deceit",
+     "속임수, 사기, 기만"
+    ]
+   ]
+  },
+  {
+   "no": "0019",
+   "word": "flexibility",
+   "ph": "[flèksəbíləti]",
+   "pos": "명",
+   "mean": "탄력성, 융통성, 유연성",
+   "ex": "More of them expect and demand <b>flexibility</b>.",
+   "exKo": "그들 중 많은 수가 탄력성을 기대하고 요구한다.",
+   "derived": [
+    [
+     "flexible",
+     "유연한, 잘 구부러지는"
+    ]
+   ],
+   "syn": [
+    [
+     "plasticity",
+     "유연성, 가소성, 적응능력"
+    ]
+   ]
+  },
+  {
+   "no": "0020",
+   "word": "competition",
+   "ph": "[kàmpətíʃən]",
+   "pos": "명",
+   "mean": "경쟁, 대회",
+   "ex": "<b>Competition</b> is getting hotter day by day.",
+   "exKo": "경쟁이 날이 갈수록 치열해지고 있다.",
+   "derived": [],
+   "syn": [
+    [
+     "contest",
+     "대회, 시합"
+    ]
+   ]
+  },
+  {
+   "no": "0021",
+   "word": "transparent",
+   "ph": "[trænspɛ́(ː)ərənt]",
+   "pos": "형",
+   "mean": "투명한",
+   "ex": "Governments should be <b>transparent</b> and allow the media to carry out their professional duties.",
+   "exKo": "정부는 투명해야 하고, 매체가 직업상 의무를 수행할 수 있게 해야 한다.",
+   "derived": [
+    [
+     "opaque",
+     "불투명한"
+    ],
+    [
+     "blur",
+     "흐린, 흐리게 하다"
+    ]
+   ],
+   "syn": [
+    [
+     "clear",
+     "분명한"
+    ]
+   ]
+  },
+  {
+   "no": "0022",
+   "word": "noisy",
+   "ph": "[nɔ́izi]",
+   "pos": "형",
+   "mean": "시끄러운, 시끌벅적한",
+   "ex": "The children were so <b>noisy</b> that I couldn't concentrate on my work.",
+   "exKo": "아이들이 너무 시끄러워서 나는 일에 집중할 수 없었다.",
+   "derived": [
+    [
+     "⚠ nosy",
+     "(혼동 주의) 참견하기 좋아하는, 오지랖 넓은"
+    ]
+   ],
+   "syn": [
+    [
+     "loud",
+     "시끄러운"
+    ]
+   ]
+  },
+  {
+   "no": "0023",
+   "word": "close",
+   "ph": "[klouz]",
+   "pos": "형",
+   "mean": "친밀한, 가까운",
+   "ex": "The store is <b>close</b> to my house.",
+   "exKo": "가게가 내 집에서 가깝다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0024",
+   "word": "incessant",
+   "ph": "[insésnt]",
+   "pos": "형",
+   "mean": "끊임없는, 쉴새없는",
+   "ex": "The <b>incessant</b> public curiosity and consumer demand due to the health benefits with lesser cost has increased the interest in functional foods.",
+   "exKo": "끊임없는 대중의 호기심과 저렴한 비용으로 인한 건강 혜택으로 인해 소비자 수요가 기능성 식품에 대한 관심을 높였다.",
+   "derived": [],
+   "syn": [
+    [
+     "constant",
+     "끊임없는, 거듭되는"
+    ],
+    [
+     "unceasing",
+     "끊임 없는"
+    ]
+   ]
+  },
+  {
+   "no": "0025",
+   "word": "opt",
+   "ph": "[apt]",
+   "pos": "동",
+   "mean": "선택하다, 고르다",
+   "ex": "Given the long travel time, she <b>opted</b> to take the overnight train to save a day of sightseeing.",
+   "exKo": "오랜 이동 시간을 고려해서, 그녀는 관광 시간을 아끼기 위해 야간 열차를 선택했다.",
+   "derived": [
+    [
+     "option",
+     "선택, 선택권, 선택지"
+    ],
+    [
+     "optional",
+     "선택적인, 자유 선택의"
+    ],
+    [
+     "opt in/out",
+     "가입하다/탈퇴하다"
+    ],
+    [
+     "⚠ optimize",
+     "(혼동 주의) 최적화하다"
+    ]
+   ],
+   "syn": [
+    [
+     "choose",
+     "선택하다"
+    ],
+    [
+     "select",
+     "선택하다"
+    ],
+    [
+     "pick",
+     "고르다"
+    ]
+   ]
+  },
+  {
+   "no": "0026",
+   "word": "intermittent",
+   "ph": "[ìntərmítnt]",
+   "pos": "형",
+   "mean": "간헐적인",
+   "ex": "There will be <b>intermittent</b> rain showers in Seoul.",
+   "exKo": "서울에는 간헐적인 비가 내리겠습니다.",
+   "derived": [],
+   "syn": [
+    [
+     "sporadic",
+     "간헐적인, 산발적인"
+    ]
+   ]
+  },
+  {
+   "no": "0027",
+   "word": "elaborate",
+   "ph": "[ilǽbərət]",
+   "pos": "형·동",
+   "mean": "(형) 정교한 / (동) 상세히 말하다",
+   "ex": "Immediately you prepare an <b>elaborate</b> excuse.",
+   "exKo": "즉시 당신은 정말 정교한 사과(변명)을 준비한다.",
+   "derived": [],
+   "syn": [
+    [
+     "sophisticated",
+     "정교한, 복잡한, 세련된"
+    ],
+    [
+     "exquisite",
+     "정교한, 절묘한"
+    ],
+    [
+     "intricate",
+     "복잡한, 미묘한"
+    ]
+   ]
+  },
+  {
+   "no": "0028",
+   "word": "modify",
+   "ph": "[mádəfài]",
+   "pos": "동",
+   "mean": "수정하다, 한정하다",
+   "ex": "The CPO directed designers to <b>modify</b> the product in response to market changes.",
+   "exKo": "최고 제품 책임자는 시장 변화에 대응하기 위해 제품을 수정하라고 디자이너들에게 지시했다.",
+   "derived": [],
+   "syn": [
+    [
+     "alter",
+     "바꾸다"
+    ],
+    [
+     "change",
+     "바꾸다, 변화시키다"
+    ]
+   ]
+  },
+  {
+   "no": "0029",
+   "word": "accept",
+   "ph": "[æksépt]",
+   "pos": "동",
+   "mean": "받아들이다, 받아주다, 믿다",
+   "ex": "She decided to <b>accept</b> the job offer.",
+   "exKo": "그녀는 일자리 제안을 받아들이기로 결정했다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0030",
+   "word": "extension",
+   "ph": "[iksténʃən]",
+   "pos": "명",
+   "mean": "연장, 확대, 내선 번호",
+   "ex": "Please dial <b>extension</b> 204 to reach the sales department.",
+   "exKo": "영업부로 연결하려면 내선 204번을 누르세요.",
+   "derived": [],
+   "syn": [
+    [
+     "expansion",
+     "확장"
+    ],
+    [
+     "prolongation",
+     "연장"
+    ]
+   ]
+  },
+  {
+   "no": "0031",
+   "word": "announce",
+   "ph": "[ənáuns]",
+   "pos": "동",
+   "mean": "발표하다, 선언하다",
+   "ex": "The company will <b>announce</b> the new product next week.",
+   "exKo": "그 회사는 다음 주에 새 제품을 발표할 것이다.",
+   "derived": [],
+   "syn": [
+    [
+     "state",
+     "말하다, 상태, 국가"
+    ],
+    [
+     "declare",
+     "선언하다"
+    ]
+   ]
+  },
+  {
+   "no": "0032",
+   "word": "independent",
+   "ph": "[ìndipéndənt]",
+   "pos": "형",
+   "mean": "독립된, 독립적인",
+   "ex": "The evidence was corroborated by two <b>independent</b> witnesses.",
+   "exKo": "그 증거는 두 명의 독립된 증인들로부터 제공되었다.",
+   "derived": [
+    [
+     "independence",
+     "독립, 광복"
+    ],
+    [
+     "dependent",
+     "의존하는, 의존적인"
+    ]
+   ],
+   "syn": [
+    [
+     "separate",
+     "독립적인"
+    ]
+   ]
+  },
+  {
+   "no": "0033",
+   "word": "adaptable",
+   "ph": "[ədǽptəbl]",
+   "pos": "형",
+   "mean": "적응할 수 있는, 유연한",
+   "ex": "She is highly <b>adaptable</b> and can thrive in any environment.",
+   "exKo": "그녀는 매우 적응력이 있어 어떤 환경에서도 성공할 수 있다.",
+   "derived": [],
+   "syn": [
+    [
+     "adjustable",
+     "조절 가능한"
+    ],
+    [
+     "versatile",
+     "다재다능한"
+    ]
+   ]
+  },
+  {
+   "no": "0034",
+   "word": "publicize",
+   "ph": "[pʌ́bləsàiz]",
+   "pos": "동",
+   "mean": "알리다, 광고하다",
+   "ex": "They flew to Europe to <b>publicize</b> the plight of the refugees.",
+   "exKo": "그들은 난민들의 곤경을 널리 알리기 위해 유럽으로 날아갔다.",
+   "derived": [],
+   "syn": [
+    [
+     "advertise",
+     "광고하다"
+    ]
+   ]
+  },
+  {
+   "no": "0035",
+   "word": "opulent",
+   "ph": "[ápjulənt]",
+   "pos": "형",
+   "mean": "호화로운, 풍부한, 부유한",
+   "ex": "Before the couple experienced parenthood, their four-bedroom house seemed unnecessarily <b>opulent</b>.",
+   "exKo": "부부가 부모가 되기 전에는 침실 4개짜리 집이 불필요하게 호화로워 보였다.",
+   "derived": [],
+   "syn": [
+    [
+     "luxurious",
+     "호화로운"
+    ],
+    [
+     "lavish",
+     "사치스러운, 풍부한"
+    ],
+    [
+     "sumptuous",
+     "호화로운"
+    ]
+   ]
+  },
+  {
+   "no": "0036",
+   "word": "formidable",
+   "ph": "[fɔ́ːrmidəbl]",
+   "pos": "형",
+   "mean": "무시무시한, 엄청난, 어마어마한",
+   "ex": "She was one of the most <b>formidable</b> intellects of her time.",
+   "exKo": "그녀는 당대에 가장 엄청난 지적 능력을 지닌 인물들 중 한 명이었다.",
+   "derived": [],
+   "syn": [
+    [
+     "dreadful",
+     "무서운, 끔찍한"
+    ],
+    [
+     "intimidating",
+     "겁주는, 무서운"
+    ]
+   ]
+  },
+  {
+   "no": "0037",
+   "word": "solid",
+   "ph": "[sálid]",
+   "pos": "형",
+   "mean": "단단한, 견고한, 고체의",
+   "ex": "He built a <b>solid</b> foundation for his career through years of hard work and dedication.",
+   "exKo": "그는 수년간의 노력과 헌신으로 견고한 경력을 위한 기반을 다졌다.",
+   "derived": [
+    [
+     "solidity",
+     "견고함, 확실함"
+    ]
+   ],
+   "syn": [
+    [
+     "firm",
+     "탄탄한, 기업"
+    ],
+    [
+     "robust",
+     "튼튼한, 건강한"
+    ]
+   ]
+  },
+  {
+   "no": "0038",
+   "word": "technician",
+   "ph": "[tekníʃən]",
+   "pos": "명",
+   "mean": "기술자, 기사",
+   "ex": "The <b>technician</b> arrived promptly to fix the broken air conditioner.",
+   "exKo": "기술자가 고장난 에어컨을 수리하기 위해 즉시 도착했다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0039",
+   "word": "form",
+   "ph": "[fɔːrm]",
+   "pos": "명·동",
+   "mean": "(명) 형태, (서류) 양식 / (동) 형성하다",
+   "ex": "Send details of your complaint to our feedback contact <b>form</b>.",
+   "exKo": "불만 사항의 세부 내용을 저희 피드백 문의 양식에 보내주세요.",
+   "derived": [
+    [
+     "tax form",
+     "세금 신고서"
+    ],
+    [
+     "application form",
+     "신청서"
+    ],
+    [
+     "registration form",
+     "등록 양식"
+    ],
+    [
+     "consent form",
+     "동의서"
+    ]
+   ],
+   "syn": [
+    [
+     "shape",
+     "형태"
+    ],
+    [
+     "structure",
+     "구조"
+    ]
+   ]
+  },
+  {
+   "no": "0040",
+   "word": "gratification",
+   "ph": "[grӕtəfikéiʃən]",
+   "pos": "명",
+   "mean": "만족, 희열, 기쁨",
+   "ex": "His success is a great <b>gratification</b> to us all.",
+   "exKo": "그의 성공은 우리 모두에게 큰 기쁨이다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0041",
+   "word": "liveliness",
+   "ph": "[láivlinis]",
+   "pos": "명",
+   "mean": "쾌활함, 활발함",
+   "ex": "The beauty of the game lies in its <b>liveliness</b>.",
+   "exKo": "그 경기의 맛은 활발한 데에 있다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0042",
+   "word": "tranquil",
+   "ph": "[trǽŋkwil]",
+   "pos": "형",
+   "mean": "고요한, 평온한",
+   "ex": "The house is located on the north outskirts of a small <b>tranquil</b> village.",
+   "exKo": "그 집은 어느 작고 고요한 마을의 북쪽 외곽에 위치해 있다.",
+   "derived": [],
+   "syn": [
+    [
+     "serene",
+     "고요한, 잔잔한"
+    ],
+    [
+     "calm",
+     "고요한"
+    ]
+   ]
+  },
+  {
+   "no": "0043",
+   "word": "satisfaction",
+   "ph": "[sæ̀tisfǽkʃən]",
+   "pos": "명",
+   "mean": "만족, 충족",
+   "ex": "The company is trying to improve customer <b>satisfaction</b>.",
+   "exKo": "그[본] 회사에서는 고객 만족을 개선하려고 애쓰고 있다.",
+   "derived": [
+    [
+     "satisfactory",
+     "만족스러운"
+    ],
+    [
+     "dissatisfy",
+     "불만족시키다"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "0044",
+   "word": "devastating",
+   "ph": "[dévəstèitiŋ]",
+   "pos": "형",
+   "mean": "(대단히) 파괴적인, (엄청나게) 충격적인",
+   "ex": "Noise pollution has <b>devastating</b> consequences for wildlife in the sea.",
+   "exKo": "소음 공해는 바다 속 야생 동물들에게 파괴적인 결과를 가져옵니다.",
+   "derived": [],
+   "syn": [
+    [
+     "harmful",
+     "해로운, 유해한, 해가 되는"
+    ],
+    [
+     "damaging",
+     "손해를 끼치는, 해로운, 불리한"
+    ],
+    [
+     "destructive",
+     "파괴적인, 해로운"
+    ],
+    [
+     "disastrous",
+     "피해가 막심한, 비참한"
+    ]
+   ]
+  },
+  {
+   "no": "0045",
+   "word": "efficiency",
+   "ph": "[ifíʃənsi]",
+   "pos": "명",
+   "mean": "효율, 능률, 능력",
+   "ex": "The technology, economy, and <b>efficiency</b> of printing has progressed to the point where color advertisements are no longer so rare.",
+   "exKo": "기술, 경제, 그리고 인쇄의 효율성은 색 광고가 더 이상 희귀하지 않은 지점까지 발전해왔다.",
+   "derived": [
+    [
+     "efficient",
+     "능률적인"
+    ]
+   ],
+   "syn": [
+    [
+     "efficacy",
+     "효험, 효능, 유효성"
+    ],
+    [
+     "potency",
+     "효능, 효력, 권력"
+    ]
+   ]
+  },
+  {
+   "no": "0046",
+   "word": "agriculture",
+   "ph": "[ǽgrəkʌ̀ltʃər]",
+   "pos": "명",
+   "mean": "농업, 농사",
+   "ex": "Working in <b>agriculture</b> requires substantial and long-term investments.",
+   "exKo": "농업에 종사하는 것은 상당한 그리고 장기적인 투자를 요구한다.",
+   "derived": [],
+   "syn": [
+    [
+     "farming",
+     "농사"
+    ],
+    [
+     "cultivation",
+     "경작"
+    ]
+   ]
+  },
+  {
+   "no": "0047",
+   "word": "fix",
+   "ph": "[fiks]",
+   "pos": "명·동",
+   "mean": "(명) 해결책 / (동) 고치다, 해결하다, 고정하다",
+   "ex": "His solution to the problem was a temporary <b>fix</b>, not a long-term solution.",
+   "exKo": "그의 문제 해결책은 일시적인 해결책이었으며 장기적인 해결책은 아니었다.",
+   "derived": [],
+   "syn": [
+    [
+     "repair",
+     "고치다"
+    ],
+    [
+     "settle",
+     "해결하다, 정착하다"
+    ],
+    [
+     "anchor",
+     "고정하다"
+    ]
+   ]
+  }
+ ]
+}
