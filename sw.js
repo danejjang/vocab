@@ -1,5 +1,5 @@
 // 오프라인에서도 열리도록 앱 파일을 저장해 둡니다.
-const CACHE = 'vocab-v2';
+const CACHE = 'vocab-v3';
 const FILES = ['./', './index.html', './manifest.json', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', e => {
@@ -17,7 +17,7 @@ self.addEventListener('activate', e => {
 self.addEventListener('fetch', e => {
   if (e.request.method !== 'GET') return;
   e.respondWith(
-    fetch(e.request)
+    fetch(e.request, {cache: 'no-cache'})
       .then(res => {
         const copy = res.clone();
         caches.open(CACHE).then(c => c.put(e.request, copy));
