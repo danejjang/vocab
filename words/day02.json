@@ -1,0 +1,1027 @@
+{
+ "day": "DAY 02",
+ "words": [
+  {
+   "no": "0051",
+   "word": "apprehend",
+   "ph": "[æ̀prihénd]",
+   "pos": "동",
+   "mean": "파악하다, 이해하다, 체포하다",
+   "ex": "The police failed to <b>apprehend</b> the culprit.",
+   "exKo": "경찰은 범인을 체포하는 데 실패했다.",
+   "derived": [],
+   "syn": [
+    [
+     "arrest",
+     "체포하다"
+    ]
+   ]
+  },
+  {
+   "no": "0052",
+   "word": "encompass",
+   "ph": "[inkʌ́mpəs]",
+   "pos": "동",
+   "mean": "포함하다, 에워싸다, 달성하다",
+   "ex": "The project will <b>encompass</b> multiple phases, including planning, implementation, and evaluation.",
+   "exKo": "이 프로젝트는 계획, 실행 및 평가를 포함한 여러 단계를 포함할 것이다.",
+   "derived": [],
+   "syn": [
+    [
+     "include",
+     "포함하다"
+    ],
+    [
+     "enclose",
+     "둘러싸다"
+    ],
+    [
+     "contain",
+     "포함하다"
+    ],
+    [
+     "involve",
+     "포함하다, 관련시키다"
+    ]
+   ]
+  },
+  {
+   "no": "0053",
+   "word": "grasp",
+   "ph": "[græsp]",
+   "pos": "동",
+   "mean": "이해하다, 잡다, 파악하다",
+   "ex": "I got one and leafed through it and <b>grasped</b> the main idea of the text.",
+   "exKo": "나는 하나를 받아 그것을 훑어보았고, 그 문서의 주제를 파악했다.",
+   "derived": [],
+   "syn": [
+    [
+     "understand",
+     "이해하다, 알다"
+    ],
+    [
+     "comprehend",
+     "이해하다, 알아보다"
+    ]
+   ]
+  },
+  {
+   "no": "0054",
+   "word": "pervasive",
+   "ph": "[pərvéisiv]",
+   "pos": "형",
+   "mean": "만연하는, 스며드는",
+   "ex": "The influence of Freud is <b>pervasive</b> in her work.",
+   "exKo": "그녀의 작품에는 프로이드의 영향이 널리 스며들어 있다.",
+   "derived": [],
+   "syn": [
+    [
+     "widespread",
+     "널리 보급된, 넓게 펼쳐진"
+    ],
+    [
+     "ubiquitous",
+     "어디에나 있는, 만연한"
+    ],
+    [
+     "prevalent",
+     "만연한, 널리 퍼진"
+    ]
+   ]
+  },
+  {
+   "no": "0055",
+   "word": "exhibition",
+   "ph": "[èksəbíʃən]",
+   "pos": "명",
+   "mean": "전시회, 전시",
+   "ex": "The photography <b>exhibition</b> featured stunning images from remote locations around the world.",
+   "exKo": "그 사진 전시회는 전 세계의 외딴 지역에서 촬영된 멋진 이미지들을 선보였다.",
+   "derived": [
+    [
+     "fair",
+     "박람회, 전시회"
+    ],
+    [
+     "display",
+     "진열, 전시"
+    ],
+    [
+     "bazaar",
+     "장터, 자선 전시 행사"
+    ]
+   ],
+   "syn": [
+    [
+     "show",
+     "전시회"
+    ],
+    [
+     "presentation",
+     "제시"
+    ]
+   ]
+  },
+  {
+   "no": "0056",
+   "word": "ubiquitous",
+   "ph": "[juːbíkwətəs]",
+   "pos": "형",
+   "mean": "어디에나 있는, 편재하는",
+   "ex": "Now sand is not only on Earth, but sand is <b>ubiquitous</b> throughout the universe.",
+   "exKo": "모래는 지구에만 있는 게 아니죠. 하지만 모래는 이 우주 어디든지 있어요.",
+   "derived": [],
+   "syn": [
+    [
+     "omnipresent",
+     "어디에나 있는"
+    ]
+   ]
+  },
+  {
+   "no": "0057",
+   "word": "constant",
+   "ph": "[kánstənt]",
+   "pos": "형",
+   "mean": "끊임없는, 거듭되는",
+   "ex": "The <b>constant</b> rain made it difficult to go outside.",
+   "exKo": "끊임없는 비로 인해 밖으로 나가기가 어려웠다.",
+   "derived": [],
+   "syn": [
+    [
+     "incessant",
+     "끊임없는"
+    ],
+    [
+     "unceasing",
+     "끊임없는"
+    ]
+   ]
+  },
+  {
+   "no": "0058",
+   "word": "disastrous",
+   "ph": "[dizǽstrəs]",
+   "pos": "형",
+   "mean": "비참한, 형편없는",
+   "ex": "The oil spill had <b>disastrous</b> consequences for the local ecosystem, causing widespread environmental damage.",
+   "exKo": "유출된 석유는 현지 생태계에 대해 비참한 결과를 초래하여 광범위한 환경 파괴를 일으켰다.",
+   "derived": [
+    [
+     "disaster",
+     "재난, 재앙"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "0059",
+   "word": "vex",
+   "ph": "[veks]",
+   "pos": "동",
+   "mean": "성가시게 하다, 짜증나게 하다",
+   "ex": "These problems <b>vex</b> the mind of Europe.",
+   "exKo": "이러한 문제가 유럽인들의 마음을 성가시게 하고 있다.",
+   "derived": [],
+   "syn": [
+    [
+     "distress",
+     "괴롭히다, 고통스럽게 하다"
+    ],
+    [
+     "bother",
+     "귀찮게 하다, 괴롭히다"
+    ],
+    [
+     "annoy",
+     "짜증나게 하다"
+    ]
+   ]
+  },
+  {
+   "no": "0060",
+   "word": "callous",
+   "ph": "[kǽləs]",
+   "pos": "형",
+   "mean": "냉담한, 굳어진",
+   "ex": "That meant they were the most <b>callous</b> and the most aggressive of the entire prison population.",
+   "exKo": "즉, 제 연구 대상들이 재소자들 중에서도 가장 냉담하고 공격적이란 뜻이었습니다.",
+   "derived": [],
+   "syn": [
+    [
+     "apathetic",
+     "무관심한, 냉담한"
+    ]
+   ]
+  },
+  {
+   "no": "0061",
+   "word": "confident",
+   "ph": "[kánfədənt]",
+   "pos": "형",
+   "mean": "자신 있는, 확신 있는",
+   "ex": "You decide how to present a <b>confident</b>, cheerful face, what to wear, what to do with your hands, and so on.",
+   "exKo": "당신은 어떻게 자신있게 보이고, 밝은 얼굴을 하고, 어떤 옷을 입고, 어떤 식으로 해야 하는지 등등을 결정한다.",
+   "derived": [],
+   "syn": [
+    [
+     "self-assured",
+     "자신이 있는, 자기 만족의, 자신 있는"
+    ]
+   ]
+  },
+  {
+   "no": "0062",
+   "word": "insulated",
+   "ph": "[ínsəlèitid]",
+   "pos": "형",
+   "mean": "절연 처리가 된, 단열 처리된",
+   "ex": "The room is <b>insulated</b> against noise.",
+   "exKo": "그 방은 방음되어 있다.",
+   "derived": [],
+   "syn": [
+    [
+     "isolate",
+     "고립된, 분리된"
+    ],
+    [
+     "sealed",
+     "밀폐된"
+    ]
+   ]
+  },
+  {
+   "no": "0063",
+   "word": "recyclable",
+   "ph": "[riːsáikləbl]",
+   "pos": "형",
+   "mean": "재활용할 수 있는",
+   "ex": "We package our products in <b>recyclable</b> materials.",
+   "exKo": "우리는 상품을 재활용 가능 재료들로 포장한다.",
+   "derived": [],
+   "syn": [
+    [
+     "reusable",
+     "재사용할 수 있는"
+    ]
+   ]
+  },
+  {
+   "no": "0064",
+   "word": "accelerate",
+   "ph": "[æksélərèit]",
+   "pos": "동",
+   "mean": "가속하다, 빨라지다, 촉진시키다",
+   "ex": "Iowa's agricultural productivity has <b>accelerated</b> its soil formation.",
+   "exKo": "아이오와의 농업 생산량은 그것의 토양 형성을 촉진시켜 왔다.",
+   "derived": [],
+   "syn": [
+    [
+     "expedite",
+     "촉진시키다, 신속한, 진척시키다"
+    ]
+   ]
+  },
+  {
+   "no": "0065",
+   "word": "calculate",
+   "ph": "[kǽlkjulèit]",
+   "pos": "동",
+   "mean": "계산하다, 산출하다, 추정하다, 추산하다",
+   "ex": "This formula is used to <b>calculate</b> the area of a circle.",
+   "exKo": "이 공식은 원의 면적을 계산하는 데 쓰인다.",
+   "derived": [],
+   "syn": [
+    [
+     "estimate",
+     "추산하다"
+    ]
+   ]
+  },
+  {
+   "no": "0066",
+   "word": "relieve",
+   "ph": "[rilíːv]",
+   "pos": "동",
+   "mean": "안정시키다, 완화시키다",
+   "ex": "She watches television to <b>relieve</b> the monotony of everyday life.",
+   "exKo": "그녀는 일상생활의 단조로움을 덜기 위해 텔레비전을 본다.",
+   "derived": [
+    [
+     "relief",
+     "구조, 안도, 완화"
+    ]
+   ],
+   "syn": [
+    [
+     "ease",
+     "덜다, 진정시키다"
+    ]
+   ]
+  },
+  {
+   "no": "0067",
+   "word": "shun",
+   "ph": "[ʃʌn]",
+   "pos": "동",
+   "mean": "피하다 (shun away from)",
+   "ex": "The school bully did not know what it was like to be <b>shunned</b> by the other students in the class.",
+   "exKo": "그 학교 불량배는 반에서 다른 학생들로부터 외면 당하는 것이 어떤 것인지 알지 못했다.",
+   "derived": [],
+   "syn": [
+    [
+     "avert",
+     "피하다, 회피하다, 막다, 방지, 모면"
+    ],
+    [
+     "avoid",
+     "피하다, 회피하다, 막다"
+    ],
+    [
+     "circumvent",
+     "회피하다"
+    ]
+   ]
+  },
+  {
+   "no": "0068",
+   "word": "logical",
+   "ph": "[ládʒikəl]",
+   "pos": "형",
+   "mean": "논리적인, 타당한",
+   "ex": "The boy was not able to give me a <b>logical</b> explanation for his behavior.",
+   "exKo": "그 소년은 자신의 행동에 대한 논리적인 해명을 내게 할 수 없었다.",
+   "derived": [
+    [
+     "⚠ logistical",
+     "(혼동 주의) 수송의, 운송의"
+    ]
+   ],
+   "syn": [
+    [
+     "coherent",
+     "논리적인, 일관성 있는"
+    ],
+    [
+     "rational",
+     "합리적인, 이성적인, 논리적인"
+    ]
+   ]
+  },
+  {
+   "no": "0069",
+   "word": "warn",
+   "ph": "[wɔːrn]",
+   "pos": "동",
+   "mean": "경고하다, 주의를 주다",
+   "ex": "It seems only right to <b>warn</b> you of the risk.",
+   "exKo": "당신에게 그 위험에 대해 경고를 하는 것이 전적으로 옳은 일인 것 같다.",
+   "derived": [],
+   "syn": [
+    [
+     "alert",
+     "경고하다, 경계시키다"
+    ]
+   ]
+  },
+  {
+   "no": "0070",
+   "word": "candid",
+   "ph": "[kǽndid]",
+   "pos": "형",
+   "mean": "솔직한, 진솔한",
+   "ex": "Let's open our minds to each other and have a <b>candid</b> conversation.",
+   "exKo": "우리 서로에게 마음의 문을 열고 솔직한 대화를 나눠보자.",
+   "derived": [],
+   "syn": [
+    [
+     "frank",
+     "솔직한, 터놓은"
+    ],
+    [
+     "unreserved",
+     "격의 없는"
+    ]
+   ]
+  },
+  {
+   "no": "0071",
+   "word": "conspicuous",
+   "ph": "[kənspíkjuəs]",
+   "pos": "형",
+   "mean": "눈에 띄는, 과시적인",
+   "ex": "It had been known for a long time that Yellowstone was volcanic in nature and the one thing about volcanoes is that they are generally <b>conspicuous</b>.",
+   "exKo": "옐로우스톤이 본래 화산성이라는 것은 오래 전부터 알려져 있었고 화산의 한 가지 사실은 그것들이 일반적으로 눈에 잘 띈다는 것이다.",
+   "derived": [],
+   "syn": [
+    [
+     "noticeable",
+     "눈에 띄는, 이목을 끄는"
+    ],
+    [
+     "apparent",
+     "분명한, 명백한, 뚜렷한"
+    ],
+    [
+     "obvious",
+     "명확한, 분명한"
+    ]
+   ]
+  },
+  {
+   "no": "0072",
+   "word": "vaporous",
+   "ph": "[véipərəs]",
+   "pos": "형",
+   "mean": "수증기가 가득한, 공허한",
+   "ex": "It was all based on <b>vaporous</b> \"hope\".",
+   "exKo": "그것은 모두 헛된 희망에 기초한 것이었다.",
+   "derived": [
+    [
+     "vapor",
+     "수증기"
+    ],
+    [
+     "evaporate",
+     "증발하다"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "0073",
+   "word": "noticeable",
+   "ph": "[nóutisəbl]",
+   "pos": "형",
+   "mean": "눈에 띄는",
+   "ex": "This effect is particularly <b>noticeable</b> in younger patients.",
+   "exKo": "이런 효과는 젊은 환자들에게서 특히 뚜렷이 나타난다.",
+   "derived": [],
+   "syn": [
+    [
+     "obvious",
+     "명백한, 분명한"
+    ],
+    [
+     "conspicuous",
+     "눈에 띄는, 과시적인"
+    ],
+    [
+     "apparent",
+     "명백한"
+    ]
+   ]
+  },
+  {
+   "no": "0074",
+   "word": "eventually",
+   "ph": "[ivéntʃuəli]",
+   "pos": "부",
+   "mean": "결국, 마침내",
+   "ex": "If you keep going, you would <b>eventually</b> understand it from the context.",
+   "exKo": "당신이 계속해서 한다면, 당신은 결국 그것을 문맥으로부터 이해할 것이다.",
+   "derived": [],
+   "syn": [
+    [
+     "ultimately",
+     "마침내, 결국"
+    ],
+    [
+     "in the long run",
+     "결국에는, 결국"
+    ],
+    [
+     "at last",
+     "마침내, 드디어"
+    ]
+   ]
+  },
+  {
+   "no": "0075",
+   "word": "ensure",
+   "ph": "[inʃúər]",
+   "pos": "동",
+   "mean": "보장하다, 확실히 하다",
+   "ex": "Parents must <b>ensure</b> their children wear seat belts every time they ride in a vehicle for safety.",
+   "exKo": "부모는 아이들이 차에 탈 때마다, 안전을 위해 아이들이 반드시 안전벨트를 매도록 확인해야 한다.",
+   "derived": [],
+   "syn": [
+    [
+     "make sure",
+     "확인하다"
+    ],
+    [
+     "confirm",
+     "확인하다"
+    ],
+    [
+     "guarantee",
+     "보장하다"
+    ]
+   ]
+  },
+  {
+   "no": "0076",
+   "word": "tentatively",
+   "ph": "[téntətivli]",
+   "pos": "부",
+   "mean": "임시로, 시험적으로",
+   "ex": "It's <b>tentatively</b> scheduled for July.",
+   "exKo": "잠정적으로 7월로 예정되어 있습니다.",
+   "derived": [],
+   "syn": [
+    [
+     "provisionally",
+     "잠정적으로, 임시로"
+    ],
+    [
+     "on trial",
+     "시험적으로"
+    ]
+   ]
+  },
+  {
+   "no": "0077",
+   "word": "nearby",
+   "ph": "[níərbái]",
+   "pos": "형·부",
+   "mean": "(형) 인근에 있는 / (부) 인근에서",
+   "ex": "He collects goat manure from a <b>nearby</b> village, dries it and keeps it in sacks.",
+   "exKo": "그는 인근의 한 마을에서 염소 거름을 모아서 건조시켜 자루에 담는다.",
+   "derived": [],
+   "syn": [
+    [
+     "closest",
+     "가장 가까운, 가장 근접한"
+    ],
+    [
+     "neighboring",
+     "근처에 사는, 인근의, 접하고 있는"
+    ]
+   ]
+  },
+  {
+   "no": "0078",
+   "word": "excavate",
+   "ph": "[ékskəvèit]",
+   "pos": "동",
+   "mean": "~을 발굴하다, 파서 만들다",
+   "ex": "I came to see these documents as relics of a sensibility now dead and buried, which needed to be <b>excavated</b>.",
+   "exKo": "나는 이 문서들을 발굴되어야 하는 죽어서 묻혀 있는 감성의 유물로 보았다.",
+   "derived": [],
+   "syn": [
+    [
+     "unearth",
+     "발굴하다, 파내다"
+    ],
+    [
+     "dig",
+     "파내다"
+    ],
+    [
+     "exhume",
+     "파내다, 발굴하다"
+    ]
+   ]
+  },
+  {
+   "no": "0079",
+   "word": "grocery",
+   "ph": "[gróusəri]",
+   "pos": "명",
+   "mean": "식료품, 잡화, 식료품점",
+   "ex": "He visits the local <b>grocery</b> store every weekend to stock up on fresh fruits and vegetables.",
+   "exKo": "그는 신선한 과일과 채소를 사기 위해 매주 지역 식료품점에 간다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0080",
+   "word": "celebrate",
+   "ph": "[séləbrèit]",
+   "pos": "동",
+   "mean": "축하하다, 기념하다",
+   "ex": "They gathered to <b>celebrate</b> her graduation.",
+   "exKo": "그들은 그녀의 졸업을 축하하기 위해 모였다.",
+   "derived": [
+    [
+     "celebrated",
+     "유명한"
+    ],
+    [
+     "celebrity",
+     "유명인사"
+    ]
+   ],
+   "syn": [
+    [
+     "commemorate",
+     "기념하다"
+    ],
+    [
+     "observe",
+     "(기념일 등을) 지키다"
+    ],
+    [
+     "honor",
+     "기리다"
+    ]
+   ]
+  },
+  {
+   "no": "0081",
+   "word": "sheer",
+   "ph": "[ʃiər]",
+   "pos": "형",
+   "mean": "완전한, 순전한",
+   "ex": "Her <b>sheer</b> determination propelled her to achieve her goals against all odds.",
+   "exKo": "그녀의 순수한 결연함이 그녀를 모든 어려움을 이겨내며 목표를 달성하도록 격려했다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0082",
+   "word": "occasional",
+   "ph": "[əkéiʒənəl]",
+   "pos": "형",
+   "mean": "가끔의, 때때로의",
+   "ex": "We've had <b>occasional</b> rain, so the temperature is cool enough.",
+   "exKo": "가끔 비가 와서, 기온이 충분히 선선해.",
+   "derived": [
+    [
+     "occasion",
+     "행사, 일, 경우"
+    ]
+   ],
+   "syn": [
+    [
+     "sporadic",
+     "간헐적인"
+    ]
+   ]
+  },
+  {
+   "no": "0083",
+   "word": "manageable",
+   "ph": "[mǽnidʒəbl]",
+   "pos": "형",
+   "mean": "관리할 수 있는",
+   "ex": "With proper time management, the workload became more <b>manageable</b>.",
+   "exKo": "적절한 시간 관리로 일의 양이 더 다루기 쉬워졌다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0084",
+   "word": "apathetic",
+   "ph": "[æ̀pəθétik]",
+   "pos": "형",
+   "mean": "무관심한, 냉담한",
+   "ex": "The people will also become selfish and <b>apathetic</b> toward their coworkers and the organization.",
+   "exKo": "사람들은 이기적이게 되고 동료와 조직에 대해 무관심해질 것이다.",
+   "derived": [],
+   "syn": [
+    [
+     "indifferent",
+     "무관심한, 무관한"
+    ],
+    [
+     "uninterested",
+     "무관심한, 냉담한"
+    ]
+   ]
+  },
+  {
+   "no": "0085",
+   "word": "plain",
+   "ph": "[plein]",
+   "pos": "형·명",
+   "mean": "(형) 단순한 / (명) 평원, 평지",
+   "ex": "Having no letter paper with lines on it, I just wrote the letter on <b>plain</b> paper.",
+   "exKo": "선이 그어진 편지지가 없어서 나는 그냥 맨 종이에 그 편지를 썼다.",
+   "derived": [],
+   "syn": [
+    [
+     "simple",
+     "단순한"
+    ],
+    [
+     "ordinary",
+     "보통의, 평범한"
+    ]
+   ]
+  },
+  {
+   "no": "0086",
+   "word": "distinguish",
+   "ph": "[distíŋgwiʃ]",
+   "pos": "동",
+   "mean": "구별하다",
+   "ex": "The device also <b>distinguishes</b> colors as those in traffic lights or money.",
+   "exKo": "그 기기는 또한 신호등이나 돈에 있는 것과 같은 색깔을 구별합니다.",
+   "derived": [],
+   "syn": [
+    [
+     "discriminate",
+     "차별하다, 식별하다"
+    ],
+    [
+     "discern",
+     "식별하다, 분간하다, 알아차리다"
+    ]
+   ]
+  },
+  {
+   "no": "0087",
+   "word": "strengthen",
+   "ph": "[stréŋkθən]",
+   "pos": "동",
+   "mean": "강화되다, 강력해지다",
+   "ex": "The exercises are designed to <b>strengthen</b> your stomach muscles.",
+   "exKo": "그 운동은 복근을 강화하도록 만들어진 것이다.",
+   "derived": [],
+   "syn": [
+    [
+     "solidify",
+     "공고히 하다"
+    ]
+   ]
+  },
+  {
+   "no": "0088",
+   "word": "undermine",
+   "ph": "[ʌ̀ndərmáin]",
+   "pos": "동",
+   "mean": "약화시키다, 기반을 약화시키다",
+   "ex": "They take students' attention away from their lessons and <b>undermine</b> discipline.",
+   "exKo": "휴대전화는 학생들로 하여금 수업에 집중하지 못하게 하며 규율을 약화시킨다.",
+   "derived": [
+    [
+     "⚠ underline",
+     "(혼동 주의) 강조하다, 밑줄긋다"
+    ]
+   ],
+   "syn": [
+    [
+     "weaken",
+     "약화시키다, 약해지다, ~을 약하게 하다"
+    ],
+    [
+     "debilitate",
+     "약화시키다"
+    ],
+    [
+     "enfeeble",
+     "쇠약하게 하다, 약하게 하다"
+    ]
+   ]
+  },
+  {
+   "no": "0089",
+   "word": "abandon",
+   "ph": "[əbǽndən]",
+   "pos": "동·명",
+   "mean": "(동) 버리다 / (명) 방종",
+   "ex": "He gave the order to <b>abandon</b> ship.",
+   "exKo": "그는 배를 포기하고 떠나라는 명령을 내렸다.",
+   "derived": [],
+   "syn": [
+    [
+     "give up",
+     "포기하다, 버리다"
+    ]
+   ]
+  },
+  {
+   "no": "0090",
+   "word": "scornful",
+   "ph": "[skɔ́ːrnfəl]",
+   "pos": "형",
+   "mean": "경멸하는, 멸시하는, 비웃는",
+   "ex": "He was <b>scornful</b> of journalists who do not report fairly.",
+   "exKo": "그는 공정하게 보도하지 않는 기자들을 경멸했다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0091",
+   "word": "overwhelmed",
+   "ph": "[òuvərhwélmd]",
+   "pos": "형",
+   "mean": "압도된",
+   "ex": "She felt <b>overwhelmed</b> by the amount of work that needed to be done before the deadline.",
+   "exKo": "마감일 전에 해야 할 작업량에 그녀는 압도되었다고 느꼈다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0092",
+   "word": "saturate",
+   "ph": "[sǽtʃərèit]",
+   "pos": "동",
+   "mean": "포화시키다, 흠뻑 적시다",
+   "ex": "The storm <b>saturated</b> the entire valley, leaving roads flooded and fields completely waterlogged.",
+   "exKo": "폭풍이 계곡 전체를 흠뻑 적셔서, 도로가 침수되고 들판이 완전히 물에 잠겼다.",
+   "derived": [
+    [
+     "saturated fat",
+     "포화지방"
+    ],
+    [
+     "saturated market",
+     "포화 시장"
+    ],
+    [
+     "unsaturated solution",
+     "불포화 용액"
+    ]
+   ],
+   "syn": [
+    [
+     "soak",
+     "흠뻑 적시다"
+    ],
+    [
+     "drench",
+     "흠뻑 적시다"
+    ],
+    [
+     "flood",
+     "범람시키다"
+    ],
+    [
+     "permeate",
+     "스며들다"
+    ]
+   ]
+  },
+  {
+   "no": "0093",
+   "word": "depressed",
+   "ph": "[diprést]",
+   "pos": "형",
+   "mean": "우울한",
+   "ex": "The rainy weather often makes people feel <b>depressed</b>.",
+   "exKo": "비 오는 날씨는 사람들이 우울해지는 경우가 많습니다.",
+   "derived": [
+    [
+     "depression",
+     "우울증, (경제) 공황"
+    ],
+    [
+     "depress",
+     "낙담시키다, 억누르다"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "0094",
+   "word": "optimistic",
+   "ph": "[àptəmístik]",
+   "pos": "형",
+   "mean": "낙관적인, 긍정적인",
+   "ex": "There's a lot of attention paid to this question of whether it's better to have an <b>optimistic</b> or pessimistic lens.",
+   "exKo": "낙관적인 인식을 가지는 것이 나을지, 부정적인 인식을 가지는 것이 나을지에 대한 문제에 많은 관심이 있다.",
+   "derived": [],
+   "syn": [
+    [
+     "sanguine",
+     "낙천적인, 쾌활한"
+    ]
+   ]
+  },
+  {
+   "no": "0095",
+   "word": "compulsory",
+   "ph": "[kəmpʌ́lsəri]",
+   "pos": "형",
+   "mean": "강제적인, 의무적인",
+   "ex": "Schooling is <b>compulsory</b> for all children in the United States, but the age range for which school attendance is required varies from state to state.",
+   "exKo": "미국의 모든 아동에게 의무적인 교육이지만, 학교 출석이 요구되는 연령대는 주마다 다르다.",
+   "derived": [],
+   "syn": [
+    [
+     "mandatory",
+     "의무적인"
+    ],
+    [
+     "obligatory",
+     "의무적인, 의무의"
+    ]
+   ]
+  },
+  {
+   "no": "0096",
+   "word": "thereby",
+   "ph": "[ðɛ̀ərbái]",
+   "pos": "부",
+   "mean": "그로 인해, 그렇게 함으로써",
+   "ex": "She forgot her umbrella, and <b>thereby</b> got soaked walking through the heavy rain.",
+   "exKo": "그녀는 우산을 잊어버려서, 그로 인해 폭우 속에서 흠뻑 젖었다.",
+   "derived": [],
+   "syn": [
+    [
+     "thus",
+     "그렇게 해서"
+    ],
+    [
+     "hence",
+     "그러므로"
+    ],
+    [
+     "accordingly",
+     "그에 따라"
+    ]
+   ]
+  },
+  {
+   "no": "0097",
+   "word": "systematic",
+   "ph": "[sìstəmǽtik]",
+   "pos": "형",
+   "mean": "체계적인, 조직적인, 분석적인",
+   "ex": "Ethnography is the <b>systematic</b> description of human societies.",
+   "exKo": "민족학이란 인간사회에 대한 조직적인 해석이다.",
+   "derived": [],
+   "syn": [
+    [
+     "organized",
+     "조직적인"
+    ]
+   ]
+  },
+  {
+   "no": "0098",
+   "word": "mandatory",
+   "ph": "[mǽndətɔ̀ːri]",
+   "pos": "형",
+   "mean": "의무적인, 법에 정해진",
+   "ex": "The copyright notice was <b>mandatory</b> on all published works at that time.",
+   "exKo": "그 당시에는 저작권 고지는 모든 출판물에 의무적인 사항이었다.",
+   "derived": [],
+   "syn": [
+    [
+     "compulsory",
+     "의무적인, 강제적인, 필수의"
+    ],
+    [
+     "obligatory",
+     "의무적인, 필수의, 강제적인"
+    ],
+    [
+     "imperative",
+     "필수적인, 중요한"
+    ]
+   ]
+  },
+  {
+   "no": "0099",
+   "word": "innovative",
+   "ph": "[ínəvèitiv]",
+   "pos": "형",
+   "mean": "혁신적인, 독창적인",
+   "ex": "The most <b>innovative</b> of the group therapy approaches was psychodrama.",
+   "exKo": "가장 혁신적인 그룹 치료법은 사이코 드라마이다.",
+   "derived": [],
+   "syn": [
+    [
+     "creative",
+     "창조적인"
+    ],
+    [
+     "imaginative",
+     "상상의, 창의적인"
+    ],
+    [
+     "ingenious",
+     "독창적인, 재치 있는, 교묘한"
+    ]
+   ]
+  },
+  {
+   "no": "0100",
+   "word": "disclose",
+   "ph": "[disklóuz]",
+   "pos": "동",
+   "mean": "밝히다, 공개하다, 드러내다",
+   "ex": "Although the actress experienced much turmoil in her career, she never <b>disclosed</b> to anyone that she was unhappy.",
+   "exKo": "비록 그 여배우는 연기 생활에서 많은 혼란을 겪었지만, 그녀는 자신이 불행하다고 누구에게도 밝히지 않았다.",
+   "derived": [],
+   "syn": [
+    [
+     "release",
+     "발표하다, 개봉하다, 공개하다"
+    ],
+    [
+     "let on",
+     "(비밀을) 털어 놓다"
+    ],
+    [
+     "divulge",
+     "누설하다, 털어놓다"
+    ]
+   ]
+  }
+ ]
+}
