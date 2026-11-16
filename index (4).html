@@ -164,9 +164,20 @@ const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt
 const exHtml = s => esc(s).replace(/&lt;b&gt;/g,'<b>').replace(/&lt;\/b&gt;/g,'</b>');
 const keyOf = w => w.day + '|' + w.word;
 
-function allWords(){ return sets.flatMap(s => (s.words||[]).map((w,i) => ({...w, day:s.day, _uid:s.id+'#'+i}))); }
+/* GitHub의 words 폴더에서 가져온 단어 (모든 기기에 똑같이 보임) */
+let remoteSets = ls.get('remote', []);
+const allSets = () => [...remoteSets, ...sets];
+function allWords(){
+  const seen = new Set(), out = [];
+  allSets().forEach(s => (s.words||[]).forEach((w,i) => {
+    const k = s.day + '|' + String(w.word).toLowerCase();
+    if(seen.has(k)) return; seen.add(k);
+    out.push({...w, day:s.day, _uid:s.id+'#'+i});
+  }));
+  return out;
+}
 function dayNames(){
-  const n = []; sets.forEach(s => { if(!n.includes(s.day)) n.push(s.day); });
+  const n = []; allSets().forEach(s => { if(!n.includes(s.day)) n.push(s.day); });
   return n.sort((a,b)=>a.localeCompare(b,'ko',{numeric:true}));
 }
 function toast(msg){
@@ -199,7 +210,7 @@ function render(){
   }
   t.push(`<button class="tool${shuffled?' on':''}" data-act="shuffle">🔀 섞기</button>`);
   t.push(`<button class="tool${onlyUnknown?' on':''}" data-act="unknown">❗ 못 외운 것만</button>`);
-  if(mode==='study' && day!=='전체') t.push(`<button class="tool danger" data-act="delday">🗑 ${esc(day)} 삭제</button>`);
+  if(mode==='study' && day!=='전체' && sets.some(s=>s.day===day)) t.push(`<button class="tool danger" data-act="delday">🗑 ${esc(day)} 삭제</button>`);
   document.getElementById('tools').innerHTML = t.join('');
   document.getElementById('hint').textContent = mode==='test'
     ? '가려진 뜻을 터치하면 보이고, 다시 터치하면 가려져요. 영단어를 터치하면 그 카드 전체가 열려요.' : '';
@@ -355,7 +366,7 @@ function openMenu(){
     <button class="btn" data-sheet="backup">💾 백업 파일 저장</button>
     <button class="btn" data-sheet="restore">📂 백업 파일 불러오기</button>
     <button class="btn" data-sheet="resetknown">↺ ‘외웠어요’ 체크 모두 지우기</button>
-    <p class="s" style="margin-top:10px">앱 버전 3 (발음 듣기)</p>
+    <p class="s" style="margin-top:10px">앱 버전 4 (GitHub 단어 자동 불러오기)</p>
     <div class="btns"><button class="btn" data-sheet="cancel">닫기</button></div></div>`);
 }
 function backup(){
@@ -433,7 +444,9 @@ document.addEventListener('click', e=>{
     if(a==='shuffle'){ shuffled=!shuffled; order={}; allWords().forEach(w=>order[w._uid]=Math.random()); }
     if(a==='delday'){
       if(confirmDel!==day){ confirmDel=day; toast(`한 번 더 누르면 ${day}가 삭제돼요`); setTimeout(()=>confirmDel=null, 3000); return; }
-      confirmDel=null; const name=day; sets = sets.filter(s=>s.day!==name); saveSets(); day='전체'; toast(`${name}를 삭제했어요`);
+      confirmDel=null; const name=day; sets = sets.filter(s=>s.day!==name); saveSets();
+      if(remoteSets.some(s=>s.day===name)) toast(`이 기기에서 넣은 ${name}를 지웠어요. GitHub words 폴더에 있는 단어는 GitHub에서 지워야 해요`);
+      else { day='전체'; toast(`${name}를 삭제했어요`); }
     }
     render(); return;
   }
@@ -449,6 +462,42 @@ document.addEventListener('click', e=>{
 });
 
 render();
+
+/* ===== GitHub words 폴더 읽기 ===== */
+async function loadRemote(){
+  const host = location.hostname.match(/^([^.]+)\.github\.io$/i);
+  let names = null;
+  // 1) GitHub에 words 폴더 안 파일 목록을 물어봄
+  if(host){
+    const owner = host[1];
+    const repo = location.pathname.split('/').filter(Boolean)[0] || (owner + '.github.io');
+    try{
+      const r = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents/words`, {cache:'no-cache'});
+      if(r.ok){ const list = await r.json(); if(Array.isArray(list)) names = list.filter(f=>f.type==='file' && /\.(json|txt)$/i.test(f.name)).map(f=>f.name); }
+      else if(r.status===404) names = [];
+    }catch(e){}
+  }
+  // 2) 안 되면 words/list.json (파일 이름 목록) 사용
+  if(names===null){
+    try{ const r = await fetch('words/list.json', {cache:'no-cache'}); if(r.ok){ const l = await r.json(); if(Array.isArray(l)) names = l.map(String); } }catch(e){}
+  }
+  if(names===null) return; // 인터넷이 없으면 지난번 것 그대로
+  const got = [];
+  for(const name of names.sort((a,b)=>a.localeCompare(b,'ko',{numeric:true}))){
+    if(name==='list.json') continue;
+    try{
+      const r = await fetch('words/' + encodeURIComponent(name), {cache:'no-cache'});
+      if(!r.ok) continue;
+      const p = parseCode(await r.text());
+      (p.days||[]).forEach((d,i)=>got.push({id:'gh_'+name+'_'+i, day:d.day || name.replace(/\.\w+$/,''), words:d.words, remote:true}));
+    }catch(e){ console.warn('단어 파일을 읽지 못했어요:', name, e); }
+  }
+  const changed = JSON.stringify(got) !== JSON.stringify(remoteSets);
+  remoteSets = got; ls.set('remote', remoteSets);
+  if(changed){ render(); if(got.length) toast('GitHub 단어를 불러왔어요'); }
+}
+loadRemote();
+document.addEventListener('visibilitychange', ()=>{ if(document.visibilityState==='visible') loadRemote(); });
 
 /* 설치 & 오프라인 */
 if('serviceWorker' in navigator){ window.addEventListener('load', ()=>navigator.serviceWorker.register('sw.js').catch(()=>{})); }
