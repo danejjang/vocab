@@ -1,0 +1,959 @@
+{
+ "day": "DAY 08",
+ "words": [
+  {
+   "no": "0351",
+   "word": "add",
+   "ph": "[æd]",
+   "pos": "동",
+   "mean": "더하다, 첨언하다",
+   "ex": "\"And thank you for all your help!\" she <b>added</b> as she was leaving.",
+   "exKo": "그녀는 떠나기 전에 이 말을 덧붙였다. \"그리고 도와주셔서 감사합니다.\"",
+   "derived": [
+    [
+     "additional",
+     "추가적인, 부수적인"
+    ],
+    [
+     "in addition to",
+     "~에 추가하여"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "0352",
+   "word": "bestow",
+   "ph": "[bistóu]",
+   "pos": "동",
+   "mean": "주다, 수여하다",
+   "ex": "Many people insisted that the Nobel Prize should be <b>bestowed</b> on teams rather than individuals.",
+   "exKo": "많은 사람들은 노벨상이 개인이 아닌 팀에게 주어져야 한다고 주장했다.",
+   "derived": [],
+   "syn": [
+    [
+     "confer",
+     "수여하다, 협의하다, 상담하다"
+    ],
+    [
+     "grant",
+     "주다, 수여하다"
+    ]
+   ]
+  },
+  {
+   "no": "0353",
+   "word": "impeach",
+   "ph": "[impíːtʃ]",
+   "pos": "동",
+   "mean": "탄핵하다, 비난하다",
+   "ex": "The governor was <b>impeached</b> for using state funds improperly.",
+   "exKo": "그 주지사는 주 기금을 부당하게 사용하여 고발되었다.",
+   "derived": [],
+   "syn": [
+    [
+     "accuse",
+     "비난하다, 고소하다"
+    ]
+   ]
+  },
+  {
+   "no": "0354",
+   "word": "bless",
+   "ph": "[bles]",
+   "pos": "동",
+   "mean": "축복하다, 은혜를 베풀다",
+   "ex": "The priest came to <b>bless</b> the new house.",
+   "exKo": "그 신부는 새 집을 축복하러 왔다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0355",
+   "word": "capture",
+   "ph": "[kǽptʃər]",
+   "pos": "동·명",
+   "mean": "(동) 포로로 잡다, 함락시키다 / (명) 생포",
+   "ex": "Needless to say, it helps to <b>capture</b> the precious moments in life.",
+   "exKo": "그것이 인생의 소중한 순간을 잡도록 도와주는 것은 말할 것도 없습니다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0356",
+   "word": "assess",
+   "ph": "[əsés]",
+   "pos": "동·명",
+   "mean": "(동) 평가하다, 재다 / (명) 평가",
+   "ex": "They <b>assess</b> whether an asset is worth investing in by analyzing its benefits and risks.",
+   "exKo": "그들은 자산의 이익과 위험을 분석함으로써 그것이 투자할 가치가 있는지 평가합니다.",
+   "derived": [],
+   "syn": [
+    [
+     "appraise",
+     "평가하다, 감정하다"
+    ],
+    [
+     "estimate",
+     "평가하다, 추정하다"
+    ]
+   ]
+  },
+  {
+   "no": "0357",
+   "word": "applaud",
+   "ph": "[əplɔ́ːd]",
+   "pos": "동",
+   "mean": "박수 치다, 성원을 보내다",
+   "ex": "He started to <b>applaud</b> and the others joined in.",
+   "exKo": "그가 박수를 치기 시작하자 다른 사람들이 합세했다.",
+   "derived": [],
+   "syn": [
+    [
+     "give A a hand",
+     "박수 치다"
+    ]
+   ]
+  },
+  {
+   "no": "0358",
+   "word": "prosper",
+   "ph": "[práspər]",
+   "pos": "동",
+   "mean": "번영하다, 발전하다",
+   "ex": "However, community service is important in order to make societies <b>prosper</b>.",
+   "exKo": "그러나, 지역 봉사 활동은 사회가 번창하도록 하기 위해 중요하다.",
+   "derived": [],
+   "syn": [
+    [
+     "thrive",
+     "번창하다, 넘쳐나다, 무성하다"
+    ],
+    [
+     "flourish",
+     "번창하다, 성장하다, 무성하다"
+    ]
+   ]
+  },
+  {
+   "no": "0359",
+   "word": "refuse",
+   "ph": "[réfjuːs]",
+   "pos": "동",
+   "mean": "거절하다, 거부하다",
+   "ex": "The offer was too enticing to <b>refuse</b>.",
+   "exKo": "그 제의는 너무 유혹적이어서 거절하기가 어려웠다.",
+   "derived": [
+    [
+     "⚠ refute",
+     "(혼동 주의) 반박하다, 부인하다"
+    ]
+   ],
+   "syn": [
+    [
+     "turn down",
+     "거절하다"
+    ],
+    [
+     "decline",
+     "거절하다"
+    ]
+   ]
+  },
+  {
+   "no": "0360",
+   "word": "display",
+   "ph": "[displéi]",
+   "pos": "동",
+   "mean": "보이다, 드러내다, 전시하다",
+   "ex": "An error message will be <b>displayed</b> on the screen if you have already used the wrong password.",
+   "exKo": "당신이 이미 잘못된 암호를 사용했다면 화면에 오류 메시지가 나타날 것이다.",
+   "derived": [],
+   "syn": [
+    [
+     "show",
+     "나타내다, 보이다"
+    ],
+    [
+     "reveal",
+     "드러내다, 알리다"
+    ]
+   ]
+  },
+  {
+   "no": "0361",
+   "word": "emancipate",
+   "ph": "[imǽnsəpèit]",
+   "pos": "동",
+   "mean": "해방하다, 석방하다",
+   "ex": "A rebel army is attempting to '<b>emancipate</b>' the region by blowing up pipelines and kidnapping foreign workers.",
+   "exKo": "반란군은 송유관을 폭파하고 외국인노동자들을 납치하여 그 지역을 '해방시키려' 하고 있다.",
+   "derived": [],
+   "syn": [
+    [
+     "liberate",
+     "해방하다, 자유롭게 하다, 벗어나다"
+    ]
+   ]
+  },
+  {
+   "no": "0362",
+   "word": "flatter",
+   "ph": "[flǽtər]",
+   "pos": "동",
+   "mean": "아첨하다, 듣기 좋은 말을 하다",
+   "ex": "Are you trying to <b>flatter</b> me?",
+   "exKo": "너 나한테 아첨하는 거니?",
+   "derived": [
+    [
+     "⚠ flatten",
+     "(혼동 주의) 납작하게 만들다"
+    ]
+   ],
+   "syn": [
+    [
+     "make up to",
+     "아첨하다"
+    ],
+    [
+     "adulate",
+     "아첨하다, 알랑거리다"
+    ]
+   ]
+  },
+  {
+   "no": "0363",
+   "word": "retrieve",
+   "ph": "[ritríːv]",
+   "pos": "동·명",
+   "mean": "(동) 되찾다, 검색하다 / (명) 회수",
+   "ex": "He dug up his dead wife to <b>retrieve</b> the poetry manuscript he had thrown into her coffin seven years earlier.",
+   "exKo": "그는 7년 전 아내의 관 속에 던져 넣었던 시의 원고를 되찾기 위해 죽은 아내의 무덤을 팠다.",
+   "derived": [],
+   "syn": [
+    [
+     "recover",
+     "되찾다"
+    ]
+   ]
+  },
+  {
+   "no": "0364",
+   "word": "signify",
+   "ph": "[sígnəfài]",
+   "pos": "동",
+   "mean": "의미하다, 나타내다, 알리다, 중요하다",
+   "ex": "\"Honeymoon\" has not always <b>signified</b> the enjoyable holiday following a wedding.",
+   "exKo": "'허니문'이 항상 결혼식 후의 즐거운 휴가여행을 의미했던 것은 아니다.",
+   "derived": [
+    [
+     "significance",
+     "의미, 의의, 중요"
+    ]
+   ],
+   "syn": [
+    [
+     "mean",
+     "의미하다"
+    ]
+   ]
+  },
+  {
+   "no": "0365",
+   "word": "vomit",
+   "ph": "[vámit]",
+   "pos": "동·명",
+   "mean": "(동) 토하다 / (명) 구토",
+   "ex": "Others may <b>vomit</b> or go to the restroom many times for several days.",
+   "exKo": "다른 사람들은 구토를 하거나 며칠 동안 많이 화장실을 갈지도 모릅니다.",
+   "derived": [],
+   "syn": [
+    [
+     "throw up",
+     "구토하다"
+    ]
+   ]
+  },
+  {
+   "no": "0366",
+   "word": "utter",
+   "ph": "[ʌ́tər]",
+   "pos": "동·형",
+   "mean": "(동) 말하다 / (형) 완전한, 순전한",
+   "ex": "I think I <b>uttered</b> the first words, and my family bought their first home.",
+   "exKo": "제가 처음으로 말을 했었고 저희 가족이 첫 집을 장만했던 것 같아요.",
+   "derived": [],
+   "syn": [
+    [
+     "pronounce",
+     "말하다, 발음하다"
+    ],
+    [
+     "sheer",
+     "순전한, 유순한"
+    ]
+   ]
+  },
+  {
+   "no": "0367",
+   "word": "motivate",
+   "ph": "[móutəvèit]",
+   "pos": "동",
+   "mean": "동기를 부여하다, 자극하다",
+   "ex": "Giving yourself a reward can help you to stay <b>motivated</b>.",
+   "exKo": "스스로에게 상을 주면 동기 부여가 지속될 수 있습니다.",
+   "derived": [],
+   "syn": [
+    [
+     "inspire",
+     "영감을 주다"
+    ],
+    [
+     "stimulate",
+     "자극하다"
+    ],
+    [
+     "encourage",
+     "격려하다"
+    ]
+   ]
+  },
+  {
+   "no": "0368",
+   "word": "interpret",
+   "ph": "[intə́ːrprit]",
+   "pos": "동",
+   "mean": "통역하다, 설명하다",
+   "ex": "The students were asked to <b>interpret</b> the poem.",
+   "exKo": "학생들은 그 시를 설명해 보라는 요구를 받았다.",
+   "derived": [
+    [
+     "interpretation",
+     "해석, 이해, 설명"
+    ]
+   ],
+   "syn": [
+    [
+     "explain",
+     "설명하다"
+    ]
+   ]
+  },
+  {
+   "no": "0369",
+   "word": "industrialize",
+   "ph": "[indʌ́striəlàiz]",
+   "pos": "동",
+   "mean": "산업화하다, 공업화하다",
+   "ex": "The area was quick to <b>industrialize</b>.",
+   "exKo": "그 지역은 빠른 산업화를 이루었다.",
+   "derived": [
+    [
+     "industry",
+     "산업"
+    ],
+    [
+     "industrial",
+     "산업의"
+    ],
+    [
+     "industrious",
+     "근면한, 부지런한"
+    ]
+   ],
+   "syn": [
+    [
+     "commercialize",
+     "상업화하다"
+    ]
+   ]
+  },
+  {
+   "no": "0370",
+   "word": "decay",
+   "ph": "[dikéi]",
+   "pos": "동",
+   "mean": "부패하다, 썩게 만들다",
+   "ex": "After the heating process, the milk protein won't <b>decay</b>.",
+   "exKo": "열 처리 후, 우유 단백질은 썩지 않게 될 것입니다.",
+   "derived": [],
+   "syn": [
+    [
+     "rot",
+     "썩다"
+    ]
+   ]
+  },
+  {
+   "no": "0371",
+   "word": "abbreviate",
+   "ph": "[əbríːvièit]",
+   "pos": "동",
+   "mean": "축약하다, 줄이다",
+   "ex": "He persuaded his son to <b>abbreviate</b> his first name to Bob.",
+   "exKo": "그는 그의 아들에게 이름을 Bob으로 줄여 쓰도록 설득했다.",
+   "derived": [],
+   "syn": [
+    [
+     "shorten",
+     "줄이다, 단축하다, 짧아지다"
+    ],
+    [
+     "compress",
+     "압축하다"
+    ],
+    [
+     "abridge",
+     "요약하다, 단축하다, 줄이다"
+    ]
+   ]
+  },
+  {
+   "no": "0372",
+   "word": "betray",
+   "ph": "[bitréi]",
+   "pos": "동",
+   "mean": "배신하다",
+   "ex": "She will not <b>betray</b> your trust.",
+   "exKo": "그녀는 당신의 신뢰를 저버리지 않을 것이다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0373",
+   "word": "chase",
+   "ph": "[tʃeis]",
+   "pos": "동·명",
+   "mean": "(동) 뒤쫓다, 추적하다 / (명) 추적",
+   "ex": "He <b>chased</b> this weasel for 30 minutes to get the shot.",
+   "exKo": "그는 사진을 찍기 위해 30분 동안 족제비를 쫓았습니다.",
+   "derived": [],
+   "syn": [
+    [
+     "run after",
+     "뒤쫓다, 추적하다, 쫓아가다"
+    ]
+   ]
+  },
+  {
+   "no": "0374",
+   "word": "pierce",
+   "ph": "[piərs]",
+   "pos": "동",
+   "mean": "뚫다, 가르다",
+   "ex": "The perfect arrow is so strong that it can even <b>pierce</b> body armor. This is science!",
+   "exKo": "완벽한 화살은 아주 강해서 갑옷도 뚫을 수가 있어요. 이것이 과학이지요!",
+   "derived": [],
+   "syn": [
+    [
+     "penetrate",
+     "관통하다, 파고들다, 침투하다"
+    ],
+    [
+     "puncture",
+     "펑크, 찌르기, 구멍을 뚫기"
+    ]
+   ]
+  },
+  {
+   "no": "0375",
+   "word": "refresh",
+   "ph": "[rifréʃ]",
+   "pos": "동",
+   "mean": "상쾌하게 하다",
+   "ex": "He <b>refreshed</b> himself with a glass of iced tea after cool shower.",
+   "exKo": "그는 시원하게 샤워를 한 후에 아이스티 한 잔을 마시며 원기를 회복했다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0376",
+   "word": "stagger",
+   "ph": "[stǽgər]",
+   "pos": "동",
+   "mean": "~을 놀라게 하다, 비틀거리다",
+   "ex": "I was completely <b>staggered</b> by the dreadful sight.",
+   "exKo": "나는 그 무서운 광경을 보고 완전히 놀랐다.",
+   "derived": [
+    [
+     "staggering",
+     "충격적인, 믿기 어려운"
+    ]
+   ],
+   "syn": [
+    [
+     "reel",
+     "비틀거리다, 휘청거리다"
+    ],
+    [
+     "astonish",
+     "놀라게 하다"
+    ],
+    [
+     "sway",
+     "흔들거리다"
+    ],
+    [
+     "astound",
+     "놀래키다"
+    ]
+   ]
+  },
+  {
+   "no": "0377",
+   "word": "disguise",
+   "ph": "[disgáiz]",
+   "pos": "동",
+   "mean": "변장하다, 위장하다",
+   "ex": "It protects itself from predators by <b>disguising</b> itself as a dead leaf.",
+   "exKo": "그것은 낙엽으로 위장해 포식자로부터 스스로를 보호합니다.",
+   "derived": [
+    [
+     "⚠ despise",
+     "(혼동 주의) 경멸하다"
+    ],
+    [
+     "⚠ despite",
+     "(혼동 주의) ~에도 불구하고"
+    ]
+   ],
+   "syn": [
+    [
+     "camouflage",
+     "위장, 감추다"
+    ]
+   ]
+  },
+  {
+   "no": "0378",
+   "word": "apply",
+   "ph": "[əplái]",
+   "pos": "동",
+   "mean": "적용하다 (to), 지원하다 (for), 바르다, 갖다 대다",
+   "ex": "You can <b>apply</b> for citizenship after five years' residency.",
+   "exKo": "5년 거주하면 시민권에 지원할 수 있다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0379",
+   "word": "blend",
+   "ph": "[blend]",
+   "pos": "동·명",
+   "mean": "(동) 섞다, 혼합하다 / (명) 혼합",
+   "ex": "<b>Blend</b> together the eggs, sugar and flour.",
+   "exKo": "달걀, 설탕, 밀가루를 함께 섞어라.",
+   "derived": [
+    [
+     "⚠ bland",
+     "(혼동 주의) 무미건조한, 재미없는"
+    ]
+   ],
+   "syn": [
+    [
+     "combine",
+     "합치다"
+    ],
+    [
+     "bring together",
+     "묶다, 합치다"
+    ]
+   ]
+  },
+  {
+   "no": "0380",
+   "word": "grip",
+   "ph": "[grip]",
+   "pos": "동·명",
+   "mean": "(동) 움켜잡다 / (명) 통제, 움켜짐",
+   "ex": "Shoppers usually <b>grip</b> the handle after they touch raw meat or fish.",
+   "exKo": "구매자들은 보통 날고기나 생선을 만진 후에 손잡이를 잡습니다.",
+   "derived": [],
+   "syn": [
+    [
+     "catch",
+     "잡다, 받다, 체포하다"
+    ],
+    [
+     "capture",
+     "잡다, 포착, 체포"
+    ],
+    [
+     "grab",
+     "거머쥐다, 붙다"
+    ],
+    [
+     "take hold of",
+     "~을 잡다, 쥐다"
+    ]
+   ]
+  },
+  {
+   "no": "0381",
+   "word": "fulfill",
+   "ph": "[fulfíl]",
+   "pos": "동",
+   "mean": "수행하다, 달성하다, 마치다",
+   "ex": "Slowly, Korea is becoming a place where they want to <b>fulfill</b> their dreams.",
+   "exKo": "서서히, 한국은 그들에게 자신들의 꿈을 실현하는 장소가 되고 있다.",
+   "derived": [],
+   "syn": [
+    [
+     "accomplish",
+     "성취하다, 달성하다"
+    ]
+   ]
+  },
+  {
+   "no": "0382",
+   "word": "afflict",
+   "ph": "[əflíkt]",
+   "pos": "동",
+   "mean": "괴롭히다, 피해를 입히다",
+   "ex": "These are a few of the problems which can <b>afflict</b> the elderly.",
+   "exKo": "이것이 장년층을 괴롭힐 수 있는 몇몇 문제들이다.",
+   "derived": [],
+   "syn": [
+    [
+     "bother",
+     "괴롭히다, 귀찮게 하다"
+    ],
+    [
+     "torment",
+     "괴롭히다"
+    ]
+   ]
+  },
+  {
+   "no": "0383",
+   "word": "imitate",
+   "ph": "[ímitèit]",
+   "pos": "동",
+   "mean": "모방하다, 흉내내다",
+   "ex": "No computer can <b>imitate</b> the complex functions of the human brain.",
+   "exKo": "어떤 컴퓨터도 인간 두뇌의 복잡한 기능을 모방할 수 없다.",
+   "derived": [
+    [
+     "⚠ irritate",
+     "(혼동 주의) 짜증나게 하다, 자극하다"
+    ]
+   ],
+   "syn": [
+    [
+     "mimic",
+     "흉내내다"
+    ],
+    [
+     "emulate",
+     "모방하다"
+    ],
+    [
+     "mirror",
+     "모방하다, 반영하다"
+    ]
+   ]
+  },
+  {
+   "no": "0384",
+   "word": "weave",
+   "ph": "[wiːv]",
+   "pos": "동",
+   "mean": "짜다, 엮다",
+   "ex": "The circuit gathers all the incoming information to <b>weave</b> a logical story.",
+   "exKo": "그 회로는 들어오는 모든 정보를 모아서 하나의 논리적인 이야기로 짜맞춘다.",
+   "derived": [],
+   "syn": [
+    [
+     "intertwine",
+     "관련짓다, 뒤엉키다"
+    ]
+   ]
+  },
+  {
+   "no": "0385",
+   "word": "stun",
+   "ph": "[stʌn]",
+   "pos": "동",
+   "mean": "놀라게 하다",
+   "ex": "<b>Stunned</b> by the impact of the ball, he lay on the ground wondering what had happened.",
+   "exKo": "공의 충격으로 기절한 그는 무슨 일이 있었는지 궁금해 하며 땅에 누워 있었다.",
+   "derived": [],
+   "syn": [
+    [
+     "astonish",
+     "놀라게 하다"
+    ],
+    [
+     "astound",
+     "크게 놀라게 하다"
+    ],
+    [
+     "amaze",
+     "놀래키다"
+    ]
+   ]
+  },
+  {
+   "no": "0386",
+   "word": "proclaim",
+   "ph": "[proukléim]",
+   "pos": "동",
+   "mean": "선언하다, 공포하다",
+   "ex": "Sometimes, the importance of national pride is <b>proclaimed</b> by politicians and the media.",
+   "exKo": "때때로 국가적 자부심의 중요성이 정치가들과 언론매체에 의해 선언된다.",
+   "derived": [],
+   "syn": [
+    [
+     "declare",
+     "선언하다, 발표하다, ~을 밝히다"
+    ]
+   ]
+  },
+  {
+   "no": "0387",
+   "word": "overtake",
+   "ph": "[òuvərtéik]",
+   "pos": "동",
+   "mean": "추월하다, 앞지르다",
+   "ex": "Obesity may soon <b>overtake</b> smoking as the leading cause of preventable deaths.",
+   "exKo": "예방 가능한 사망의 주된 원인으로서, 비만이 흡연을 곧 앞지를 것이다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0388",
+   "word": "nurture",
+   "ph": "[nə́ːrtʃər]",
+   "pos": "동",
+   "mean": "양육하다, 보살피다",
+   "ex": "A mother's own well-being may conflict with <b>nurturing</b> her baby.",
+   "exKo": "엄마 자신의 행복이 아기를 양육하는 일과 상충될 수도 있다.",
+   "derived": [],
+   "syn": [
+    [
+     "bring up",
+     "키우다, 훈육하다"
+    ],
+    [
+     "raise",
+     "기르다, 키우다, 모금하다, (문제) 제기하다"
+    ],
+    [
+     "foster",
+     "키우다"
+    ]
+   ]
+  },
+  {
+   "no": "0389",
+   "word": "linger",
+   "ph": "[língər]",
+   "pos": "동",
+   "mean": "지속되다, 남아 있다",
+   "ex": "Sleep <b>lingers</b> all our lifetime about our eyes, as night hovers all night in the boughs of the tree.",
+   "exKo": "밤이 나뭇가지에서 밤새도록 맴돌듯, 수면은 일생 동안 우리 눈에서 떠나지 않는다.",
+   "derived": [],
+   "syn": [
+    [
+     "remain",
+     "~로 남다, 유지하다"
+    ],
+    [
+     "stay",
+     "머물다, 남다"
+    ],
+    [
+     "persist",
+     "계속하다"
+    ]
+   ]
+  },
+  {
+   "no": "0390",
+   "word": "intimidate",
+   "ph": "[intímidèit]",
+   "pos": "동",
+   "mean": "겁주다, ~을 협박하다",
+   "ex": "People with power should not <b>intimidate</b> weak people.",
+   "exKo": "권력을 가진 사람들은 약자를 협박해서는 안 된다.",
+   "derived": [],
+   "syn": [
+    [
+     "menace",
+     "위협하다, 위험, 협박하다"
+    ],
+    [
+     "browbeat",
+     "위협하다, 공갈하다"
+    ]
+   ]
+  },
+  {
+   "no": "0391",
+   "word": "grumble",
+   "ph": "[grʌ́mbl]",
+   "pos": "동",
+   "mean": "불평하다, 툴툴대다",
+   "ex": "Some of the customers have been <b>grumbling</b> about the poor service.",
+   "exKo": "몇몇 고객들이 그 형편없는 서비스에 불평해왔다.",
+   "derived": [],
+   "syn": [
+    [
+     "complain",
+     "불평하다, 한탄하다"
+    ]
+   ]
+  },
+  {
+   "no": "0392",
+   "word": "flip",
+   "ph": "[flip]",
+   "pos": "동·명",
+   "mean": "(동) 튀기다, 가볍게 치다 / (명) (손가락으로) 튀기기",
+   "ex": "The whole thing was decided on the <b>flip</b> of a coin.",
+   "exKo": "그 모든 것이 동전 하나 톡 던지는 것으로 결정되었다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0393",
+   "word": "extort",
+   "ph": "[ikstɔ́ːrt]",
+   "pos": "동",
+   "mean": "갈취하다, 강탈하다, 억지로 짜내다",
+   "ex": "Some of them <b>extort</b> a fortune from us.",
+   "exKo": "그들의 일부는 우리에게서 행운을 앗아간다.",
+   "derived": [],
+   "syn": [
+    [
+     "rob A of B",
+     "A에게서 B를 강탈하다"
+    ]
+   ]
+  },
+  {
+   "no": "0394",
+   "word": "forge",
+   "ph": "[fɔːrdʒ]",
+   "pos": "동·명",
+   "mean": "(동) 위조하다, 모조하다 / (명) 용광로",
+   "ex": "Polymer notes are more difficult to <b>forge</b> than paper bills.",
+   "exKo": "폴리머 노트는 종이 화폐보다 위조하기 어렵다.",
+   "derived": [],
+   "syn": [
+    [
+     "fabricate",
+     "위조하다, ~을 제작하다, 조립하다"
+    ]
+   ]
+  },
+  {
+   "no": "0395",
+   "word": "hijack",
+   "ph": "[háidʒæ̀k]",
+   "pos": "동",
+   "mean": "납치하다, 빼앗다",
+   "ex": "The plane was <b>hijacked</b> by terrorists who were Muslim extremists.",
+   "exKo": "그 비행기는 이슬람 과격분자들인 테러리스트들에게 납치당했다.",
+   "derived": [],
+   "syn": [
+    [
+     "abduct",
+     "납치하다"
+    ],
+    [
+     "kidnap",
+     "납치하다"
+    ]
+   ]
+  },
+  {
+   "no": "0396",
+   "word": "incorporate",
+   "ph": "[inkɔ́ːrpərit]",
+   "pos": "동",
+   "mean": "결합하다, 포함하다",
+   "ex": "You must truly own this idea and <b>incorporate</b> it into your daily life.",
+   "exKo": "당신은 이 생각을 진심으로 가져야 하고 당신의 매일의 삶 속에 그 생각을 포함시켜야 한다.",
+   "derived": [],
+   "syn": [
+    [
+     "unite",
+     "통합하다, 통일하다"
+    ],
+    [
+     "integrate",
+     "통합하다, 융합하다"
+    ]
+   ]
+  },
+  {
+   "no": "0397",
+   "word": "necessitate",
+   "ph": "[nəsésitèit]",
+   "pos": "동",
+   "mean": "필요로 하다, 요하다",
+   "ex": "New safety regulations <b>necessitated</b> adding a railing to the stairs.",
+   "exKo": "새로운 안전 규정으로 인해 그 계단에 난간을 달 필요가 생겼다.",
+   "derived": [],
+   "syn": [
+    [
+     "require",
+     "필요하다, 요구하다"
+    ]
+   ]
+  },
+  {
+   "no": "0398",
+   "word": "plead",
+   "ph": "[pliːd]",
+   "pos": "동",
+   "mean": "간청하다, 탄원하다, 항변하다",
+   "ex": "She has so far <b>pleaded</b> not guilty to the charges, and is awaiting her trial set for July 26.",
+   "exKo": "그녀는 지금까지 자신의 혐의에 대해 무죄라고 항변하고 있으며, 7월 26일로 예정된 재판을 기다리고 있다.",
+   "derived": [],
+   "syn": [
+    [
+     "appeal",
+     "호소하다, 매력을 끌다, 항소, 매력"
+    ]
+   ]
+  },
+  {
+   "no": "0399",
+   "word": "plunder",
+   "ph": "[plʌ́ndər]",
+   "pos": "동·명",
+   "mean": "(동) 약탈하다 / (명) 약탈, 강탈",
+   "ex": "The thieves ran away with their <b>plunder</b>.",
+   "exKo": "도둑들은 약탈품을 가지고 도망갔다.",
+   "derived": [],
+   "syn": [
+    [
+     "pillage",
+     "약탈하다"
+    ]
+   ]
+  },
+  {
+   "no": "0400",
+   "word": "grieve",
+   "ph": "[griːv]",
+   "pos": "동",
+   "mean": "슬퍼하다, 힘들어하다",
+   "ex": "People need some time to <b>grieve</b> after the death of a loved one.",
+   "exKo": "사람들은 사랑하는 사람이 죽은 후에 몹시 슬퍼할 시간을 필요로 한다.",
+   "derived": [],
+   "syn": [
+    [
+     "mourn",
+     "슬퍼하다, 한탄하다"
+    ],
+    [
+     "weep",
+     "눈물을 흘리다"
+    ]
+   ]
+  }
+ ]
+}
