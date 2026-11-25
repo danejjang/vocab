@@ -1,0 +1,867 @@
+{
+ "day": "DAY 30",
+ "words": [
+  {
+   "no": "1451",
+   "word": "authority",
+   "ph": "[əθɔ́ːrəti]",
+   "pos": "명",
+   "mean": "당국, 권한, 권위",
+   "ex": "Financial <b>authorities</b> have recommended that the government get involved in the exchange market.",
+   "exKo": "금융 당국들은 정부가 외환 시장에 개입하도록 권고했다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1452",
+   "word": "periphery",
+   "ph": "[pərífəri]",
+   "pos": "명",
+   "mean": "주변부, 주위, 표면",
+   "ex": "Initially, people move inward from <b>periphery</b> to core and from smaller centers to larger ones.",
+   "exKo": "처음에 사람들은 주변으로부터 중심부로, 그리고 더 작은 중심에서 더 큰 중심부로 이동한다.",
+   "derived": [],
+   "syn": [
+    [
+     "fringe",
+     "주변부, 가장자리"
+    ],
+    [
+     "brink",
+     "주변부, 직전"
+    ],
+    [
+     "verge",
+     "도로변"
+    ],
+    [
+     "edge",
+     "가장자리, 경계"
+    ],
+    [
+     "margin",
+     "가장자리, 이익"
+    ]
+   ]
+  },
+  {
+   "no": "1453",
+   "word": "beverage",
+   "ph": "[bévəridʒ]",
+   "pos": "명",
+   "mean": "음료수",
+   "ex": "Soon after the colonists arrived in the New World, they learned to produce <b>beverage</b> from fruit and grain.",
+   "exKo": "식민지 개척자들은 신대륙에 도착하자마자 과일과 곡식으로 음료를 만드는 법을 배웠다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1454",
+   "word": "exile",
+   "ph": "[égzail]",
+   "pos": "명·동",
+   "mean": "(명) 망명, 추방, 도피 / (동) 추방하다",
+   "ex": "Shorn of his power, the deposed king went into <b>exile</b>.",
+   "exKo": "권력을 빼앗기고 폐위된 그 왕은 망명을 떠났다.",
+   "derived": [],
+   "syn": [
+    [
+     "expel",
+     "추방하다, 제적하다, 내뿜다"
+    ],
+    [
+     "deportation",
+     "국외 추방, 수송, 이송"
+    ],
+    [
+     "ostracize",
+     "~을 추방하다, 배척하다"
+    ]
+   ]
+  },
+  {
+   "no": "1455",
+   "word": "panacea",
+   "ph": "[pæ̀nəsíːə]",
+   "pos": "명",
+   "mean": "만병통치약, 만능약",
+   "ex": "Many people say that smiling works as a <b>panacea</b> for life's stressful events.",
+   "exKo": "많은 사람들이 웃음이 인생의 스트레스를 주는 일들에 대한 만병통치약으로 작용한다고 말한다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1456",
+   "word": "strategy",
+   "ph": "[strǽtidʒi]",
+   "pos": "명",
+   "mean": "계획, 전략",
+   "ex": "The <b>strategy</b> going forward is still undecided.",
+   "exKo": "앞으로의 전략은 아직 결정되지 않았다.",
+   "derived": [],
+   "syn": [
+    [
+     "tactic",
+     "전략"
+    ]
+   ]
+  },
+  {
+   "no": "1457",
+   "word": "appeal",
+   "ph": "[əpíːl]",
+   "pos": "명·동",
+   "mean": "(명) 매력 / (동) 호소하다",
+   "ex": "My <b>appeal</b> proved futile.",
+   "exKo": "나의 호소는 헛된 것임이 드러났다.",
+   "derived": [],
+   "syn": [
+    [
+     "plead",
+     "애원하다, 변호하다"
+    ],
+    [
+     "petition",
+     "탄원하다, 진정하다"
+    ],
+    [
+     "attract",
+     "끌다, 매혹시키다"
+    ]
+   ]
+  },
+  {
+   "no": "1458",
+   "word": "mischief",
+   "ph": "[místʃif]",
+   "pos": "명",
+   "mean": "나쁜 짓, 장난기",
+   "ex": "These practical jokes are usually light-hearted <b>mischief</b>, such as switching the signs on the bathroom doors or putting the classroom furniture on the roof of the school.",
+   "exKo": "이 짓궂은 장난은 보통 화장실 문의 표시를 바꾼다든지, 학교 지붕 위에 교실 가구를 올려놓는다든지 하는 식으로 유쾌하게 즐기는 장난이다.",
+   "derived": [],
+   "syn": [
+    [
+     "prank",
+     "장난, 가짜"
+    ]
+   ]
+  },
+  {
+   "no": "1459",
+   "word": "voltage",
+   "ph": "[vóultidʒ]",
+   "pos": "명",
+   "mean": "전압",
+   "ex": "This device is used for stepping down <b>voltage</b>.",
+   "exKo": "이 도구는 전압을 내리는 데 쓰인다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1460",
+   "word": "weed",
+   "ph": "[wiːd]",
+   "pos": "명·동",
+   "mean": "(명) 잡초, 수초 / (동) 잡초를 뽑다",
+   "ex": "She knelt down to pull a <b>weed</b> from the flower bed.",
+   "exKo": "그녀는 화단의 잡초를 뽑기 위해 무릎을 꿇었다.",
+   "derived": [
+    [
+     "weed out",
+     "제거하다, 잡초를 뽑다"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1461",
+   "word": "attic",
+   "ph": "[ǽtik]",
+   "pos": "명",
+   "mean": "다락방",
+   "ex": "I let him sleep in the <b>attic</b> bedroom at the top of my house.",
+   "exKo": "나는 그를 우리 집 꼭대기의 다락방 침실에서 자게 했다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1462",
+   "word": "backlash",
+   "ph": "[bǽklæ̀ʃ]",
+   "pos": "명",
+   "mean": "반발, 반동",
+   "ex": "The apparent mistake of the police have brought a political <b>backlash</b>.",
+   "exKo": "경찰의 명백한 실수는 정치적 반발을 불러왔다.",
+   "derived": [],
+   "syn": [
+    [
+     "protest",
+     "항의, 시위"
+    ],
+    [
+     "repercussion",
+     "반향"
+    ]
+   ]
+  },
+  {
+   "no": "1463",
+   "word": "passerby",
+   "ph": "[pæ̀sərbái]",
+   "pos": "명",
+   "mean": "행인, 지나가는 사람",
+   "ex": "Two <b>passersby</b> were wounded by stray bullets during the gunfight between the bank robbers and the police.",
+   "exKo": "행인 두 명이 은행 강도들과 경찰의 총격전 중에 빗나간 탄환에 의해 부상을 입었다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1464",
+   "word": "scrap",
+   "ph": "[skræp]",
+   "pos": "명·동",
+   "mean": "(명) (종이·옷감 등의) 조각 / (동) 폐기하다",
+   "ex": "Beethoven took <b>scrap</b> of paper with him on his frequent walks, writing down his musical ideas as they came to him.",
+   "exKo": "베토벤은 잦은 산책 중에 종이 조각들을 가지고 다니며 음악 아이디어가 떠오르면 적어두었다.",
+   "derived": [],
+   "syn": [
+    [
+     "piece",
+     "조각, 단편"
+    ],
+    [
+     "fragment",
+     "파편, 조각, 단편"
+    ],
+    [
+     "bit",
+     "작은 조각, 작은 부분"
+    ]
+   ]
+  },
+  {
+   "no": "1465",
+   "word": "prospect",
+   "ph": "[práspekt]",
+   "pos": "명·동",
+   "mean": "(명) 가망, 예상 / (동) 탐사하다",
+   "ex": "This has excited many researchers at the <b>prospect</b> of combating the mosquito problem in Africa and beyond.",
+   "exKo": "이것은 아프리카와 그 너머에 있는 모기 문제를 물리칠 전망에 연구자들을 신명 나게 만들었다.",
+   "derived": [],
+   "syn": [
+    [
+     "perspective",
+     "관점, 시각, 전망, 견해, 원근법"
+    ],
+    [
+     "likeliness",
+     "가능성, 기회, 가망"
+    ]
+   ]
+  },
+  {
+   "no": "1466",
+   "word": "enzyme",
+   "ph": "[énzaim]",
+   "pos": "명",
+   "mean": "효소",
+   "ex": "<b>Enzyme</b> rich foods like pineapples or avocados help your digestion.",
+   "exKo": "효소가 풍부한 음식인 파인애플이나 아보카도는 소화를 돕는다.",
+   "derived": [],
+   "syn": [
+    [
+     "ferment",
+     "효소, 발효시키다"
+    ]
+   ]
+  },
+  {
+   "no": "1467",
+   "word": "barrel",
+   "ph": "[bǽrəl]",
+   "pos": "명",
+   "mean": "통, 배럴",
+   "ex": "Around them were lots of wooden <b>barrels</b> and boards.",
+   "exKo": "그것들 주위에는 나무통들과 판자들이 많이 있었다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1468",
+   "word": "protein",
+   "ph": "[próutiːn]",
+   "pos": "명",
+   "mean": "단백질",
+   "ex": "Beans and foods made from them are a good source of vegetable <b>protein</b>.",
+   "exKo": "콩과 콩으로 만든 식품들은 훌륭한 식물성 단백질원이다.",
+   "derived": [
+    [
+     "carbohydrate",
+     "탄수화물"
+    ],
+    [
+     "fiber",
+     "식이섬유, 섬유질"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1469",
+   "word": "pundit",
+   "ph": "[pʌ́ndit]",
+   "pos": "명",
+   "mean": "전문가, 권위자",
+   "ex": "<b>Pundits</b> seem to be unable to see how the election may play itself out.",
+   "exKo": "전문가들은 그 선거가 어떻게 될지 알 수 없는 것 같다.",
+   "derived": [],
+   "syn": [
+    [
+     "expert",
+     "숙달자, 전문가"
+    ]
+   ]
+  },
+  {
+   "no": "1470",
+   "word": "quantity",
+   "ph": "[kwántəti]",
+   "pos": "명",
+   "mean": "수량, 분량",
+   "ex": "This recipe is only for four people, so I have to double the <b>quantity</b> for my family.",
+   "exKo": "이 요리법은 4인 분량이므로 우리 가족을 위해서는 양을 두 배로 늘려야 한다.",
+   "derived": [
+    [
+     "quality",
+     "품질, 질"
+    ]
+   ],
+   "syn": [
+    [
+     "amount",
+     "양, 액수"
+    ]
+   ]
+  },
+  {
+   "no": "1471",
+   "word": "assault",
+   "ph": "[əsɔ́ːlt]",
+   "pos": "명·동",
+   "mean": "(명) 폭행, 공격 / (동) 폭행하다",
+   "ex": "There is nothing cool about drunk driving, drug use, police <b>assaults</b>, or domestic violence.",
+   "exKo": "음주 운전이나, 마약 남용, 경찰 폭행이나 가정 폭력에 멋있는 점이라곤 전혀 없습니다.",
+   "derived": [],
+   "syn": [
+    [
+     "assail",
+     "괴롭히다, 습격하다"
+    ],
+    [
+     "injure",
+     "부상 입히다"
+    ]
+   ]
+  },
+  {
+   "no": "1472",
+   "word": "miscarriage",
+   "ph": "[miskǽridʒ]",
+   "pos": "명",
+   "mean": "유산, 실패, 잘못",
+   "ex": "Too hot tubs and saunas can increase the risk of <b>miscarriage</b>.",
+   "exKo": "너무 뜨거운 목욕이나 사우나는 유산의 위험을 증가시킬 수 있다.",
+   "derived": [
+    [
+     "delivery",
+     "출산, 배달, 전달"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1473",
+   "word": "reservoir",
+   "ph": "[rézərvwɑ̀ːr]",
+   "pos": "명",
+   "mean": "저수지, 호수, 저장소",
+   "ex": "<b>Reservoir</b> is created in river valleys by the construction of a dam.",
+   "exKo": "저수지는 강 계곡에 댐을 건설하여 만들어진다.",
+   "derived": [
+    [
+     "drainage",
+     "배수, 배수시설"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1474",
+   "word": "comrade",
+   "ph": "[kámræd]",
+   "pos": "명",
+   "mean": "동지, 전우, 동료",
+   "ex": "The soldier sacrificed himself and saved the lives of three of his <b>comrades</b>.",
+   "exKo": "그 병사는 자신을 희생하여 동료 세 명의 목숨을 구했다.",
+   "derived": [],
+   "syn": [
+    [
+     "teammate",
+     "동료, 선수, 팀원, 대원, 단원"
+    ]
+   ]
+  },
+  {
+   "no": "1475",
+   "word": "flexible",
+   "ph": "[fléksəbl]",
+   "pos": "형",
+   "mean": "유연한, 융통성 있는",
+   "ex": "Worldwide, many thought a <b>flexible</b> globalized economy generated only prosperity.",
+   "exKo": "세계적으로, 많은 사람들이 유연한 세계화 경제가 번영만을 가져다 준다고 생각합니다.",
+   "derived": [],
+   "syn": [
+    [
+     "adaptable",
+     "적응할 수 있는"
+    ],
+    [
+     "elastic",
+     "탄력 있는, 융통성이 있는"
+    ]
+   ]
+  },
+  {
+   "no": "1476",
+   "word": "contract",
+   "ph": "[kántrækt]",
+   "pos": "명·동",
+   "mean": "(명) 계약 / (동) 계약하다, 수축하다, 병 걸리다",
+   "ex": "This was the first democratic <b>contract</b> signed in the New World.",
+   "exKo": "이것은 신세계에서 서명한 첫 번째 민주적인 계약입니다.",
+   "derived": [],
+   "syn": [
+    [
+     "deal",
+     "계약, 다루다, 거래"
+    ],
+    [
+     "agreement",
+     "합의, 협정, 동의"
+    ],
+    [
+     "transaction",
+     "거래, 계약, 업무, 입출금"
+    ]
+   ]
+  },
+  {
+   "no": "1477",
+   "word": "monk",
+   "ph": "[mʌŋk]",
+   "pos": "명",
+   "mean": "승려, 스님, 수도사",
+   "ex": "In the Roman Catholic Church, Trappist <b>monks</b> have practiced vegetarianism since 1666.",
+   "exKo": "로마 가톨릭 교회의 트라피스트회의 수도승들은 1666년 이래로 채식을 행해왔다.",
+   "derived": [],
+   "syn": [
+    [
+     "priest",
+     "성직자, 사제"
+    ],
+    [
+     "abbot",
+     "수도원장"
+    ]
+   ]
+  },
+  {
+   "no": "1478",
+   "word": "virtue",
+   "ph": "[və́ːrtʃuː]",
+   "pos": "명",
+   "mean": "덕, 선행, 미덕, 장점",
+   "ex": "She was certainly no paragon of <b>virtue</b>!",
+   "exKo": "그녀는 분명히 선의 귀감은 아니었어!",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1479",
+   "word": "pitfall",
+   "ph": "[pítfɔ̀ːl]",
+   "pos": "명",
+   "mean": "함정, 위험",
+   "ex": "Without anonymity, these actions can result in serious <b>pitfalls</b>.",
+   "exKo": "익명성이 없다면, 이러한 행동은 심각한 위험을 낳을 수 있다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1480",
+   "word": "welfare",
+   "ph": "[wélfɛ̀ər]",
+   "pos": "명",
+   "mean": "복지, 후생",
+   "ex": "We are concerned about the child's <b>welfare</b>.",
+   "exKo": "우리는 그 아이의 안녕을 염려한다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1481",
+   "word": "automobile",
+   "ph": "[ɔ̀ːtəməbíːl]",
+   "pos": "명·형",
+   "mean": "(명) 자동차 / (형) 자동차의",
+   "ex": "Korea has grown to be the sixth-largest <b>automobile</b> producer in the world.",
+   "exKo": "한국은 세계에서 여섯 번째로 큰 자동차 생산국으로 성장했다.",
+   "derived": [],
+   "syn": [
+    [
+     "automotive",
+     "자동차의"
+    ]
+   ]
+  },
+  {
+   "no": "1482",
+   "word": "fare",
+   "ph": "[fɛər]",
+   "pos": "명",
+   "mean": "(교통)요금",
+   "ex": "How much is the single <b>fare</b> to Glasgow?",
+   "exKo": "글래스고까지 편도 요금이 얼마예요?",
+   "derived": [
+    [
+     "charge",
+     "(일반적) 비용"
+    ],
+    [
+     "rate",
+     "(호텔) 비용"
+    ],
+    [
+     "fee",
+     "요금, 금액, (서비스) 비용"
+    ],
+    [
+     "toll",
+     "통행료, 통신요금"
+    ],
+    [
+     "⚠ fair",
+     "(혼동 주의) 공정한, 전시회"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1483",
+   "word": "vessel",
+   "ph": "[vésəl]",
+   "pos": "명",
+   "mean": "선박, 혈관, 그릇",
+   "ex": "We are now attempting to find a substitute <b>vessel</b>.",
+   "exKo": "현재 우리는 대체 선박을 찾으려고 시도 중입니다.",
+   "derived": [
+    [
+     "artery",
+     "동맥"
+    ],
+    [
+     "vein",
+     "정맥"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1484",
+   "word": "turbulence",
+   "ph": "[tə́ːrbjələns]",
+   "pos": "명",
+   "mean": "격동, 난기류",
+   "ex": "We experienced severe <b>turbulence</b> during the flight.",
+   "exKo": "우리는 비행 중에 심한 난기류를 만났다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1485",
+   "word": "merger",
+   "ph": "[mə́ːrdʒər]",
+   "pos": "명",
+   "mean": "합병, 병합, 연합",
+   "ex": "The <b>merger</b> of these two companies would create the world's biggest investment company.",
+   "exKo": "이 두 회사의 합병은 세계에서 가장 큰 투자회사를 만들게 될 것이다.",
+   "derived": [
+    [
+     "merger and acquisition",
+     "인수합병(M&A)"
+    ]
+   ],
+   "syn": [
+    [
+     "coalition",
+     "연합, 연대, 동맹"
+    ],
+    [
+     "alliance",
+     "동맹, 협력, 연합"
+    ],
+    [
+     "federation",
+     "연맹, 연합"
+    ]
+   ]
+  },
+  {
+   "no": "1486",
+   "word": "appetite",
+   "ph": "[ǽpətàit]",
+   "pos": "명",
+   "mean": "식욕, 욕구",
+   "ex": "He suffered from headaches and loss of <b>appetite</b>.",
+   "exKo": "그는 두통과 식욕 감퇴에 시달렸다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1487",
+   "word": "plot",
+   "ph": "[plat]",
+   "pos": "명·동",
+   "mean": "(명) 줄거리, 음모, 구성 / (동) 음모를 꾸미다",
+   "ex": "It stands out with thrilling spectacles, featuring a melodramatic <b>plot</b> of conspiracy, ordeal and revenge.",
+   "exKo": "이 작품은 음모, 시련, 복수 등 멜로드라마적인 플롯을 담고 손에 땀을 쥐게 하는 스펙타클한 장면이 많이 나오는 것이 특징이다.",
+   "derived": [],
+   "syn": [
+    [
+     "scheme",
+     "계획, 음모"
+    ],
+    [
+     "conspiracy",
+     "음모, 공모"
+    ]
+   ]
+  },
+  {
+   "no": "1488",
+   "word": "essence",
+   "ph": "[ésəns]",
+   "pos": "명",
+   "mean": "본질, 정수, 진수",
+   "ex": "His paintings capture the <b>essence</b> of France.",
+   "exKo": "그의 그림들은 프랑스의 정수를 포착하고 있다.",
+   "derived": [],
+   "syn": [
+    [
+     "core",
+     "핵심, 중심"
+    ]
+   ]
+  },
+  {
+   "no": "1489",
+   "word": "farewell",
+   "ph": "[fɛ̀ərwél]",
+   "pos": "명",
+   "mean": "작별, 이별",
+   "ex": "I bade <b>farewell</b> to all the friends I had made in Paris.",
+   "exKo": "나는 파리에서 사귄 모든 친구들에게 작별을 고했다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1490",
+   "word": "sermon",
+   "ph": "[sə́ːrmən]",
+   "pos": "명",
+   "mean": "설교, 교훈, 훈계",
+   "ex": "I think it's strange for politicians to deliver <b>sermons</b> on public morality.",
+   "exKo": "나는 정치인들이 대중의 도덕성에 대해 설교하는 것이 이상한 일이라고 생각한다.",
+   "derived": [
+    [
+     "⚠ summon",
+     "(혼동 주의) 소환하다, 호출하다"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1491",
+   "word": "instinctive",
+   "ph": "[instíŋktiv]",
+   "pos": "형",
+   "mean": "본능적인, 본능에 따른",
+   "ex": "My <b>instinctive</b> reaction was to deny everything.",
+   "exKo": "나의 본능적인 반응은 모든 것을 부인하는 것이었다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1492",
+   "word": "continent",
+   "ph": "[kántənənt]",
+   "pos": "명",
+   "mean": "대륙, 육지",
+   "ex": "The state of Alaska is in the northwest of the <b>continent</b>.",
+   "exKo": "알래스카 주는 대륙의 북서쪽에 있다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1493",
+   "word": "motorist",
+   "ph": "[móutərist]",
+   "pos": "명",
+   "mean": "(자동차) 운전자",
+   "ex": "When my car broke down, I got help from a passing <b>motorist</b>.",
+   "exKo": "차가 고장 났을 때 나는 지나가는 한 운전자로부터 도움을 받았었다.",
+   "derived": [],
+   "syn": [
+    [
+     "chauffeur",
+     "(운전) 기사, 기사를 하다"
+    ]
+   ]
+  },
+  {
+   "no": "1494",
+   "word": "net",
+   "ph": "[net]",
+   "pos": "명형동",
+   "mean": "(명) 그물 / (형) 순- / (동) 순익을 올리다, 획득하다",
+   "ex": "The sea turtle badly hurt one of its legs from being tangled in a <b>net</b>.",
+   "exKo": "그 바다거북은 그물에 얽히는 바람에 다리 한 쪽을 심하게 다쳤다.",
+   "derived": [
+    [
+     "net weight",
+     "순중량"
+    ],
+    [
+     "net income",
+     "순수입"
+    ]
+   ],
+   "syn": [
+    [
+     "mesh",
+     "그물, 맞물리다"
+    ]
+   ]
+  },
+  {
+   "no": "1495",
+   "word": "skyscraper",
+   "ph": "[skáiskrèipər]",
+   "pos": "명",
+   "mean": "고층 건물, 고층 빌딩",
+   "ex": "People build <b>skyscrapers</b> primarily because they are convenient.",
+   "exKo": "사람들은 주로 편리하다는 이유로 고층 건물들을 세운다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1496",
+   "word": "refugee",
+   "ph": "[rèfjudʒíː]",
+   "pos": "명",
+   "mean": "난민, 망명자",
+   "ex": "Thousands of <b>refugees</b> crossed the border seeking safety after the conflict destroyed their homes and communities.",
+   "exKo": "수천 명의 난민들이 분쟁으로 집과 공동체가 파괴된 후 안전을 찾아 국경을 넘었다.",
+   "derived": [
+    [
+     "refuge",
+     "피난처, 안식처"
+    ],
+    [
+     "⚠ refuse",
+     "(혼동 주의) 거절하다, 거부하다"
+    ],
+    [
+     "⚠ refute",
+     "(혼동 주의) 반박하다, (틀렸음을) 입증하다"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1497",
+   "word": "corporation",
+   "ph": "[kɔ̀ːrpəréiʃən]",
+   "pos": "명",
+   "mean": "기업, 법인",
+   "ex": "The global <b>corporation</b> works with over 3,000 corporations in 87 countries.",
+   "exKo": "그 국제적 기업은 87개국의 3만여 개 기업들과 함께 일한다.",
+   "derived": [
+    [
+     "corporate",
+     "기업의, 공동의"
+    ]
+   ],
+   "syn": [
+    [
+     "company",
+     "회사, 동료"
+    ],
+    [
+     "business",
+     "기업, 사업, 경영"
+    ],
+    [
+     "firm",
+     "기업, 회사, 확고한"
+    ]
+   ]
+  },
+  {
+   "no": "1498",
+   "word": "architecture",
+   "ph": "[ɑ́ːrkitèktʃər]",
+   "pos": "명",
+   "mean": "건축학, 건축 양식",
+   "ex": "The building is a prime example of 1960s <b>architecture</b>.",
+   "exKo": "그 건물은 1960년대 건축의 전형적인 예이다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1499",
+   "word": "population",
+   "ph": "[pɑ̀pjəléiʃən]",
+   "pos": "명",
+   "mean": "인구, 주민, 개체 수",
+   "ex": "The <b>population</b> of Europe makes about 11 percent of the world's total population.",
+   "exKo": "유럽의 인구는 세계 총 인구의 약 11%를 차지합니다.",
+   "derived": [
+    [
+     "popular",
+     "대중적인, 인기 있는"
+    ],
+    [
+     "populace",
+     "대중들, 주민"
+    ],
+    [
+     "popularity",
+     "인기, 대중성"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1500",
+   "word": "transfer",
+   "ph": "[trǽnsfər]",
+   "pos": "동·명",
+   "mean": "(동) 옮기다, 이동하다 / (명) 이동",
+   "ex": "Divers <b>transfer</b> from the water to a decompression chamber.",
+   "exKo": "잠수부들은 물에서 나와 감압실로 이동한다.",
+   "derived": [],
+   "syn": []
+  }
+ ]
+}
