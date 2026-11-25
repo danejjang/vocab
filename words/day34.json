@@ -1,0 +1,874 @@
+{
+ "day": "DAY 34",
+ "words": [
+  {
+   "no": "1651",
+   "word": "flaw",
+   "ph": "[flɔː]",
+   "pos": "명",
+   "mean": "결함, 흠",
+   "ex": "Accept your <b>flaw</b>s and the fact that you are imperfect.",
+   "exKo": "자신의 단점과 자신이 불완전하다는 사실을 인정하세요.",
+   "derived": [
+    [
+     "flawless",
+     "흠 없는, 완벽한"
+    ]
+   ],
+   "syn": [
+    [
+     "weakness",
+     "약점, 약함, 부진"
+    ],
+    [
+     "defect",
+     "결함, 흠"
+    ]
+   ]
+  },
+  {
+   "no": "1652",
+   "word": "axis",
+   "ph": "[ǽksis]",
+   "pos": "명",
+   "mean": "축, 중심축",
+   "ex": "The earth revolves on its <b>axis</b>.",
+   "exKo": "지구는 지축을 중심으로 자전한다.",
+   "derived": [],
+   "syn": [
+    [
+     "pivot",
+     "중심축"
+    ]
+   ]
+  },
+  {
+   "no": "1653",
+   "word": "disapproval",
+   "ph": "[dìsəprúːvəl]",
+   "pos": "명",
+   "mean": "반대, 불만",
+   "ex": "Although they said nothing about my suggestion, I could sense their strong <b>disapproval</b>.",
+   "exKo": "그들은 나의 제안에 아무 말도 안 했지만 나는 그들의 강한 반감을 느낄 수 있었다.",
+   "derived": [],
+   "syn": [
+    [
+     "opposition",
+     "반대, 야당"
+    ]
+   ]
+  },
+  {
+   "no": "1654",
+   "word": "status",
+   "ph": "[stéitəs]",
+   "pos": "명",
+   "mean": "신분, 지위",
+   "ex": "Exotic pets are the latest <b>status</b> symbol.",
+   "exKo": "이국적인 애완동물이 최근의 높은 사회적 신분의 상징이다.",
+   "derived": [
+    [
+     "⚠ statue",
+     "(혼동 주의) 조각상"
+    ]
+   ],
+   "syn": [
+    [
+     "position",
+     "지위"
+    ]
+   ]
+  },
+  {
+   "no": "1655",
+   "word": "clause",
+   "ph": "[klɔːz]",
+   "pos": "명",
+   "mean": "조항, 약관, 절",
+   "ex": "This convention includes a <b>clause</b> for creating a business-friendly environment.",
+   "exKo": "이 협약에는 기업 친화적인 환경을 조성하기 위한 조항이 포함되어 있다.",
+   "derived": [],
+   "syn": [
+    [
+     "provision",
+     "규정, 조항, 지원, 대비"
+    ],
+    [
+     "stipulation",
+     "조건, 계약, 약정"
+    ]
+   ]
+  },
+  {
+   "no": "1656",
+   "word": "basis",
+   "ph": "[béisis]",
+   "pos": "명",
+   "mean": "근거, 이유, 기준, 기반",
+   "ex": "The <b>basis</b> of a good marriage is trust.",
+   "exKo": "훌륭한 결혼 생활의 기반이 되는 것은 신뢰이다.",
+   "derived": [
+    [
+     "⚠ bias",
+     "(혼동 주의) 편견"
+    ]
+   ],
+   "syn": [
+    [
+     "framework",
+     "근거, 체제, 틀"
+    ],
+    [
+     "groundwork",
+     "기초, 기본 원리, 토대"
+    ]
+   ]
+  },
+  {
+   "no": "1657",
+   "word": "legend",
+   "ph": "[lédʒənd]",
+   "pos": "명",
+   "mean": "전설, 신화",
+   "ex": "<b>Legend</b> has it that the lake was formed by the tears of a god.",
+   "exKo": "전설에 따르면 그 호수는 어느 신의 눈물로 만들어졌다고 한다.",
+   "derived": [],
+   "syn": [
+    [
+     "myth",
+     "신화"
+    ]
+   ]
+  },
+  {
+   "no": "1658",
+   "word": "fidelity",
+   "ph": "[fidéləti]",
+   "pos": "명",
+   "mean": "충실함, 신의, 충성",
+   "ex": "A dog's <b>fidelity</b> is stronger than that of a cat.",
+   "exKo": "개의 충성심이 고양이보다 강하다.",
+   "derived": [],
+   "syn": [
+    [
+     "loyalty",
+     "충성, 성실, 의리"
+    ],
+    [
+     "allegiance",
+     "충성"
+    ]
+   ]
+  },
+  {
+   "no": "1659",
+   "word": "pasture",
+   "ph": "[pǽstʃər]",
+   "pos": "명",
+   "mean": "목장, 초원, 목초지",
+   "ex": "<b>Pasture</b> is land covered with vegetation used for grazing of livestock as part of a farm.",
+   "exKo": "목장은 농장의 일부로서, 가축이 풀을 뜯게 하기 위해 이용되는 초목으로 덮인 땅이다.",
+   "derived": [],
+   "syn": [
+    [
+     "grassland",
+     "목초지, 초지, 초원"
+    ],
+    [
+     "meadow",
+     "풀밭, 목초지"
+    ]
+   ]
+  },
+  {
+   "no": "1660",
+   "word": "risky",
+   "ph": "[ríski]",
+   "pos": "형",
+   "mean": "위험한",
+   "ex": "It's far too <b>risky</b> to generalize from one set of results.",
+   "exKo": "한 집단의 결과들을 가지고 일반화를 하는 것은 너무 위험하다.",
+   "derived": [],
+   "syn": [
+    [
+     "dangerous",
+     "위험한"
+    ],
+    [
+     "hazardous",
+     "위험한, 유해한"
+    ],
+    [
+     "perilous",
+     "위험한"
+    ]
+   ]
+  },
+  {
+   "no": "1661",
+   "word": "border",
+   "ph": "[bɔ́ːrdər]",
+   "pos": "명·동",
+   "mean": "(명) 국경, 가두리 / (동) 접하다",
+   "ex": "Troops patrolled the <b>border</b> day and night.",
+   "exKo": "군인들이 밤낮으로 국경에서 순찰을 돌았다.",
+   "derived": [
+    [
+     "border on",
+     "-에 접하다"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1662",
+   "word": "council",
+   "ph": "[káunsəl]",
+   "pos": "명",
+   "mean": "의회, 자문 위원회, 협의회",
+   "ex": "Little Joshua donated the money to the Detroit City <b>Council</b>.",
+   "exKo": "꼬마 조슈아는 그 돈을 디트로이트 시 의회에 기부했습니다.",
+   "derived": [],
+   "syn": [
+    [
+     "parliament",
+     "국회, 의회, 하원, 모임"
+    ],
+    [
+     "congress",
+     "의회, 회의"
+    ]
+   ]
+  },
+  {
+   "no": "1663",
+   "word": "forefather",
+   "ph": "[fɔ́ːrfɑ̀ːðər]",
+   "pos": "명",
+   "mean": "선조, 조상",
+   "ex": "They gave thanks to their <b>forefather</b> before having a meal.",
+   "exKo": "그들은 식사 전에 그들의 조상께 감사 기도를 했다.",
+   "derived": [],
+   "syn": [
+    [
+     "ancestor",
+     "조상, 선조, 시조"
+    ],
+    [
+     "predecessor",
+     "전임자, 전신"
+    ]
+   ]
+  },
+  {
+   "no": "1664",
+   "word": "format",
+   "ph": "[fɔ́ːrmæt]",
+   "pos": "명",
+   "mean": "구성, 체제",
+   "ex": "In its new <b>format</b>, the magazine hopes to attract a much wider readership.",
+   "exKo": "그 잡지는 새로운 체제를 통해 훨씬 더 폭넓은 독자층을 끌어들일 수 있기를 바라고 있다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1665",
+   "word": "quandary",
+   "ph": "[kwándəri]",
+   "pos": "명",
+   "mean": "곤혹, 궁지, 진퇴양난",
+   "ex": "The nature of journal writing is to write personally about life's <b>quandaries</b>.",
+   "exKo": "일기 쓰기의 본래 의미는 삶의 난관에 대해 개인적으로 쓰는 것이다.",
+   "derived": [],
+   "syn": [
+    [
+     "plight",
+     "곤경"
+    ],
+    [
+     "predicament",
+     "곤경"
+    ],
+    [
+     "dilemma",
+     "곤경, 진퇴양난"
+    ]
+   ]
+  },
+  {
+   "no": "1666",
+   "word": "take over",
+   "ph": "",
+   "pos": "동",
+   "mean": "인수하다, 인계하다",
+   "ex": "Valuable vacant land rarely sits idle and is often <b>taken over</b> – either formally, or informally – and made productive.",
+   "exKo": "가치 있는 빈 땅은 대부분 방치되지 않으며 종종 공식적으로건, 비공식적으로건, 넘겨진 뒤에 생산적으로 만들어지기도 한다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1667",
+   "word": "mess",
+   "ph": "[mes]",
+   "pos": "명·동",
+   "mean": "(명) 엉망인 상태, 뒤죽박죽 / (동) 망치다",
+   "ex": "Let's learn a few ways to clean up the <b>mess</b>.",
+   "exKo": "그 엉망인 부분을 깨끗이 하는 몇 가지 방법을 배워 보자.",
+   "derived": [
+    [
+     "⚠ mass",
+     "(혼동 주의) 덩어리, 질량, 대량"
+    ]
+   ],
+   "syn": [
+    [
+     "muddle",
+     "혼란, 난잡, 뒤죽박죽으로 만들다"
+    ]
+   ]
+  },
+  {
+   "no": "1668",
+   "word": "era",
+   "ph": "[í(ː)rə]",
+   "pos": "명",
+   "mean": "시대, 연대",
+   "ex": "Let's celebrate Korea for opening an <b>era</b> of space science!",
+   "exKo": "우주 과학의 시대를 여는 한국을 축하합시다!",
+   "derived": [],
+   "syn": [
+    [
+     "period",
+     "기간, 시대, 단계"
+    ]
+   ]
+  },
+  {
+   "no": "1669",
+   "word": "biography",
+   "ph": "[baiágrəfi]",
+   "pos": "명",
+   "mean": "전기/위인전",
+   "ex": "She agreed to collaborate with him in writing her <b>biography</b>.",
+   "exKo": "그녀는 그가 그녀의 전기를 쓰는 것에 협력하겠다고 동의했다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1670",
+   "word": "politics",
+   "ph": "[pálitiks]",
+   "pos": "명",
+   "mean": "정치, 정치학",
+   "ex": "Well, <b>politics</b> is too hard for me to understand yet.",
+   "exKo": "정치는 아직 내가 이해하기 너무 어려워.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1671",
+   "word": "candidate",
+   "ph": "[kǽndidèit]",
+   "pos": "명",
+   "mean": "입후보자, 지원자",
+   "ex": "It is the local <b>candidate</b>s that put the interests of the public into action.",
+   "exKo": "대중들의 이해 관계를 실행하는 사람은 지역 후보자들이다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1672",
+   "word": "lava",
+   "ph": "[láːvə]",
+   "pos": "명",
+   "mean": "용암",
+   "ex": "From the ancient volcanoes, <b>lava</b> flowed all over the plains of Siberia.",
+   "exKo": "고대의 화산들로부터 용암이 시베리아 평원 전역에 흘렀다.",
+   "derived": [
+    [
+     "larvae",
+     "애벌레, 유충"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1673",
+   "word": "percentage",
+   "ph": "[pərséntidʒ]",
+   "pos": "명",
+   "mean": "백분율, 비율",
+   "ex": "The <b>percentage</b> of senior citizens in the world has increased very quickly.",
+   "exKo": "세계에서 노인의 비율이 급속도로 높아졌다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1674",
+   "word": "liver",
+   "ph": "[lívər]",
+   "pos": "명",
+   "mean": "간",
+   "ex": "Your <b>liver</b> is the main place in your body where alcohol is broken down.",
+   "exKo": "당신의 간은 당신의 몸에서 알코올이 분해되는 중요한 곳이다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1675",
+   "word": "domain",
+   "ph": "[douméin]",
+   "pos": "명",
+   "mean": "분야, 영역",
+   "ex": "Childcare and housework are no longer solely a female <b>domain</b>.",
+   "exKo": "육아와 가사는 더 이상 여성만의 영역이 아니다.",
+   "derived": [],
+   "syn": [
+    [
+     "area",
+     "구역, 범위, 영역, 분야"
+    ],
+    [
+     "field",
+     "분야, 현장"
+    ]
+   ]
+  },
+  {
+   "no": "1676",
+   "word": "enigma",
+   "ph": "[ənígmə]",
+   "pos": "명",
+   "mean": "수수께끼, 암호",
+   "ex": "The <b>enigma</b>s of life are not easily resolved.",
+   "exKo": "삶의 수수께끼들은 쉽게 풀리지 않는다.",
+   "derived": [],
+   "syn": [
+    [
+     "riddle",
+     "수수께끼, 불가사의"
+    ],
+    [
+     "mystery",
+     "수수께끼, 미스터리"
+    ]
+   ]
+  },
+  {
+   "no": "1677",
+   "word": "capital",
+   "ph": "[kǽpitəl]",
+   "pos": "명·형",
+   "mean": "(명) 수도, 자본(금) / (형) 생명의, 주요한",
+   "ex": "The <b>capital</b> of Uruguay is Montevideo and is an important trading and commercial center.",
+   "exKo": "우루과이의 수도는 몬테비데오이고 이곳은 무역과 상업의 중요한 중심지이다.",
+   "derived": [
+    [
+     "capital punishment",
+     "사형"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1678",
+   "word": "charm",
+   "ph": "[tʃaːrm]",
+   "pos": "명·동",
+   "mean": "(명) 매력 / (동) 매혹하다",
+   "ex": "He was enchanted by the <b>charm</b> and movement of them and tried to paint it on a canvas.",
+   "exKo": "그는 그것들의 매력과 움직임에 매료되었고, 그것을 화폭에 그리려고 노력했다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1679",
+   "word": "submission",
+   "ph": "[səbmíʃən]",
+   "pos": "명",
+   "mean": "제출, 굴복, 복종",
+   "ex": "The deadline for <b>submission</b> will be determined soon and specified at our website.",
+   "exKo": "제출 마감일은 곧 결정되어 우리 웹사이트에 명시될 것입니다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1680",
+   "word": "pulse",
+   "ph": "[pʌls]",
+   "pos": "명·동",
+   "mean": "(명) 맥박 / (동) 고동치다",
+   "ex": "The average human <b>pulse</b> rate is around seventy beats per minute.",
+   "exKo": "사람의 평균 맥박 수는 1분에 약 70회이다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1681",
+   "word": "confidential",
+   "ph": "[kànfidénʃəl]",
+   "pos": "형",
+   "mean": "비밀의, 은밀한, 신뢰를 받는",
+   "ex": "This malware tracked individuals and stored <b>confidential</b> information about users.",
+   "exKo": "이 악성 프로그램은 개인들을 추적하고 사용자들의 비밀 정보를 저장했다.",
+   "derived": [],
+   "syn": [
+    [
+     "clandestine",
+     "비밀의, 은밀한, 비밀히 행해지는"
+    ],
+    [
+     "covert",
+     "비밀의, 은밀한, 암암리의"
+    ],
+    [
+     "secret",
+     "비밀, 비밀의"
+    ]
+   ]
+  },
+  {
+   "no": "1682",
+   "word": "prototype",
+   "ph": "[próutətàip]",
+   "pos": "명",
+   "mean": "원형, 표준, 모범",
+   "ex": "A number of Chinese organizations have revealed several new <b>prototype</b>s for self-driving vehicles.",
+   "exKo": "중국의 많은 회사들이 자율 주행 자동차의 몇몇 새로운 원형을 공개하였다.",
+   "derived": [],
+   "syn": [
+    [
+     "archetype",
+     "원형, 전형, 모범"
+    ]
+   ]
+  },
+  {
+   "no": "1683",
+   "word": "friction",
+   "ph": "[fríkʃən]",
+   "pos": "명",
+   "mean": "마찰, 불화",
+   "ex": "<b>Friction</b> between moving parts had caused the engine to overheat.",
+   "exKo": "움직이는 부품들 간의 마찰로 엔진이 과열된 것이었다.",
+   "derived": [
+    [
+     "⚠ fraction",
+     "(혼동 주의) 파편, 소량, 분수"
+    ]
+   ],
+   "syn": [
+    [
+     "discord",
+     "불화, 불일치, 알력"
+    ]
+   ]
+  },
+  {
+   "no": "1684",
+   "word": "charity",
+   "ph": "[tʃǽrəti]",
+   "pos": "명",
+   "mean": "자선 단체, 자선, 너그러움",
+   "ex": "The world has been abuzz with quite a new <b>charity</b> campaign.",
+   "exKo": "세계는 지금 새로운 자선 캠페인으로 매우 떠들썩하다.",
+   "derived": [],
+   "syn": [
+    [
+     "philanthropy",
+     "자선, 박애, 인류애"
+    ]
+   ]
+  },
+  {
+   "no": "1685",
+   "word": "circumstance",
+   "ph": "[sə́ːrkəmstæ̀ns]",
+   "pos": "명",
+   "mean": "상황, 형편, 환경",
+   "ex": "The secrets show that negative life <b>circumstance</b>s don't have to affect your happiness.",
+   "exKo": "그 비밀들은 부정적인 삶의 환경이 당신의 행복에 영향을 주지 않는다는 것을 보여준다.",
+   "derived": [],
+   "syn": [
+    [
+     "condition",
+     "조건, 상태, 환경"
+    ]
+   ]
+  },
+  {
+   "no": "1686",
+   "word": "economy",
+   "ph": "[ikánəmi]",
+   "pos": "명",
+   "mean": "경제, 경제 활동, 절약",
+   "ex": "Hopefully the summit will propel stable growth for our <b>economy</b>.",
+   "exKo": "정상회담이 우리 경제의 안정적 성장을 추진하기를 바란다.",
+   "derived": [
+    [
+     "economic",
+     "경제의, 경제성 있는"
+    ],
+    [
+     "economics",
+     "경제학"
+    ],
+    [
+     "economical",
+     "경제적인, 절약하는"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1687",
+   "word": "faucet",
+   "ph": "[fɔ́ːsit]",
+   "pos": "명",
+   "mean": "(수도) 꼭지",
+   "ex": "Turn off the <b>faucet</b> when not using it.",
+   "exKo": "사용하지 않을 때는 수도꼭지를 잠그세요.",
+   "derived": [
+    [
+     "tap water",
+     "수돗물"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1688",
+   "word": "principle",
+   "ph": "[prínsəpl]",
+   "pos": "명",
+   "mean": "원칙, 주의",
+   "ex": "The <b>principle</b>, however, may apply to all that require proficiency.",
+   "exKo": "그러나 이 원칙은 숙련도를 요구하는 모든 일에 적용될 수 있다.",
+   "derived": [],
+   "syn": [
+    [
+     "standard",
+     "표준, 기준, 수준"
+    ]
+   ]
+  },
+  {
+   "no": "1689",
+   "word": "clue",
+   "ph": "[kluː]",
+   "pos": "명",
+   "mean": "단서, 실마리",
+   "ex": "Archaeological evidence will give us <b>clue</b>s about what the tools were used for.",
+   "exKo": "고고학적인 증거가 그 도구들이 무슨 용도로 쓰였는지에 대한 단서들을 우리에게 줄 것이다.",
+   "derived": [],
+   "syn": [
+    [
+     "cue",
+     "단서, 신호"
+    ]
+   ]
+  },
+  {
+   "no": "1690",
+   "word": "craving",
+   "ph": "[kréiviŋ]",
+   "pos": "명",
+   "mean": "갈망, 열망",
+   "ex": "I felt a sudden <b>craving</b> for french fries, so I went to the nearest fast-food restaurant.",
+   "exKo": "나는 갑자기 감자튀김에 대한 갈망이 느껴져서 가까운 패스트푸드점에 갔다.",
+   "derived": [],
+   "syn": [
+    [
+     "longing",
+     "동경, 갈망, 열망"
+    ],
+    [
+     "lust",
+     "욕망, 갈망"
+    ],
+    [
+     "desire",
+     "욕망, 원하다"
+    ]
+   ]
+  },
+  {
+   "no": "1691",
+   "word": "proof",
+   "ph": "[pruːf]",
+   "pos": "명·형",
+   "mean": "(명) 증거, 입증 / (형) 견딜 수 있는(막아내는)",
+   "ex": "However, there is no scientific <b>proof</b> that it can do this.",
+   "exKo": "하지만, 그것이 이 일을 해낼 수 있다는 어떠한 과학적인 증거도 없습니다.",
+   "derived": [
+    [
+     "water-proof",
+     "방수의"
+    ],
+    [
+     "bullet-proof",
+     "방탄의"
+    ]
+   ],
+   "syn": [
+    [
+     "evidence",
+     "증거, 근거"
+    ],
+    [
+     "testimony",
+     "증언, 증거, 입증"
+    ]
+   ]
+  },
+  {
+   "no": "1692",
+   "word": "spouse",
+   "ph": "[spaus]",
+   "pos": "명",
+   "mean": "배우자, 짝",
+   "ex": "The court ruled that it was illegal for a person to record the phone conversations of his <b>spouse</b> with another person.",
+   "exKo": "그 법원은 개인이 자신의 배우자가 다른 사람과 통화하는 것을 녹음하는 것은 불법이라고 판결을 내렸다.",
+   "derived": [],
+   "syn": [
+    [
+     "partner",
+     "배우자, 짝"
+    ],
+    [
+     "mate",
+     "상대, 배우자"
+    ]
+   ]
+  },
+  {
+   "no": "1693",
+   "word": "publication",
+   "ph": "[pʌ̀bləkéiʃən]",
+   "pos": "명",
+   "mean": "출판, 발행",
+   "ex": "Nelson Mandela's latest <b>publication</b> contains excerpts of the letters he wrote while in jail for 27 years.",
+   "exKo": "넬슨 만델라의 최신 저서는 그가 27년 동안 감옥에 있을 때 썼던 편지들에서 발췌한 내용들을 담고 있다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1694",
+   "word": "stubborn",
+   "ph": "[stʌ́bərn]",
+   "pos": "형",
+   "mean": "고집 센, 완고한",
+   "ex": "Odysseus was as <b>stubborn</b> as a mule, yet as cunning as a fox.",
+   "exKo": "오디세우스는 노새만큼이나 완고했지만, 여우만큼 교활했다.",
+   "derived": [],
+   "syn": [
+    [
+     "obstinate",
+     "완고한, 고집 센"
+    ],
+    [
+     "unyielding",
+     "단단한, 완고한, 양보하지 않는"
+    ]
+   ]
+  },
+  {
+   "no": "1695",
+   "word": "reason",
+   "ph": "[ríːzən]",
+   "pos": "명·동",
+   "mean": "(명) 이유, 원인, 이성 / (동) 추론하다",
+   "ex": "Human beings possess not only natural instinct but also the power of <b>reason</b>.",
+   "exKo": "인간은 타고난 본능뿐만 아니라 이성의 힘도 지니고 있다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1696",
+   "word": "procrastination",
+   "ph": "[proukræ̀stənéiʃən]",
+   "pos": "명",
+   "mean": "미루기, 지연",
+   "ex": "What comes to your mind when you see the word <b>procrastination</b>?",
+   "exKo": "당신은 미루기라는 단어를 보면 무슨 생각이 떠오르는가?",
+   "derived": [],
+   "syn": [
+    [
+     "loafing",
+     "꾸물거림"
+    ],
+    [
+     "hesitation",
+     "망설임, 꾸물거림"
+    ]
+   ]
+  },
+  {
+   "no": "1697",
+   "word": "furnace",
+   "ph": "[fə́ːrnis]",
+   "pos": "명",
+   "mean": "용광로, 보일러, 난방기",
+   "ex": "It's like a <b>furnace</b> in here. Can we open windows?",
+   "exKo": "여기는 용광로 같군요. 창문 좀 열까요?",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1698",
+   "word": "stalk",
+   "ph": "[stɔːk]",
+   "pos": "명·동",
+   "mean": "(명) 줄기 / (동) 추근대다 (스토킹), 만연하다",
+   "ex": "It has toxins on its <b>stalk</b> and if you touch it, it can cause skin troubles.",
+   "exKo": "그것은 줄기에 독이 들어 있어 만지면 피부병을 일으킬 수 있습니다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1699",
+   "word": "standpoint",
+   "ph": "[stǽndpɔ̀int]",
+   "pos": "명",
+   "mean": "관점, 입장, 견지",
+   "ex": "I have to put aside my emotions and consider it from a professional <b>standpoint</b>.",
+   "exKo": "내 감정은 미루어두고 전문적인 관점에서 그것을 생각해봐야 한다.",
+   "derived": [
+    [
+     "stance",
+     "입장, 자세, 태도"
+    ]
+   ],
+   "syn": [
+    [
+     "perspective",
+     "관점, 시각, 원근법"
+    ],
+    [
+     "viewpoint",
+     "관점, 견해"
+    ]
+   ]
+  },
+  {
+   "no": "1700",
+   "word": "cottage",
+   "ph": "[kátidʒ]",
+   "pos": "명",
+   "mean": "오두막",
+   "ex": "We planned to stay at a secluded country <b>cottage</b> for an extended vacation.",
+   "exKo": "우리는 늘어난 휴가 동안에 시골의 한 외딴 작은 집에서 지내기로 계획했었다.",
+   "derived": [],
+   "syn": [
+    [
+     "cabin",
+     "오두막, 통나무집"
+    ],
+    [
+     "hut",
+     "오두막"
+    ]
+   ]
+  }
+ ]
+}
