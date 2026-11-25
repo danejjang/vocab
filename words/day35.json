@@ -1,0 +1,870 @@
+{
+ "day": "DAY 35",
+ "words": [
+  {
+   "no": "1701",
+   "word": "flesh",
+   "ph": "[fleʃ]",
+   "pos": "명",
+   "mean": "살, 고기, 피부",
+   "ex": "Handshakes cause more <b>flesh</b> to contact and usually last longer than other greeting forms.",
+   "exKo": "악수는 다른 인사법들보다 더 많은 살이 닿게 되고 보통 더 오래 지속된다.",
+   "derived": [
+    [
+     "⚠ fresh",
+     "(혼동 주의) 신선한, 상쾌한"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1702",
+   "word": "counsel",
+   "ph": "[káunsəl]",
+   "pos": "명·동",
+   "mean": "(명) 조언, 상담 / (동) 상담을 하다",
+   "ex": "He started to act in films again and helped <b>counsel</b> other drug addicts.",
+   "exKo": "그는 영화에 다시 출연하였고 다른 마약 중독자들에게 상담을 해주기도 하였다.",
+   "derived": [
+    [
+     "⚠ consular",
+     "(혼동 주의) 영사의, 영사관의"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1703",
+   "word": "breeze",
+   "ph": "[briːz]",
+   "pos": "명·동",
+   "mean": "(명) 미풍, 식은 죽 먹기 / (동) 거침없이 움직이다",
+   "ex": "The flowers were gently swaying in the <b>breeze</b>.",
+   "exKo": "꽃들이 산들바람에 부드럽게 흔들리고 있었다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1704",
+   "word": "fatigue",
+   "ph": "[fətíːg]",
+   "pos": "명",
+   "mean": "피로, 피곤, 마비",
+   "ex": "Farmers performed the music in order to ease their physical <b>fatigue</b> in the fields.",
+   "exKo": "농부들은 밭에서 그들의 육체적 피로를 덜기 위해 음악을 연주했다.",
+   "derived": [],
+   "syn": [
+    [
+     "tiredness",
+     "피로, 권태"
+    ],
+    [
+     "weariness",
+     "피로, 지루함"
+    ]
+   ]
+  },
+  {
+   "no": "1705",
+   "word": "downturn",
+   "ph": "[dáuntə̀ːrn]",
+   "pos": "명",
+   "mean": "감소, 하강, 침체",
+   "ex": "The steady improvement in economic performance was interrupted by a <b>downturn</b> in agricultural production.",
+   "exKo": "경제 실적에서의 꾸준한 향상이 농업 생산의 감소로 인해 가로막히게 되었다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1706",
+   "word": "closure",
+   "ph": "[klóuʒər]",
+   "pos": "명",
+   "mean": "폐쇄, 마감, 폐지",
+   "ex": "The <b>closure</b> of the Tokyo branch came as a shock to everyone.",
+   "exKo": "도쿄 지부의 폐쇄는 모두에게 충격으로 다가왔다.",
+   "derived": [],
+   "syn": [
+    [
+     "shutdown",
+     "폐쇄, 정지"
+    ],
+    [
+     "termination",
+     "종료, 종결"
+    ]
+   ]
+  },
+  {
+   "no": "1707",
+   "word": "prestige",
+   "ph": "[prestíːʒ]",
+   "pos": "명·형",
+   "mean": "(명) 위신 / (형) 위신 있는",
+   "ex": "There is no guarantee that the international <b>prestige</b> will result in long term financial gains.",
+   "exKo": "국제적인 명성이 장기적으로 재정적인 이익을 거둘 것이라는 보장도 없다.",
+   "derived": [],
+   "syn": [
+    [
+     "reputation",
+     "명성, 평판, 명예"
+    ],
+    [
+     "honor",
+     "영광, 수여하다, 상"
+    ],
+    [
+     "fame",
+     "명성, 명예"
+    ]
+   ]
+  },
+  {
+   "no": "1708",
+   "word": "first aid",
+   "ph": "",
+   "pos": "명",
+   "mean": "응급치료",
+   "ex": "All members of the team have trained in <b>first aid</b>.",
+   "exKo": "그 팀의 팀원들 모두가 응급 치료 훈련을 받았다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1709",
+   "word": "prioritize",
+   "ph": "[praiɔ́ːrətàiz]",
+   "pos": "동",
+   "mean": "우선시하다, 우선 순위를 매기다",
+   "ex": "We need to <b>prioritize</b> urgent tasks to ensure the project stays on schedule.",
+   "exKo": "우리는 프로젝트 일정이 지연되지 않도록 긴급한 작업을 우선시해야 한다.",
+   "derived": [],
+   "syn": [
+    [
+     "prefer",
+     "우선시하다, 선호하다"
+    ],
+    [
+     "rank",
+     "순위를 매기다"
+    ]
+   ]
+  },
+  {
+   "no": "1710",
+   "word": "practice",
+   "ph": "[prǽktis]",
+   "pos": "명",
+   "mean": "실천, 관습, 연습, 행위",
+   "ex": "It was his <b>practice</b> to read the newspaper with a cup of coffee each morning.",
+   "exKo": "매일 아침 커피 한 잔과 함께 신문을 읽는 것이 그의 습관이었다.",
+   "derived": [
+    [
+     "practical",
+     "실용적인, 현실적인, 타당한"
+    ]
+   ],
+   "syn": [
+    [
+     "habit",
+     "습관"
+    ],
+    [
+     "convention",
+     "관습, 협의회"
+    ]
+   ]
+  },
+  {
+   "no": "1711",
+   "word": "pupil",
+   "ph": "[pjúːpəl]",
+   "pos": "명",
+   "mean": "학생, 문하생, 동공",
+   "ex": "Aristotle was Plato's most brilliant <b>pupil</b> and teacher of Alexander the Great.",
+   "exKo": "아리스토텔레스는 플라톤의 가장 뛰어난 제자였으며 알렉산더 대왕의 스승이기도 했다.",
+   "derived": [],
+   "syn": [
+    [
+     "apprentice",
+     "견습생, 도제"
+    ]
+   ]
+  },
+  {
+   "no": "1712",
+   "word": "relocation",
+   "ph": "[rìːloukéiʃən]",
+   "pos": "명",
+   "mean": "이주, 이전, 재배치",
+   "ex": "A partial <b>relocation</b> of administration would still need consensus between the rivaling parties.",
+   "exKo": "정부 부처를 일부 이전하는 것도 여야 간의 합의가 여전히 요구된다.",
+   "derived": [],
+   "syn": [
+    [
+     "transfer",
+     "이전, 이동"
+    ],
+    [
+     "shift",
+     "이동, 교대"
+    ]
+   ]
+  },
+  {
+   "no": "1713",
+   "word": "command",
+   "ph": "[kəmǽnd]",
+   "pos": "명·동",
+   "mean": "(명) 명령, 명령어 / (동) 명령하다, 억누르다",
+   "ex": "Leaders can no longer give <b>command</b>s and expect followers to follow without question.",
+   "exKo": "리더는 더 이상 명령을 내리면 구성원들이 이의 없이 따를 것으로 기대할 수 없다.",
+   "derived": [],
+   "syn": [
+    [
+     "order",
+     "명령"
+    ],
+    [
+     "mandate",
+     "명령, 의무, 지도력, 임무, 권한"
+    ]
+   ]
+  },
+  {
+   "no": "1714",
+   "word": "experiment",
+   "ph": "[ikspérəmənt]",
+   "pos": "명·동",
+   "mean": "(명) 실험 / (동) 실험을 하다",
+   "ex": "She will do many <b>experiment</b>s during her stay in space.",
+   "exKo": "그녀는 우주에 머무르는 동안 많은 실험을 할 것입니다.",
+   "derived": [],
+   "syn": [
+    [
+     "test",
+     "시험, 실험, 검사"
+    ],
+    [
+     "trial",
+     "재판, 실험, 시도"
+    ]
+   ]
+  },
+  {
+   "no": "1715",
+   "word": "comet",
+   "ph": "[kámit]",
+   "pos": "명",
+   "mean": "혜성",
+   "ex": "<b>Comet</b>s are usually made of ice, dust, and small rocks.",
+   "exKo": "혜성은 보통 얼음, 먼지, 작은 암석 등으로 이루어져 있습니다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1716",
+   "word": "premise",
+   "ph": "[prémis]",
+   "pos": "명",
+   "mean": "전제",
+   "ex": "We cannot accept your <b>premise</b> on that occasion.",
+   "exKo": "그러한 경우의 전제를 우리가 받아들일 수 없다.",
+   "derived": [
+    [
+     "premises",
+     "구내, 부지"
+    ],
+    [
+     "promise",
+     "약속, 약속하다"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1717",
+   "word": "reunion",
+   "ph": "[riːjúːnjən]",
+   "pos": "명",
+   "mean": "상봉, 재회",
+   "ex": "An annual <b>reunion</b> of former students and teachers will be held on December 20 this year.",
+   "exKo": "예전 학생들과 선생님들의 연례 모임이 올해에는 12월 20일에 있을 것이다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1718",
+   "word": "fiber",
+   "ph": "[fáibər]",
+   "pos": "명",
+   "mean": "섬유, 섬유질, 소질, 내구성",
+   "ex": "The hollow <b>fiber</b> inside filters out 99 percent of dirty substances.",
+   "exKo": "안에 있는 유공 섬유가 더러운 물질을 99% 걸러내요.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1719",
+   "word": "branch",
+   "ph": "[bræntʃ]",
+   "pos": "명·동",
+   "mean": "(명) 나뭇가지, 지점, 지사 / (동) 갈라지다",
+   "ex": "The <b>branch</b> was tantalizingly out of reach.",
+   "exKo": "그 나뭇가지는 감질나게 손이 닿지 않았다.",
+   "derived": [],
+   "syn": [
+    [
+     "stem",
+     "줄기, 막다"
+    ]
+   ]
+  },
+  {
+   "no": "1720",
+   "word": "semester",
+   "ph": "[siméstər]",
+   "pos": "명",
+   "mean": "학기",
+   "ex": "A <b>semester</b> is one of two usually 18-week periods that make up an academic year at a school or college.",
+   "exKo": "한 학기는 학교나 대학에서 한 학년을 구성하는, 보통 18주의 두 기간 중 하나이다.",
+   "derived": [],
+   "syn": [
+    [
+     "term",
+     "학기, 기간, 용어"
+    ],
+    [
+     "period",
+     "기간, 학기"
+    ],
+    [
+     "session",
+     "학기, 수업기간"
+    ]
+   ]
+  },
+  {
+   "no": "1721",
+   "word": "controversy",
+   "ph": "[kántrəvə̀ːrsi]",
+   "pos": "명",
+   "mean": "논란, 논쟁, 문제",
+   "ex": "In the United States, for example, there is much <b>controversy</b> surrounding illegal immigration.",
+   "exKo": "예를 들면, 미국에서, 불법 이민을 둘러싼 많은 논란이 있다.",
+   "derived": [
+    [
+     "controversial",
+     "논란의 여지가 있는(= debatable)"
+    ]
+   ],
+   "syn": [
+    [
+     "debate",
+     "토론, 논쟁, 논의"
+    ],
+    [
+     "dispute",
+     "분쟁, 논쟁, 문제"
+    ]
+   ]
+  },
+  {
+   "no": "1722",
+   "word": "contrast",
+   "ph": "[kántræst]",
+   "pos": "명·동",
+   "mean": "(명) 차이, 대조 / (동) 대조하다",
+   "ex": "This <b>contrast</b>s several Eastern countries.",
+   "exKo": "이것은 몇몇 동양의 나라들과 대조됩니다.",
+   "derived": [],
+   "syn": [
+    [
+     "difference",
+     "차이, 차액, 다른 점"
+    ]
+   ]
+  },
+  {
+   "no": "1723",
+   "word": "ecosystem",
+   "ph": "[ékousìstəm]",
+   "pos": "명",
+   "mean": "생태계",
+   "ex": "First of all, it will speed up climate change and destroy <b>ecosystem</b>s.",
+   "exKo": "그것은 가장 먼저 기후 변화와 생태계 파괴를 가속시키게 됩니다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1724",
+   "word": "poll",
+   "ph": "[poul]",
+   "pos": "명·동",
+   "mean": "(명) 여론 조사 / (동) 득표하다",
+   "ex": "A <b>poll</b> asked about 1,000 people about their favorite books.",
+   "exKo": "한 여론조사에서 천 명의 사람들에게 그들이 가장 좋아하는 책들에 대해 물어봤습니다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1725",
+   "word": "feature",
+   "ph": "[fíːtʃər]",
+   "pos": "명·동",
+   "mean": "(명) 특색, 이목구비 / (동) -을 특징으로 하다, 드러내다",
+   "ex": "Why do we all ignore this <b>feature</b> of the debate?",
+   "exKo": "우리 모두는 그 토론의 특징을 왜 무시하고 있는가?",
+   "derived": [],
+   "syn": [
+    [
+     "quality",
+     "품질, 특성, 고급의"
+    ],
+    [
+     "property",
+     "특성, 재산, 부동산"
+    ],
+    [
+     "trait",
+     "특성"
+    ],
+    [
+     "attribute",
+     "특징, 탓으로 돌리다"
+    ]
+   ]
+  },
+  {
+   "no": "1726",
+   "word": "congress",
+   "ph": "[káŋgrəs]",
+   "pos": "명",
+   "mean": "의회, 국회",
+   "ex": "The President has been in trouble, losing the support of <b>congress</b>.",
+   "exKo": "대통령은 의회의 지지를 잃고 곤경에 빠져 있다.",
+   "derived": [],
+   "syn": [
+    [
+     "assembly",
+     "의회"
+    ],
+    [
+     "parliament",
+     "국회"
+    ]
+   ]
+  },
+  {
+   "no": "1727",
+   "word": "plagiarism",
+   "ph": "[pléidʒərìzəm]",
+   "pos": "명",
+   "mean": "표절, 도용",
+   "ex": "The journal accused the professor of <b>plagiarism</b>, but the court found him not guilty.",
+   "exKo": "잡지사는 그 교수를 표절로 고발했지만, 법원은 그에게 죄가 없다고 판결을 내렸다.",
+   "derived": [
+    [
+     "⚠ paradigm",
+     "(혼동 주의) 패러다임, 틀, 전형"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1728",
+   "word": "revenue",
+   "ph": "[révənjùː]",
+   "pos": "명",
+   "mean": "매출, 수입, 수익",
+   "ex": "The company receives millions of dollars in advertising <b>revenue</b> every year.",
+   "exKo": "그 회사는 매년 광고 수입으로 수백 만 달러를 받는다.",
+   "derived": [],
+   "syn": [
+    [
+     "income",
+     "수입(주로 정기적인), 소득"
+    ]
+   ]
+  },
+  {
+   "no": "1729",
+   "word": "skull",
+   "ph": "[skʌl]",
+   "pos": "명",
+   "mean": "두개골, 해골",
+   "ex": "A dog's <b>skull</b> is generally somewhat smaller and rounder than a wolf's.",
+   "exKo": "일반적으로 개의 두개골은 늑대의 두개골보다 다소 작고 좀 더 둥글다.",
+   "derived": [],
+   "syn": [
+    [
+     "skeleton",
+     "두개골"
+    ]
+   ]
+  },
+  {
+   "no": "1730",
+   "word": "sorrow",
+   "ph": "[sárou]",
+   "pos": "명",
+   "mean": "슬픔, 애도",
+   "ex": "We are trained to control bad feelings such as anger or <b>sorrow</b> in public.",
+   "exKo": "우리는 사람들이 많은 곳에서 화나 슬픔 같은 나쁜 감정을 제어할 수 있도록 훈련 받는다.",
+   "derived": [],
+   "syn": [
+    [
+     "lamentation",
+     "애가, 비탄"
+    ],
+    [
+     "grief",
+     "슬픔, 비탄, 애도"
+    ]
+   ]
+  },
+  {
+   "no": "1731",
+   "word": "runoff",
+   "ph": "[rʌ́nɔ̀(ː)f]",
+   "pos": "명",
+   "mean": "(흐르는) 물, 범람, 결승전",
+   "ex": "It goes through a plant which slows down the <b>runoff</b> into the city's drains and rivers.",
+   "exKo": "그것은 도시의 하수구와 강으로 흘러가는 물의 속도를 늦춰주는 식물을 통과한다.",
+   "derived": [],
+   "syn": [
+    [
+     "drainage",
+     "배수, 배수시설, 하수"
+    ]
+   ]
+  },
+  {
+   "no": "1732",
+   "word": "footprint",
+   "ph": "[fútprìnt]",
+   "pos": "명",
+   "mean": "발자국, 영향",
+   "ex": "He left an indelible political <b>footprint</b> behind him.",
+   "exKo": "그는 지울 수 없는 정치적 발자취를 남겼다.",
+   "derived": [],
+   "syn": [
+    [
+     "sign",
+     "징후, 신호"
+    ],
+    [
+     "footmark",
+     "발자취"
+    ],
+    [
+     "trail",
+     "자취, (느리게) 걷다"
+    ]
+   ]
+  },
+  {
+   "no": "1733",
+   "word": "firm",
+   "ph": "[fəːrm]",
+   "pos": "명·형",
+   "mean": "(명) 회사 / (형) 확고한, 단단한",
+   "ex": "Marvel Comics is undoubtedly the world's top comic book publishing <b>firm</b>.",
+   "exKo": "마블 코믹스는 의심할 여지 없는 세계 최고의 만화책 출판 회사이다.",
+   "derived": [],
+   "syn": [
+    [
+     "company",
+     "회사, 동료"
+    ],
+    [
+     "steadfast",
+     "확고한, 부동의, 변치 않는"
+    ]
+   ]
+  },
+  {
+   "no": "1734",
+   "word": "compound",
+   "ph": "[kámpaund]",
+   "pos": "명·동",
+   "mean": "(명) 혼합물, 합성물 / (동) 혼합하다, 악화시키다",
+   "ex": "Salt, a <b>compound</b> of sodium and chlorine, makes up 2.9% of the world's oceans.",
+   "exKo": "나트륨과 염소의 혼합물인 소금은 전 세계 바다의 2.9%를 차지한다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1735",
+   "word": "rule",
+   "ph": "[ruːl]",
+   "pos": "명·동",
+   "mean": "(명) 규칙 / (동) 통치하다, 규정하다",
+   "ex": "Certain <b>rule</b>s are needed to preserve the order of society.",
+   "exKo": "사회 질서를 유지하기 위해서는 특정한 규칙들이 필요하다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1736",
+   "word": "cattle",
+   "ph": "[kǽtl]",
+   "pos": "명",
+   "mean": "소, 소떼, 가축",
+   "ex": "A cowboy is a person who manages <b>cattle</b> and horses.",
+   "exKo": "카우보이는 소떼와 말들을 관리하는 사람이에요.",
+   "derived": [],
+   "syn": [
+    [
+     "cow",
+     "소"
+    ],
+    [
+     "livestock",
+     "가축"
+    ]
+   ]
+  },
+  {
+   "no": "1737",
+   "word": "fertilizer",
+   "ph": "[fə́ːrtəlàizər]",
+   "pos": "명",
+   "mean": "비료",
+   "ex": "It is food that is made without any chemical <b>fertilizer</b>s or pesticides.",
+   "exKo": "그것은 어떠한 화학적 비료나 살충제 없이 만들어진 식품입니다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1738",
+   "word": "canal",
+   "ph": "[kənǽl]",
+   "pos": "명",
+   "mean": "운하, 수로, 관",
+   "ex": "Venice is composed of 118 islands, 177 <b>canal</b>s, and 409 bridges.",
+   "exKo": "베니스는 118개의 섬, 177개의 운하, 409개의 다리로 구성되어 있습니다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1739",
+   "word": "perpetuation",
+   "ph": "[pərpètʃuéiʃən]",
+   "pos": "명",
+   "mean": "영구화, 영속화",
+   "ex": "These problems include narcotics, violence, and the <b>perpetuation</b> of poverty.",
+   "exKo": "이러한 문제들은 마약, 폭력, 빈곤의 영구화를 포함한다.",
+   "derived": [
+    [
+     "perpetual",
+     "계속되는, 빈번한, 영구적인(= permanent)"
+    ],
+    [
+     "perpetuate",
+     "영구히 하다, 영속시키다"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1740",
+   "word": "stack",
+   "ph": "[stæk]",
+   "pos": "명·동",
+   "mean": "(명) 한 무더기 / (동) 쌓다",
+   "ex": "We were a little surprised to see the attic full of hundreds of books in <b>stack</b>.",
+   "exKo": "우리는 수백 권의 책이 쌓여 있는 다락방을 보고 약간 놀랐다.",
+   "derived": [],
+   "syn": [
+    [
+     "heap",
+     "더미, 쌓다"
+    ],
+    [
+     "pile",
+     "더미, 쌓다"
+    ]
+   ]
+  },
+  {
+   "no": "1741",
+   "word": "revenge",
+   "ph": "[rivéndʒ]",
+   "pos": "명·동",
+   "mean": "(명) 복수, 보복 / (동) 복수하다, 원수를 갚다",
+   "ex": "It is a romance novel about responsibility, loyalty, sin, and <b>revenge</b>.",
+   "exKo": "이 작품은 책임감, 충의, 죄 그리고 복수에 관한 로맨스 소설이다.",
+   "derived": [],
+   "syn": [
+    [
+     "vengeance",
+     "복수"
+    ],
+    [
+     "avenge",
+     "복수하다"
+    ]
+   ]
+  },
+  {
+   "no": "1742",
+   "word": "polarity",
+   "ph": "[poulǽrəti]",
+   "pos": "명",
+   "mean": "양극성, 양극화",
+   "ex": "All human things are relative, because everything rests on an inner <b>polarity</b>.",
+   "exKo": "모든 인간적인 것들은 상대적인데, 왜냐하면 모든 것은 내부의 양극성에 의존하기 때문이다.",
+   "derived": [
+    [
+     "north pole",
+     "북극"
+    ],
+    [
+     "poles apart",
+     "상극의, 정반대인"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1743",
+   "word": "stationery",
+   "ph": "[stéiʃənèri]",
+   "pos": "명",
+   "mean": "문방구, 문구",
+   "ex": "When you go to a <b>stationery</b> store, please don't forget to buy a stapler for me.",
+   "exKo": "네가 문구점에 갈 때 잊지 말고 스테이플러 사다 줘.",
+   "derived": [
+    [
+     "⚠ stationary",
+     "(혼동 주의) 움직이지 않는, 변하지 않는"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1744",
+   "word": "fiction",
+   "ph": "[fíkʃən]",
+   "pos": "명",
+   "mean": "소설, 허구",
+   "ex": "Will Rowling's magic continue as she prepares to make the jump to adult <b>fiction</b>?",
+   "exKo": "어른을 위한 소설로 도약을 준비하는 데 롤링의 마법이 계속될까요?",
+   "derived": [
+    [
+     "⚠ fraction",
+     "(혼동 주의) 부분, 일부 분수"
+    ],
+    [
+     "⚠ friction",
+     "(혼동 주의) 마찰"
+    ]
+   ],
+   "syn": [
+    [
+     "novel",
+     "소설, 기발한, 참신한"
+    ],
+    [
+     "tale",
+     "이야기, 소설"
+    ]
+   ]
+  },
+  {
+   "no": "1745",
+   "word": "counterpart",
+   "ph": "[káuntərpɑ̀ːrt]",
+   "pos": "명",
+   "mean": "상대방, 대체",
+   "ex": "In the Bronze Age, metal tools began to replace their stone <b>counterpart</b>.",
+   "exKo": "청동기시대에 금속으로 된 도구가 돌로 된 대응물(도구)을 대체하기 시작했다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1746",
+   "word": "complex",
+   "ph": "[kámpleks]",
+   "pos": "명·형",
+   "mean": "(명) 복합 건물, 집합체, 콤플렉스 / (형) 복잡한",
+   "ex": "There were too many difficult vocabulary words and <b>complex</b> sentences.",
+   "exKo": "어려운 단어와 복잡한 문장들이 너무 많았어.",
+   "derived": [],
+   "syn": [
+    [
+     "complicated",
+     "복잡한, 난해한"
+    ],
+    [
+     "intricate",
+     "복잡한, 미묘한"
+    ]
+   ]
+  },
+  {
+   "no": "1747",
+   "word": "pace",
+   "ph": "[peis]",
+   "pos": "명·동",
+   "mean": "(명) 속도 / (동) 보조를 맞추다",
+   "ex": "The building was being built at a <b>pace</b> that seemed awfully fast.",
+   "exKo": "그 건물은 엄청나게 빨라 보이는 속도로 지어지고 있었다.",
+   "derived": [],
+   "syn": [
+    [
+     "speed",
+     "빠르기, 속도"
+    ],
+    [
+     "rate",
+     "속도, 비율, 요금"
+    ]
+   ]
+  },
+  {
+   "no": "1748",
+   "word": "patience",
+   "ph": "[péiʃəns]",
+   "pos": "명",
+   "mean": "인내, 끈기",
+   "ex": "She doesn't have the <b>patience</b> to wait in line for hours to buy a ticket.",
+   "exKo": "그녀는 표를 사기 위해 몇 시간 동안 줄을 서서 기다릴 인내심이 없다.",
+   "derived": [],
+   "syn": [
+    [
+     "perseverance",
+     "인내, 인내심"
+    ]
+   ]
+  },
+  {
+   "no": "1749",
+   "word": "solemnity",
+   "ph": "[səlémnəti]",
+   "pos": "명",
+   "mean": "엄숙함, 장엄한 의식",
+   "ex": "Probably, they want to focus on the purity and <b>solemnity</b> of the day, given the whiteness of rice from which tteokguk is made.",
+   "exKo": "떡국의 재료가 되는 쌀의 순백색을 보아, 아마도 그들은 그날의 순수함과 경건함에 초점을 두고 싶은 것이다.",
+   "derived": [],
+   "syn": [
+    [
+     "dignity",
+     "엄숙함, 위엄, 품위"
+    ]
+   ]
+  },
+  {
+   "no": "1750",
+   "word": "superior",
+   "ph": "[sju(ː)pí(ː)əriər]",
+   "pos": "형·명",
+   "mean": "(형) 우월한, 우수한, 상관의 / (명) 윗사람",
+   "ex": "The enemy was tactically <b>superior</b>.",
+   "exKo": "적이 전술상으로 더 우세했다.",
+   "derived": [],
+   "syn": []
+  }
+ ]
+}
