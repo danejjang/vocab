@@ -1,0 +1,961 @@
+{
+ "day": "DAY 31",
+ "words": [
+  {
+   "no": "1501",
+   "word": "purpose",
+   "ph": "[pə́ːrpəs]",
+   "pos": "명",
+   "mean": "목적, 용도, 의도",
+   "ex": "What is the <b>purpose</b> behind this? It is to prolong his or her life.",
+   "exKo": "이것 뒤에 있는 목적이 무엇일까? 그것은 삶을 연장하는 것이다.",
+   "derived": [],
+   "syn": [
+    [
+     "aim",
+     "목표, 목적, 겨냥하다"
+    ],
+    [
+     "goal",
+     "목표, 표제"
+    ],
+    [
+     "objective",
+     "목적, 객관적인"
+    ]
+   ]
+  },
+  {
+   "no": "1502",
+   "word": "senator",
+   "ph": "[sénətər]",
+   "pos": "명",
+   "mean": "상원 의원",
+   "ex": "The <b>senator</b> pondered the question for a moment.",
+   "exKo": "상원의원이 그 질문을 잠시 곰곰이 생각했다.",
+   "derived": [
+    [
+     "congressman",
+     "하원의원"
+    ],
+    [
+     "representative",
+     "하원의원"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1503",
+   "word": "shelter",
+   "ph": "[ʃéltər]",
+   "pos": "명·동",
+   "mean": "(명) 피난처, 쉼터, 피신 / (동) 막아주다",
+   "ex": "The tree affords some <b>shelter</b> from the sun.",
+   "exKo": "이 나무가 어느 정도 햇볕을 피할 곳을 만들어 준다.",
+   "derived": [],
+   "syn": [
+    [
+     "refuge",
+     "피난, 도피, 보호"
+    ],
+    [
+     "haven",
+     "피난처"
+    ],
+    [
+     "sanctuary",
+     "보호구역, 피난처"
+    ]
+   ]
+  },
+  {
+   "no": "1504",
+   "word": "mishap",
+   "ph": "[míshæp]",
+   "pos": "명",
+   "mean": "사고, 재난, 불운",
+   "ex": "The annual Thanksgiving Day parade was very well organized and passed without <b>mishap</b>.",
+   "exKo": "연례 추수감사절 퍼레이드는 매우 잘 준비되었고 사고 없이 끝났다.",
+   "derived": [],
+   "syn": [
+    [
+     "mischance",
+     "불운, 재난, 불행"
+    ],
+    [
+     "misadventure",
+     "재난, 불운, 불행"
+    ]
+   ]
+  },
+  {
+   "no": "1505",
+   "word": "sedative",
+   "ph": "[sédətiv]",
+   "pos": "명·형",
+   "mean": "(명) 진정제 / (형) 진정작용의",
+   "ex": "I was given a <b>sedative</b> and the doctor said that I would be asleep for a day or two.",
+   "exKo": "나는 진정제를 맞았고, 의사는 내가 하루 이틀 동안 자게 될 것이라고 말했다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1506",
+   "word": "efficient",
+   "ph": "[ifíʃənt]",
+   "pos": "형",
+   "mean": "능률적인, 효율적인, 유능한",
+   "ex": "Or are there other more <b>efficient</b> ways to solve this problem?",
+   "exKo": "아니면 이 문제를 풀 수 있는 더 효율적인 방법이 있는가?",
+   "derived": [],
+   "syn": [
+    [
+     "effective",
+     "효과가 있는, 효율적인"
+    ],
+    [
+     "proficient",
+     "능숙한, 숙련된"
+    ],
+    [
+     "competent",
+     "유능한, 적임의"
+    ]
+   ]
+  },
+  {
+   "no": "1507",
+   "word": "treatment",
+   "ph": "[tríːtmənt]",
+   "pos": "명",
+   "mean": "치료, 치료법, 대우",
+   "ex": "Doctors are hesitant to comment on the new <b>treatment</b>.",
+   "exKo": "의사들은 그 새 치료법에 대해 논평을 주저한다.",
+   "derived": [],
+   "syn": [
+    [
+     "cure",
+     "치료"
+    ],
+    [
+     "remedy",
+     "치료, 치료법"
+    ],
+    [
+     "therapy",
+     "치료, 요법"
+    ]
+   ]
+  },
+  {
+   "no": "1508",
+   "word": "excerpt",
+   "ph": "[éksəːrpt]",
+   "pos": "명",
+   "mean": "발췌, 인용한 것",
+   "ex": "Read the following <b>excerpt</b> from one of Milton's poems.",
+   "exKo": "다음의 밀턴의 시에서 발췌한 것을 읽어보아라.",
+   "derived": [
+    [
+     "⚠ except",
+     "(혼동 주의) ~를 제외하고"
+    ]
+   ],
+   "syn": [
+    [
+     "quotation",
+     "인용, 글귀, 어록, 문구, 평가"
+    ],
+    [
+     "citation",
+     "인용구, 교통위반 딱지, 인용"
+    ]
+   ]
+  },
+  {
+   "no": "1509",
+   "word": "questionnaire",
+   "ph": "[kwèstʃənɛ́ər]",
+   "pos": "명",
+   "mean": "설문지",
+   "ex": "Visitors to the amusement park have been asked to fill in a simple <b>questionnaire</b>.",
+   "exKo": "그 놀이동산의 손님들은 간단한 설문지를 작성하도록 부탁을 받았다.",
+   "derived": [],
+   "syn": [
+    [
+     "inquiry",
+     "문의, 조사"
+    ],
+    [
+     "survey",
+     "조사, 설문지"
+    ]
+   ]
+  },
+  {
+   "no": "1510",
+   "word": "recession",
+   "ph": "[riséʃən]",
+   "pos": "명",
+   "mean": "불황, 침체, 불경기",
+   "ex": "Many people lost their jobs or had to accept a cut in pay during the recent <b>recession</b>.",
+   "exKo": "많은 사람들이 최근의 불황 중에 직업을 잃거나 급여 삭감을 받아들여야만 했다.",
+   "derived": [
+    [
+     "depression",
+     "경제대공황, 우울증"
+    ],
+    [
+     "downturn",
+     "경기하강, 감소, 침체"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1511",
+   "word": "repetition",
+   "ph": "[rèpətíʃən]",
+   "pos": "명",
+   "mean": "반복, 재현, 되풀이",
+   "ex": "The job involves the constant <b>repetition</b> of the same movements.",
+   "exKo": "그 일은 같은 동작을 계속해서 반복하는 일을 수반한다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1512",
+   "word": "clarity",
+   "ph": "[klǽrəti]",
+   "pos": "명",
+   "mean": "명확성, 명료성",
+   "ex": "A lack of <b>clarity</b> in the law on property rights has intensified the confusion.",
+   "exKo": "재산권에 대한 그 법의 명확성이 부족해서 혼란을 가중시켰다.",
+   "derived": [],
+   "syn": [
+    [
+     "transparency",
+     "투명성, 명확함"
+    ]
+   ]
+  },
+  {
+   "no": "1513",
+   "word": "brink",
+   "ph": "[briŋk]",
+   "pos": "명",
+   "mean": "직전, 위기, 벼랑",
+   "ex": "The company was suffering huge debts and was on the <b>brink</b> of collapse.",
+   "exKo": "그 회사는 막대한 부채가 있었고 망하기 일보 직전이었다.",
+   "derived": [
+    [
+     "be on the brink of -ing",
+     "막 ~하려 하다"
+    ]
+   ],
+   "syn": [
+    [
+     "verge",
+     "가장자리, 경계"
+    ],
+    [
+     "edge",
+     "가장자리, 끝, 경계"
+    ],
+    [
+     "periphery",
+     "주변부, 가장자리"
+    ]
+   ]
+  },
+  {
+   "no": "1514",
+   "word": "molecule",
+   "ph": "[máləkjùːl]",
+   "pos": "명",
+   "mean": "분자",
+   "ex": "A <b>molecule</b> of water is made up of two atoms of hydrogen and one atom of oxygen.",
+   "exKo": "한 개의 물 분자는 두 개의 수소 원자와 한 개의 산소 원자로 구성되어 있다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1515",
+   "word": "enthusiasm",
+   "ph": "[inθjúːziæ̀zəm]",
+   "pos": "명",
+   "mean": "열광, 열정, 열의",
+   "ex": "A team which is full of <b>enthusiasm</b> has a better chance of winning.",
+   "exKo": "열정으로 가득 찬 팀은 승리할 더 좋은 기회를 갖는다.",
+   "derived": [],
+   "syn": [
+    [
+     "passion",
+     "열정"
+    ],
+    [
+     "zeal",
+     "열의, 열기"
+    ]
+   ]
+  },
+  {
+   "no": "1516",
+   "word": "patron",
+   "ph": "[péitrən]",
+   "pos": "명",
+   "mean": "후원자, 보호자",
+   "ex": "The school will be able to build a new library because it has a very rich <b>patron</b>.",
+   "exKo": "그 학교는 매우 부유한 후원자가 있기 때문에 새 도서관을 지을 수 있을 것이다.",
+   "derived": [],
+   "syn": [
+    [
+     "benefactor",
+     "후원자, 은인"
+    ]
+   ]
+  },
+  {
+   "no": "1517",
+   "word": "saint",
+   "ph": "[seint]",
+   "pos": "명",
+   "mean": "성자, 군자",
+   "ex": "Stephen died in 1038 and was declared a <b>saint</b> on the 20th of August 1083.",
+   "exKo": "스테반은 1038년에 사망했고 1083년 8월 20일에 성인으로 공표되었다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1518",
+   "word": "counterfeit",
+   "ph": "[káuntərfit]",
+   "pos": "명·동",
+   "mean": "(명) 위조, 모조품 / (동) 위조하다",
+   "ex": "About 250,000 dollars in <b>counterfeit</b> money circulates each day in America.",
+   "exKo": "미국에서는 매일 약 250,000달러의 위조 지폐가 유통되고 있습니다.",
+   "derived": [],
+   "syn": [
+    [
+     "fake",
+     "가짜의, 위조의, 꾸며내다"
+    ],
+    [
+     "fraud",
+     "사기, 조작, 위조"
+    ]
+   ]
+  },
+  {
+   "no": "1519",
+   "word": "likelihood",
+   "ph": "[láiklihùd]",
+   "pos": "명",
+   "mean": "가능성, 가망",
+   "ex": "Police effectiveness is the <b>likelihood</b> that a criminal who commits a crime will get caught.",
+   "exKo": "경찰의 실효율성은 범죄를 저지르는 범죄자들이 잡힐 가능성을 말한다.",
+   "derived": [],
+   "syn": [
+    [
+     "possibility",
+     "가능성, 기회"
+    ],
+    [
+     "probability",
+     "가능성, 확률"
+    ]
+   ]
+  },
+  {
+   "no": "1520",
+   "word": "misconception",
+   "ph": "[mìskənsépʃən]",
+   "pos": "명",
+   "mean": "오해, 오인, 잘못된 생각",
+   "ex": "A <b>misconception</b> about evolution is that the development of new species generally requires millions of years.",
+   "exKo": "진화에 대한 한 가지 오해는, 새로운 종의 발전에 일반적으로 수백만 년이 필요하다는 것이다.",
+   "derived": [],
+   "syn": [
+    [
+     "misunderstanding",
+     "오해"
+    ],
+    [
+     "myth",
+     "신화, 근거 없는 믿음"
+    ],
+    [
+     "delusion",
+     "망상"
+    ]
+   ]
+  },
+  {
+   "no": "1521",
+   "word": "side effect",
+   "ph": "",
+   "pos": "명",
+   "mean": "부작용, 후유증",
+   "ex": "He is suffering from the drug's <b>side effect</b>.",
+   "exKo": "그는 약물 부작용으로 고통 받는다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1522",
+   "word": "artifact",
+   "ph": "[ɑ́ːrtəfæ̀kt]",
+   "pos": "명",
+   "mean": "인공물, 공예품",
+   "ex": "Pre-historic life could only be guessed through <b>artifacts</b> and remains.",
+   "exKo": "선사시대의 생활은 유물이나 유적으로 추측할 수 있을 뿐이다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1523",
+   "word": "mass",
+   "ph": "[mæs]",
+   "pos": "명·형",
+   "mean": "(명) 덩어리, 질량 / (형) 많은, 대량의",
+   "ex": "Modern <b>mass</b> production influences their lives and culture.",
+   "exKo": "현대의 대량 생산이 그들의 삶과 문화에 영향을 미치고 있습니다.",
+   "derived": [
+    [
+     "mass unemployment",
+     "대량 실업"
+    ],
+    [
+     "⚠ mess",
+     "(혼동 주의) 엉망, 엉망으로 만들다"
+    ],
+    [
+     "⚠ moss",
+     "(혼동 주의) 이끼"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1524",
+   "word": "port",
+   "ph": "[pɔːrt]",
+   "pos": "명",
+   "mean": "항구",
+   "ex": "They reached <b>port</b> at last.",
+   "exKo": "그들은 마침내 항구에 도착했다.",
+   "derived": [],
+   "syn": [
+    [
+     "harbor",
+     "항구, 수용하다"
+    ]
+   ]
+  },
+  {
+   "no": "1525",
+   "word": "superintendent",
+   "ph": "[sjùːpərinténdənt]",
+   "pos": "명·형",
+   "mean": "(명) 관리자 / (형) 감독하는",
+   "ex": "In the US, a school <b>superintendent</b> is in charge of the schools in a particular area.",
+   "exKo": "미국에서는 학교 관리자가 특정 지역 내의 학교들의 책임을 맡는다.",
+   "derived": [],
+   "syn": [
+    [
+     "director",
+     "관리자, 감독"
+    ],
+    [
+     "supervisor",
+     "관리자, 감독자, 감독"
+    ]
+   ]
+  },
+  {
+   "no": "1526",
+   "word": "catalyst",
+   "ph": "[kǽtəlist]",
+   "pos": "명",
+   "mean": "촉매, 기폭제, 자극",
+   "ex": "A simple <b>catalyst</b> made of carbon, copper, and nitrogen was used to trigger a chemical reaction.",
+   "exKo": "탄소, 구리, 그리고 질소로 만들어진 단순한 촉매제는 화학 반응을 일으키는 데 사용된다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1527",
+   "word": "tissue",
+   "ph": "[tíʃuː]",
+   "pos": "명",
+   "mean": "조직, 화장지",
+   "ex": "She was sniffing and wiping her eyes with a <b>tissue</b>.",
+   "exKo": "그녀는 코를 훌쩍이며 화장지로 눈을 훔치고 있었다.",
+   "derived": [],
+   "syn": [
+    [
+     "cell",
+     "세포, 조직"
+    ]
+   ]
+  },
+  {
+   "no": "1528",
+   "word": "surrealism",
+   "ph": "[səríːəlìzm]",
+   "pos": "명",
+   "mean": "초현실주의",
+   "ex": "<b>Surrealism</b> found expression in various forms of art.",
+   "exKo": "초현실주의는 다양한 예술 형식의 모습으로 나타났다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1529",
+   "word": "chill",
+   "ph": "[tʃil]",
+   "pos": "명·동",
+   "mean": "(명) 냉기, 한기, 오한 / (동) (아주) 춥게 만들다",
+   "ex": "Insulation air caps can also help preserve the <b>chill</b> in the room.",
+   "exKo": "또한, 단열 에어캡은 방안에 냉기를 보존하는 것을 도와준다.",
+   "derived": [],
+   "syn": [
+    [
+     "cold",
+     "추운, 감기"
+    ],
+    [
+     "coldness",
+     "추위, 냉담함, 차가움"
+    ]
+   ]
+  },
+  {
+   "no": "1530",
+   "word": "prey",
+   "ph": "[prei]",
+   "pos": "명",
+   "mean": "먹이, 희생자",
+   "ex": "They can spot <b>prey</b> even in dark or murky water!",
+   "exKo": "그들은 심지어 어둡고 흐린 물속에서도 먹이를 탐지할 수 있답니다!",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1531",
+   "word": "stain",
+   "ph": "[stein]",
+   "pos": "명·동",
+   "mean": "(명) 얼룩, 오염, 오점 / (동) 더럽히다",
+   "ex": "You can remove a red wine <b>stain</b> from a carpet by sprinkling salt over it.",
+   "exKo": "카펫의 적포도주 얼룩은 소금을 뿌려서 없앨 수 있다.",
+   "derived": [
+    [
+     "stained",
+     "녹슨, 얼룩진"
+    ]
+   ],
+   "syn": [
+    [
+     "stigma",
+     "치욕, 낙인, 오명"
+    ],
+    [
+     "taint",
+     "더럽히다, 감염, 얼룩"
+    ]
+   ]
+  },
+  {
+   "no": "1532",
+   "word": "priest",
+   "ph": "[priːst]",
+   "pos": "명",
+   "mean": "사제, 성직자",
+   "ex": "However, he chose to become a Catholic <b>priest</b>.",
+   "exKo": "하지만 그는 천주교 사제가 되기로 선택했습니다.",
+   "derived": [],
+   "syn": [
+    [
+     "clergyman",
+     "성직자, 목사"
+    ],
+    [
+     "cleric",
+     "성직자, 성직자의, 목사"
+    ]
+   ]
+  },
+  {
+   "no": "1533",
+   "word": "peril",
+   "ph": "[pérəl]",
+   "pos": "명",
+   "mean": "위험, 모험",
+   "ex": "The artists of the early Renaissance broke with tradition at their own <b>peril</b>.",
+   "exKo": "초기 르네상스 예술가들은 위험을 각오하고 전통과 단절했다.",
+   "derived": [],
+   "syn": [
+    [
+     "risk",
+     "위험"
+    ],
+    [
+     "hazard",
+     "위험"
+    ],
+    [
+     "jeopardy",
+     "위험"
+    ]
+   ]
+  },
+  {
+   "no": "1534",
+   "word": "thrill",
+   "ph": "[θril]",
+   "pos": "명·동",
+   "mean": "(명) 황홀감, 흥분 / (동) 열광시키다",
+   "ex": "It gave me a big <b>thrill</b> to meet my favorite author in person.",
+   "exKo": "내가 좋아하는 작가를 직접 만난다니 나는 황홀한 기분이었다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1535",
+   "word": "eat up",
+   "ph": "[iːt ʌp]",
+   "pos": "동",
+   "mean": "(시간, 자원 등을) 잡아먹다",
+   "ex": "The meeting <b>ate up</b> most of our afternoon, leaving little time for other tasks.",
+   "exKo": "그 회의는 오후 대부분을 잡아먹어서, 다른 일에 쓸 시간이 거의 없었다.",
+   "derived": [],
+   "syn": [
+    [
+     "use up",
+     "다 써버리다"
+    ],
+    [
+     "drain",
+     "소모하다"
+    ],
+    [
+     "exhaust",
+     "고갈시키다"
+    ]
+   ]
+  },
+  {
+   "no": "1536",
+   "word": "minute",
+   "ph": "[mainjúːt]",
+   "pos": "명·형",
+   "mean": "(명) 분, 잠깐 / (형) 적은 양의, 사소한",
+   "ex": "There were <b>minute</b> particles of dust in the air, and people were wearing masks.",
+   "exKo": "미세한 먼지 입자들이 대기 중에 있었고 사람들은 마스크를 쓰고 있었다.",
+   "derived": [],
+   "syn": [
+    [
+     "trivial",
+     "사소한"
+    ],
+    [
+     "petty",
+     "사소한, 작은"
+    ],
+    [
+     "minor",
+     "사소한, 작은"
+    ]
+   ]
+  },
+  {
+   "no": "1537",
+   "word": "considerate",
+   "ph": "[kənsídərit]",
+   "pos": "형",
+   "mean": "사려 깊은, 배려하는",
+   "ex": "We should also learn how to be <b>considerate</b> of others.",
+   "exKo": "우리는 다른 사람들을 배려하는 마음을 배워야 해.",
+   "derived": [
+    [
+     "⚠ considerable",
+     "(혼동 주의) 꽤 많은, 상당한"
+    ]
+   ],
+   "syn": [
+    [
+     "unselfish",
+     "이타적인"
+    ],
+    [
+     "thoughtful",
+     "사려 깊은, 친절한"
+    ]
+   ]
+  },
+  {
+   "no": "1538",
+   "word": "radiate",
+   "ph": "[réidiət]",
+   "pos": "형·동",
+   "mean": "(형) 방사되는 / (동) 퍼지다, 방출하다",
+   "ex": "Heat <b>radiates</b> from the Sun to Earth and then radiates from the Earth back to the atmosphere.",
+   "exKo": "열은 태양에서 지구로 방출되고, 그 다음에는 지구에서 다시 대기로 방출된다.",
+   "derived": [],
+   "syn": [
+    [
+     "send out",
+     "발송하다, 방출하다"
+    ],
+    [
+     "emit",
+     "내뿜다, 방사하다"
+    ],
+    [
+     "give off",
+     "분출하다"
+    ]
+   ]
+  },
+  {
+   "no": "1539",
+   "word": "sediment",
+   "ph": "[sédəmənt]",
+   "pos": "명",
+   "mean": "침전물, 퇴적물",
+   "ex": "Unlike the Amazon River, which is full of sand and mud, the Negro River barely has any <b>sediment</b>.",
+   "exKo": "모래와 진흙으로 가득한 아마존 강과는 다르게 네그로 강은 침전물이 거의 없다.",
+   "derived": [],
+   "syn": [
+    [
+     "residue",
+     "잔여물, 침전물"
+    ]
+   ]
+  },
+  {
+   "no": "1540",
+   "word": "flock",
+   "ph": "[flak]",
+   "pos": "명·동",
+   "mean": "(명) 떼, 무리 / (동) 모이다",
+   "ex": "More than 15 million visitors <b>flock</b> to Venice each year.",
+   "exKo": "천오백 만 명 이상의 방문객들이 매년 베니스로 모입니다.",
+   "derived": [],
+   "syn": [
+    [
+     "crowd",
+     "군중, 붐비게 하다"
+    ],
+    [
+     "swarm",
+     "떼, 몰려들다"
+    ],
+    [
+     "herd",
+     "무리, 군중"
+    ],
+    [
+     "congregate",
+     "~을 모으다"
+    ]
+   ]
+  },
+  {
+   "no": "1541",
+   "word": "discretion",
+   "ph": "[diskréʃən]",
+   "pos": "명",
+   "mean": "재량, 결정권, 분별",
+   "ex": "80 percent of respondents reported that they stopped taking them at their own <b>discretion</b>.",
+   "exKo": "응답자 중 80퍼센트는 그들이 자신의 재량으로 그것의 복용을 중단했다고 보고했다.",
+   "derived": [],
+   "syn": [
+    [
+     "sanction",
+     "허가, 제재"
+    ]
+   ]
+  },
+  {
+   "no": "1542",
+   "word": "crash",
+   "ph": "[kræʃ]",
+   "pos": "명·동",
+   "mean": "(명) 사고, 굉음 / (동) 충돌하다, 추락하다",
+   "ex": "The eagerly anticipated P-5 vehicle is about to go into <b>crash</b> testing.",
+   "exKo": "열렬하게 기대되는 P-5 자동차는 충돌 테스트에 들어갈 것입니다.",
+   "derived": [
+    [
+     "⚠ clash",
+     "(혼동 주의) 갈등, 충돌, 대립하다"
+    ]
+   ],
+   "syn": [
+    [
+     "smash",
+     "부서지다, 깨다, 충돌하다"
+    ]
+   ]
+  },
+  {
+   "no": "1543",
+   "word": "asset",
+   "ph": "[ǽset]",
+   "pos": "명",
+   "mean": "자산, 재산",
+   "ex": "He thinks that our greatest <b>asset</b> is happiness, not luxuriousness.",
+   "exKo": "그는 우리의 훌륭한 자산은 사치스러움이 아니라 행복이라고 생각합니다.",
+   "derived": [
+    [
+     "intellectual property",
+     "지적 재산"
+    ]
+   ],
+   "syn": [
+    [
+     "possession",
+     "소유, 재산, 영토"
+    ],
+    [
+     "property",
+     "재산, 부동산"
+    ]
+   ]
+  },
+  {
+   "no": "1544",
+   "word": "surgery",
+   "ph": "[sə́ːrdʒəri]",
+   "pos": "명",
+   "mean": "수술, 진료, 진료소",
+   "ex": "My mother underwent major <b>surgery</b> last year.",
+   "exKo": "우리 어머니께서는 작년에 대수술을 받으셨다.",
+   "derived": [],
+   "syn": [
+    [
+     "operation",
+     "수술"
+    ]
+   ]
+  },
+  {
+   "no": "1545",
+   "word": "term",
+   "ph": "[təːrm]",
+   "pos": "명·동",
+   "mean": "(명) 용어, 기간, 관계, 학기, 합의 / (동) 칭하다",
+   "ex": "We have a new timetable each <b>term</b>.",
+   "exKo": "우리는 학기마다 시간표가 다르다.",
+   "derived": [
+    [
+     "be on good terms with",
+     "~와 좋은 관계를 유지하다"
+    ],
+    [
+     "term and conditions",
+     "약관"
+    ]
+   ],
+   "syn": [
+    [
+     "word",
+     "말"
+    ],
+    [
+     "tenure",
+     "재임기간, 임기"
+    ]
+   ]
+  },
+  {
+   "no": "1546",
+   "word": "resurgence",
+   "ph": "[risə́ːrdʒəns]",
+   "pos": "명",
+   "mean": "부활, 재기",
+   "ex": "The hard times of the 1930s contributed to a disturbing <b>resurgence</b> of nationalism.",
+   "exKo": "1930년대의 불경기는 민족주의의 충격적인 부활에 기여하였다.",
+   "derived": [],
+   "syn": [
+    [
+     "revival",
+     "회복, 부활"
+    ]
+   ]
+  },
+  {
+   "no": "1547",
+   "word": "chore",
+   "ph": "[tʃɔːr]",
+   "pos": "명",
+   "mean": "허드렛일, 집안 가사일",
+   "ex": "On Sundays, the children are each assigned different household <b>chore</b>.",
+   "exKo": "일요일마다 그 아이들은 각자 서로 다른 집안일을 배정받는다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1548",
+   "word": "litter",
+   "ph": "[lítər]",
+   "pos": "명·동",
+   "mean": "(명) 쓰레기 / (동) 어지럽히다, 버리다",
+   "ex": "Plastic makes up about 80 percent of this marine <b>litter</b>.",
+   "exKo": "플라스틱은 이 해양 쓰레기의 80%를 차지한다.",
+   "derived": [],
+   "syn": [
+    [
+     "waste",
+     "폐기물"
+    ],
+    [
+     "garbage",
+     "쓰레기"
+    ]
+   ]
+  },
+  {
+   "no": "1549",
+   "word": "folklore",
+   "ph": "[fóuklɔ̀ːr]",
+   "pos": "명",
+   "mean": "민속, 민담",
+   "ex": "According to British <b>folklore</b>, it means the magpie has lost its mate.",
+   "exKo": "영국의 민담에 따르면, 그것은 까치가 친구를 잃었다는 것을 의미합니다.",
+   "derived": [],
+   "syn": [
+    [
+     "legend",
+     "전설"
+    ],
+    [
+     "fable",
+     "우화"
+    ],
+    [
+     "tale",
+     "이야기"
+    ]
+   ]
+  },
+  {
+   "no": "1550",
+   "word": "preview",
+   "ph": "[príːvjùː]",
+   "pos": "명·동",
+   "mean": "(명) 시사회, 예고편 / (동) 시사평을 쓰다",
+   "ex": "The <b>preview</b> offers a unique opportunity to see the show without the crowds.",
+   "exKo": "그 시사회는 그 쇼를 북적이는 사람들 없이 볼 수 있는 특별한 기회를 제공한다.",
+   "derived": [],
+   "syn": [
+    [
+     "trailer",
+     "예고편"
+    ]
+   ]
+  }
+ ]
+}
