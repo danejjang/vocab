@@ -1,0 +1,905 @@
+{
+ "day": "DAY 19",
+ "words": [
+  {
+   "no": "0901",
+   "word": "harvest",
+   "ph": "[háːrvist]",
+   "pos": "명·동",
+   "mean": "(명) 수확, 수확물 / (동) 수확하다",
+   "ex": "The growing season is making way for a <b>harvest</b> season.",
+   "exKo": "성장의 계절은 수확의 계절에게 자리를 내주고 있다.",
+   "derived": [],
+   "syn": [
+    [
+     "crop",
+     "농작물, 수확, 곡물"
+    ],
+    [
+     "yield",
+     "수확, 산출량, 양보"
+    ]
+   ]
+  },
+  {
+   "no": "0902",
+   "word": "convention",
+   "ph": "[kənvénʃən]",
+   "pos": "명",
+   "mean": "관습, 대회, 집회",
+   "ex": "The Republican National <b>convention</b> was held to announce their party's candidate for president.",
+   "exKo": "공화당의 대통령 후보를 발표하기 위해 공화당 전당대회가 열렸다.",
+   "derived": [
+    [
+     "conventional",
+     "관습적인"
+    ]
+   ],
+   "syn": [
+    [
+     "assembly",
+     "모임, 국회"
+    ],
+    [
+     "conference",
+     "회의, 모임"
+    ],
+    [
+     "tradition",
+     "전통"
+    ]
+   ]
+  },
+  {
+   "no": "0903",
+   "word": "agenda",
+   "ph": "[ədʒéndə]",
+   "pos": "명",
+   "mean": "의제, 안건",
+   "ex": "Protecting our delicate environment has been on the <b>agenda</b> of politicians.",
+   "exKo": "파괴되기 쉬운 우리의 환경을 보호하는 일이 정치인들의 의제로 있어 왔다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0904",
+   "word": "agony",
+   "ph": "[ǽgəni]",
+   "pos": "명",
+   "mean": "고통, 고뇌, 번뇌",
+   "ex": "She was in terrible <b>agony</b> after breaking her leg when she slipped on ice.",
+   "exKo": "그녀는 빙판에서 미끄러져 다리가 골절된 후에 고통이 매우 심했다.",
+   "derived": [
+    [
+     "agonize",
+     "괴로워하다, 고민하다"
+    ]
+   ],
+   "syn": [
+    [
+     "distress",
+     "고통, 고난"
+    ],
+    [
+     "misery",
+     "고통, 비참함"
+    ],
+    [
+     "torment",
+     "고통, 괴롭히다"
+    ]
+   ]
+  },
+  {
+   "no": "0905",
+   "word": "pauper",
+   "ph": "[pɔ́ːpər]",
+   "pos": "명",
+   "mean": "극빈자",
+   "ex": "Few actual <b>paupers</b> and few of the really rich were among the early settlers in Massachusetts.",
+   "exKo": "매사추세츠의 초기 이주민들 가운데에는 실제 극빈자들과 진짜 부자들은 거의 없었다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0906",
+   "word": "rust",
+   "ph": "[rʌst]",
+   "pos": "명·동",
+   "mean": "(명) 녹, 녹병 / (동) 녹슬다",
+   "ex": "She was surprised to find the interior of my tea kettle was covered with <b>rust</b>.",
+   "exKo": "그녀는 내 찻주전자 안이 녹으로 덮여 있는 것을 보고 놀랐다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0907",
+   "word": "defamation",
+   "ph": "[dèfəméiʃən]",
+   "pos": "명",
+   "mean": "비방, 명예훼손",
+   "ex": "The Internet real-name system could be an effective way to end cyber violence and <b>defamation</b>.",
+   "exKo": "인터넷 실명제가 사이버 범죄와 명예훼손을 막을 수 있는 효과적인 방법이 될 수 있다.",
+   "derived": [],
+   "syn": [
+    [
+     "slander",
+     "중상, 중상하다, 욕"
+    ]
+   ]
+  },
+  {
+   "no": "0908",
+   "word": "apprentice",
+   "ph": "[əpréntis]",
+   "pos": "명",
+   "mean": "견습생, 연습생",
+   "ex": "He began his construction career in 1990 as a carpenter's <b>apprentice</b>.",
+   "exKo": "그는 1990년에 한 목수의 견습생으로서 건설 일을 시작했다.",
+   "derived": [],
+   "syn": [
+    [
+     "pupil",
+     "교육생, 동공"
+    ]
+   ]
+  },
+  {
+   "no": "0909",
+   "word": "demeanor",
+   "ph": "[dimíːnər]",
+   "pos": "명",
+   "mean": "품행, 행실, 태도",
+   "ex": "She abruptly left the call for many minutes and returned with a changed <b>demeanor</b>.",
+   "exKo": "그녀는 갑자기 몇 분 동안 전화를 끊었고 태도를 바꿔서 돌아왔다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0910",
+   "word": "payoff",
+   "ph": "[péiɔ̀(ː)f]",
+   "pos": "명·형",
+   "mean": "(명) 결과, 이익, 급료 / (형) 결정적인",
+   "ex": "The <b>payoff</b> for years of research is a microscope which performs better than all of its competitors.",
+   "exKo": "수년간의 연구의 결과물은 다른 모든 경쟁사의 현미경보다 기능이 좋은 현미경이다.",
+   "derived": [],
+   "syn": [
+    [
+     "result",
+     "결과"
+    ]
+   ]
+  },
+  {
+   "no": "0911",
+   "word": "deference",
+   "ph": "[défərəns]",
+   "pos": "명",
+   "mean": "경의, 존경, 복종",
+   "ex": "He showed a pleasant <b>deference</b> to the older man.",
+   "exKo": "그는 노인에게 유쾌한 경의를 표했다.",
+   "derived": [],
+   "syn": [
+    [
+     "respect",
+     "존경, 존중"
+    ],
+    [
+     "homage",
+     "존경, 경의"
+    ],
+    [
+     "reverence",
+     "존경, 경외, 숭배"
+    ]
+   ]
+  },
+  {
+   "no": "0912",
+   "word": "bygone",
+   "ph": "[báigɔ̀ːn]",
+   "pos": "형",
+   "mean": "지나간, 옛날의",
+   "ex": "Some people feel historians have an exclusive right to act as the interpreters of <b>bygone</b> eras.",
+   "exKo": "어떤 사람들은 역사가가 과거 시대의 해석자로서 역할을 하는 독점적인 권한을 가지고 있다고 생각한다.",
+   "derived": [],
+   "syn": [
+    [
+     "past",
+     "지나간, 과거의"
+    ],
+    [
+     "former",
+     "전의, 과거의, 전자의"
+    ]
+   ]
+  },
+  {
+   "no": "0913",
+   "word": "prime",
+   "ph": "[praim]",
+   "pos": "형",
+   "mean": "주된, 주요한",
+   "ex": "He is the <b>prime</b> suspect in the case.",
+   "exKo": "그는 그 사건의 주된 용의자이다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0914",
+   "word": "substitute",
+   "ph": "[sʌ́bstitjùːt]",
+   "pos": "명·동",
+   "mean": "(명) 대신하는 사람, 교체 선수 / (동) 교체하다",
+   "ex": "The course teaches you the theory but there's no <b>substitute</b> for practical experience.",
+   "exKo": "그 과정이 당신에게 이론을 가르쳐 주기는 하지만 실제 경험을 대신할 수 있는 것은 아무것도 없다.",
+   "derived": [],
+   "syn": [
+    [
+     "replacement",
+     "교체, 대체"
+    ],
+    [
+     "surrogate",
+     "대리의, 대용의"
+    ],
+    [
+     "proxy",
+     "대리의, 대리인"
+    ]
+   ]
+  },
+  {
+   "no": "0915",
+   "word": "delicacy",
+   "ph": "[déləkəsi]",
+   "pos": "명",
+   "mean": "미묘함, 섬세함, 진미",
+   "ex": "This is a very sensitive situation that should be handled with <b>delicacy</b>.",
+   "exKo": "이것은 신중함을 가지고 다뤄야 할 매우 민감한 상황이다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0916",
+   "word": "symptom",
+   "ph": "[símptəm]",
+   "pos": "명",
+   "mean": "증상, 징후",
+   "ex": "Loss of appetite is a <b>symptom</b> of aphosphorosis disease.",
+   "exKo": "식욕부진은 식사인결핍증의 한 증상이다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0917",
+   "word": "petition",
+   "ph": "[pətíʃən]",
+   "pos": "명",
+   "mean": "청원서, 탄원서, 진정서",
+   "ex": "We presented a <b>petition</b> to the legislature to amend the law.",
+   "exKo": "우리는 그 법을 개정해 달라는 청원서를 입법부에 제출했다.",
+   "derived": [],
+   "syn": [
+    [
+     "plea",
+     "탄원"
+    ]
+   ]
+  },
+  {
+   "no": "0918",
+   "word": "salvation",
+   "ph": "[sælvéiʃən]",
+   "pos": "명",
+   "mean": "구원, 구조, 구제",
+   "ex": "A drug treatment program was my <b>salvation</b> and made me live.",
+   "exKo": "마약 치료 프로그램이 나를 구원했고 내가 살 수 있게 해주었다.",
+   "derived": [],
+   "syn": [
+    [
+     "saving",
+     "구조, 구제"
+    ],
+    [
+     "rescue",
+     "구조, 구출, 구제"
+    ]
+   ]
+  },
+  {
+   "no": "0919",
+   "word": "ambiguity",
+   "ph": "[æ̀mbəgjúːəti]",
+   "pos": "명",
+   "mean": "애매모호함, 애매모호한 것",
+   "ex": "It would be better to remove <b>ambiguity</b> from your essay by adding more details.",
+   "exKo": "네 에세이에 세부적인 사항들을 추가해서 애매모호함을 없애는 것이 더 좋을 것이다.",
+   "derived": [],
+   "syn": [
+    [
+     "vagueness",
+     "막연함, 분명치 않음"
+    ],
+    [
+     "obscurity",
+     "불명확함"
+    ]
+   ]
+  },
+  {
+   "no": "0920",
+   "word": "scope",
+   "ph": "[skoup]",
+   "pos": "명",
+   "mean": "범위, 영역",
+   "ex": "Freedom was to be realized by limiting the <b>scope</b> of governmental activity and political obligation.",
+   "exKo": "자유는 정부의 활동과 정치적 의무의 범위를 제한함으로써 실현될 수 있었다.",
+   "derived": [],
+   "syn": [
+    [
+     "range",
+     "범위, 한계"
+    ]
+   ]
+  },
+  {
+   "no": "0921",
+   "word": "upright",
+   "ph": "[ʌ́pràit]",
+   "pos": "형·부",
+   "mean": "(형) 똑바로 선, 직립한 / (부) 똑바로 서서",
+   "ex": "He became famous with his unusual habit of walking <b>upright</b>!",
+   "exKo": "그는 똑바로 서서 걷는 특이한 습관으로 유명해졌습니다.",
+   "derived": [],
+   "syn": [
+    [
+     "upstanding",
+     "직립한, 곧게 선, 정직한"
+    ],
+    [
+     "erect",
+     "수직의, 곧은, 세우다"
+    ]
+   ]
+  },
+  {
+   "no": "0922",
+   "word": "anecdote",
+   "ph": "[ǽnikdòut]",
+   "pos": "명",
+   "mean": "일화",
+   "ex": "Even though there are many successful diet <b>anecdotes</b>, losing weight isn't easy.",
+   "exKo": "성공적인 다이어트 일화는 많지만, 살을 빼기란 쉽지 않다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0923",
+   "word": "satire",
+   "ph": "[sǽtaiər]",
+   "pos": "명",
+   "mean": "풍자",
+   "ex": "Political <b>satire</b> as well as freedom of speech is an essential part of democracy.",
+   "exKo": "언론의 자유에 더해서 정치 풍자는 민주주의의 필수 요소이다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0924",
+   "word": "needle",
+   "ph": "[níːdl]",
+   "pos": "명",
+   "mean": "바늘, 주사, 침",
+   "ex": "The art of using a <b>needle</b> and thread to repair torn clothing has slowly lost popularity.",
+   "exKo": "찢어진 옷을 수선하기 위해 바늘과 실을 사용하는 기술은 천천히 인기를 잃었다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0925",
+   "word": "negligence",
+   "ph": "[néglidʒəns]",
+   "pos": "명",
+   "mean": "태만, 무관심, 부주의",
+   "ex": "The company was charged with <b>negligence</b> in the manufacturing of the defective tires.",
+   "exKo": "그 회사는 결함이 있는 타이어를 제조하는 부주의로 인해 고소를 당했다.",
+   "derived": [],
+   "syn": [
+    [
+     "inattention",
+     "부주의, 태만, 무뚝뚝함"
+    ],
+    [
+     "indifference",
+     "무관심, 냉담"
+    ],
+    [
+     "disregard",
+     "무시하다, 외면하다"
+    ],
+    [
+     "apathy",
+     "무관심"
+    ]
+   ]
+  },
+  {
+   "no": "0926",
+   "word": "injured",
+   "ph": "[índʒərd]",
+   "pos": "형",
+   "mean": "부상을 입은",
+   "ex": "The <b>injured</b> were carried away on stretchers.",
+   "exKo": "부상자들은 들것에 실려 옮겨졌다.",
+   "derived": [
+    [
+     "the injured",
+     "부상자들"
+    ]
+   ],
+   "syn": [
+    [
+     "wounded",
+     "부상당한"
+    ]
+   ]
+  },
+  {
+   "no": "0927",
+   "word": "simulation",
+   "ph": "[sìmjəléiʃən]",
+   "pos": "명",
+   "mean": "시뮬레이션, 모의실험, 가장하기",
+   "ex": "The VR game companies need to design <b>simulation</b> games that minimize simulator sickness.",
+   "exKo": "VR 게임 회사들은 시뮬레이터 멀미를 최소화하는 가상현실 게임을 설계해야 한다.",
+   "derived": [
+    [
+     "⚠ stimulation",
+     "(혼동 주의) 자극, 격려"
+    ]
+   ],
+   "syn": [
+    [
+     "imagination",
+     "상상, 상상력"
+    ]
+   ]
+  },
+  {
+   "no": "0928",
+   "word": "bystander",
+   "ph": "[báistæ̀ndər]",
+   "pos": "명",
+   "mean": "방관자, 구경꾼, 국외자",
+   "ex": "A crowd of <b>bystander</b> gathered as the president's party arrived at the restaurant.",
+   "exKo": "대통령 일행이 그 식당에 도착하자 한 무리의 구경꾼들이 몰려들었다.",
+   "derived": [],
+   "syn": [
+    [
+     "onlooker",
+     "구경꾼, 방관자"
+    ]
+   ]
+  },
+  {
+   "no": "0929",
+   "word": "sociology",
+   "ph": "[sòusiálədʒi]",
+   "pos": "명",
+   "mean": "사회학",
+   "ex": "I'll be teaching history and <b>sociology</b> next term.",
+   "exKo": "나는 다음 학기에 역사와 사회학을 가르친다.",
+   "derived": [],
+   "syn": [
+    [
+     "social science",
+     "사회학"
+    ]
+   ]
+  },
+  {
+   "no": "0930",
+   "word": "bleak",
+   "ph": "[bliːk]",
+   "pos": "형",
+   "mean": "냉혹한, 모진, 암울한",
+   "ex": "The economic forecast only gets <b>bleaker</b> after the holiday season.",
+   "exKo": "이 경제 전망은 휴가 시즌 후에 더 어두워질 뿐이다.",
+   "derived": [
+    [
+     "⚠ brick",
+     "(혼동 주의) 벽돌"
+    ]
+   ],
+   "syn": [
+    [
+     "harsh",
+     "가혹한, 거친, 강경한"
+    ],
+    [
+     "dismal",
+     "암울한, 형편없는, 부진한"
+    ],
+    [
+     "gloomy",
+     "우울한"
+    ]
+   ]
+  },
+  {
+   "no": "0931",
+   "word": "shadow",
+   "ph": "[ʃǽdou]",
+   "pos": "명·동",
+   "mean": "(명) 그림자, 어둠 / (동) 미행하다",
+   "ex": "The ship's sail cast a <b>shadow</b> on the water.",
+   "exKo": "배의 돛이 물 위에 그림자를 드리우고 있었다.",
+   "derived": [],
+   "syn": [
+    [
+     "shape",
+     "형태, 모양, 상처"
+    ]
+   ]
+  },
+  {
+   "no": "0932",
+   "word": "interest",
+   "ph": "[íntərəst]",
+   "pos": "명·동",
+   "mean": "(명) 관심, 흥미, 이익, 이자 / (동) (흥미를) 유발하다",
+   "ex": "Therefore, they will be able to choose courses according to their <b>interest</b>.",
+   "exKo": "따라서, 학생들은 자신들의 흥미에 따라 학습 과정을 선택할 수 있게 될 것입니다.",
+   "derived": [
+    [
+     "interest rate",
+     "이자율"
+    ],
+    [
+     "conflict of interest",
+     "이익 충돌, 이익 상충"
+    ],
+    [
+     "be interested in",
+     "~에 흥미를 느끼다"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "0933",
+   "word": "intermission",
+   "ph": "[ìntərmíʃən]",
+   "pos": "명",
+   "mean": "중간 휴식, 중지",
+   "ex": "The musical lasts 2 hours and 45 minutes including a 15 minute <b>intermission</b>.",
+   "exKo": "그 뮤지컬은 15분의 중간 휴식시간을 포함하여 2시간 45분 동안 공연된다.",
+   "derived": [],
+   "syn": [
+    [
+     "pause",
+     "멈춤, 휴식, 중단"
+    ]
+   ]
+  },
+  {
+   "no": "0934",
+   "word": "ordeal",
+   "ph": "[ɔːrdíːəl]",
+   "pos": "명",
+   "mean": "시련, 고난",
+   "ex": "The reality is they are crying louder in heart over the tragic human <b>ordeal</b>.",
+   "exKo": "사실 그들은 이 비극적 인류의 시련에 대해 마음으로 더 크게 울고 있다.",
+   "derived": [
+    [
+     "order",
+     "명령하다, 순서, 질서, 주문"
+    ]
+   ],
+   "syn": [
+    [
+     "adversity",
+     "역경, 재난, 불운"
+    ],
+    [
+     "agony",
+     "고통, 고뇌, 갈등"
+    ],
+    [
+     "torment",
+     "고통, 괴롭히다"
+    ],
+    [
+     "anguish",
+     "고통, 괴로워하다"
+    ]
+   ]
+  },
+  {
+   "no": "0935",
+   "word": "irrigation",
+   "ph": "[ìrəgéiʃən]",
+   "pos": "명",
+   "mean": "관개(물을 끌어들임)",
+   "ex": "This water is only used for the <b>irrigation</b> of the fields where crops are growing.",
+   "exKo": "이 물은 농작물이 자라는 들판의 관개에만 사용된다.",
+   "derived": [
+    [
+     "⚠ irritation",
+     "(혼동 주의) 자극, 짜증, 초조"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "0936",
+   "word": "lack",
+   "ph": "[læk]",
+   "pos": "명·동",
+   "mean": "(명) 결핍, 부족 / (동) ~이 결여되다",
+   "ex": "Sometimes the desire to sleep wears people out and is worse than the <b>lack</b> of sleep itself.",
+   "exKo": "때때로 수면 욕구는 사람들을 지쳐버리게 하며 잠이 부족한 것보다 더 나쁘다.",
+   "derived": [
+    [
+     "lacking",
+     "결여된, 부족한"
+    ]
+   ],
+   "syn": [
+    [
+     "shortfall",
+     "부족, 부족분"
+    ],
+    [
+     "deficiency",
+     "부족, 결함"
+    ]
+   ]
+  },
+  {
+   "no": "0937",
+   "word": "jeopardy",
+   "ph": "[dʒépərdi]",
+   "pos": "명",
+   "mean": "위험, 위험성",
+   "ex": "A cut in the budget put 10 percent of the state employees' jobs in <b>jeopardy</b>.",
+   "exKo": "예산 감축으로 인해 그 나라 직장인들의 일자리의 10%가 위험하게 되었다.",
+   "derived": [],
+   "syn": [
+    [
+     "peril",
+     "위험, 위기"
+    ],
+    [
+     "danger",
+     "위험, 위기"
+    ],
+    [
+     "hazard",
+     "위험, 해이"
+    ]
+   ]
+  },
+  {
+   "no": "0938",
+   "word": "sheriff",
+   "ph": "[ʃérif]",
+   "pos": "명",
+   "mean": "보안관, 판사",
+   "ex": "He was elected <b>sheriff</b> of the town last month.",
+   "exKo": "그는 지난 달 그 마을 보안관으로 선출되었다.",
+   "derived": [],
+   "syn": [
+    [
+     "judge",
+     "판사"
+    ]
+   ]
+  },
+  {
+   "no": "0939",
+   "word": "nuisance",
+   "ph": "[njúːsəns]",
+   "pos": "명",
+   "mean": "성가신 것, 골칫거리",
+   "ex": "The dog next door is a real <b>nuisance</b>, always barking, even at night.",
+   "exKo": "옆집의 개는 정말 골칫거리다. 언제나 짖어대고 심지어 밤에도 그렇다.",
+   "derived": [
+    [
+     "⚠ nuance",
+     "(혼동 주의) 뉘앙스, (세밀하게) 조정하다"
+    ]
+   ],
+   "syn": [
+    [
+     "annoyance",
+     "골칫거리, 짜증"
+    ]
+   ]
+  },
+  {
+   "no": "0940",
+   "word": "fungus",
+   "ph": "[fʌ́ŋgəs]",
+   "pos": "명",
+   "mean": "균류, 곰팡이, 버섯 (복수형 fungi)",
+   "ex": "<b>Fungus</b> was the base material for making penicillin.",
+   "exKo": "곰팡이는 페니실린을 만드는 기초 원료이다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0941",
+   "word": "spark",
+   "ph": "[spaːrk]",
+   "pos": "명·동",
+   "mean": "(명) 불꽃 / (동) 촉발시키다, 유발하다",
+   "ex": "I tried to <b>spark</b> up a conversation with her.",
+   "exKo": "나는 그녀와의 대화에 불을 붙여 보려고 했다.",
+   "derived": [],
+   "syn": [
+    [
+     "provoke",
+     "자극하여 ~시키다, 유발하다"
+    ]
+   ]
+  },
+  {
+   "no": "0942",
+   "word": "generosity",
+   "ph": "[dʒènərásəti]",
+   "pos": "명",
+   "mean": "관대함",
+   "ex": "The rights of man come not from the <b>generosity</b> of the state but from the hand of God.",
+   "exKo": "인간의 권리는 국가의 관용이 아닌 신의 손으로부터 나온다.",
+   "derived": [
+    [
+     "generous",
+     "관대한"
+    ],
+    [
+     "general",
+     "일반적인, 총괄하는, 총합의, 장군"
+    ]
+   ],
+   "syn": [
+    [
+     "liberality",
+     "너그러움, 관대"
+    ],
+    [
+     "altruism",
+     "이타심, 이타주의"
+    ]
+   ]
+  },
+  {
+   "no": "0943",
+   "word": "relief",
+   "ph": "[rilíːf]",
+   "pos": "명",
+   "mean": "구조, 안도, 완화",
+   "ex": "Marijuana has been used for medicinal purposes, providing pain <b>relief</b> for some cancer patients.",
+   "exKo": "마리화나는 의료 목적으로 사용되어 왔는데, 일부 암환자들의 고통을 경감해준다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0944",
+   "word": "melancholy",
+   "ph": "[mélənkàli]",
+   "pos": "형",
+   "mean": "우울한, 구슬픈, 감성적인",
+   "ex": "I like listening to blues or jazz when I am in a <b>melancholy</b> mood.",
+   "exKo": "나는 기분이 우울할 때에는 블루스나 재즈를 듣는 것을 좋아한다.",
+   "derived": [],
+   "syn": [
+    [
+     "despondent",
+     "풀이 죽은, 낙담한"
+    ]
+   ]
+  },
+  {
+   "no": "0945",
+   "word": "eager",
+   "ph": "[íːgər]",
+   "pos": "명·형",
+   "mean": "(명) 열망 / (형) 열렬한, 간절히 바라는",
+   "ex": "Pooley is very <b>eager</b> to return to West Africa.",
+   "exKo": "풀리는 서아프리카로 돌아가기를 매우 희망하고 있다.",
+   "derived": [],
+   "syn": [
+    [
+     "aspire",
+     "열망하다, 갈망하다"
+    ],
+    [
+     "crave",
+     "열망하다, 열망"
+    ]
+   ]
+  },
+  {
+   "no": "0946",
+   "word": "sporadic",
+   "ph": "[spərǽdik]",
+   "pos": "형",
+   "mean": "산발적인, 드문",
+   "ex": "The <b>sporadic</b> attacks caused a lot of damage to the country.",
+   "exKo": "산발적인 공격이 그 나라에 많은 피해를 입혔다.",
+   "derived": [],
+   "syn": [
+    [
+     "occasional",
+     "가끔의, 때때로, 필요할 때만"
+    ]
+   ]
+  },
+  {
+   "no": "0947",
+   "word": "drought",
+   "ph": "[draut]",
+   "pos": "명",
+   "mean": "가뭄, 고갈",
+   "ex": "Other cities across the nation are also quickly preparing to fight the <b>drought</b>.",
+   "exKo": "전국의 다른 도시들도 가뭄을 물리치기 위해 발 빠르게 준비하고 있습니다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0948",
+   "word": "remnant",
+   "ph": "[rémnənt]",
+   "pos": "명",
+   "mean": "나머지, 자투리",
+   "ex": "The <b>remnants</b> of this astounding civilization still remain in forms of buildings and roads.",
+   "exKo": "이 놀라운 문명의 잔재들은 아직도 건물들과 길들의 형태로 남아 있다.",
+   "derived": [],
+   "syn": [
+    [
+     "remains",
+     "나머지, 잔여물, 유물, 잔재"
+    ]
+   ]
+  },
+  {
+   "no": "0949",
+   "word": "repercussion",
+   "ph": "[rìːpərkʌ́ʃən]",
+   "pos": "명",
+   "mean": "영향, 반향, 반사",
+   "ex": "The action of the government may have <b>repercussions</b> all over the world.",
+   "exKo": "정부의 이번 조치는 전세계의 반향을 일으킬지도 모른다.",
+   "derived": [],
+   "syn": [
+    [
+     "aftermath",
+     "여파"
+    ],
+    [
+     "backlash",
+     "반발, 반향"
+    ]
+   ]
+  },
+  {
+   "no": "0950",
+   "word": "due",
+   "ph": "[djuː]",
+   "pos": "명·형",
+   "mean": "(명) (마땅히) 내야 할 돈, 마감기한 / (형) 지불기일이 된",
+   "ex": "Mistakes are part of the <b>dues</b> one pays for a full life.",
+   "exKo": "실수는 충만한 삶을 위해 반드시 치러야 할 비용이다.",
+   "derived": [
+    [
+     "due to",
+     "~때문에"
+    ]
+   ],
+   "syn": []
+  }
+ ]
+}
