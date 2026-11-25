@@ -1,0 +1,944 @@
+{
+ "day": "DAY 23",
+ "words": [
+  {
+   "no": "1101",
+   "word": "deficiency",
+   "ph": "[difíʃənsi]",
+   "pos": "명",
+   "mean": "결핍, 결점",
+   "ex": "Today, many children in the world suffer from vitamin D <b>deficiency</b>.",
+   "exKo": "오늘날 세계의 많은 어린이들이 비타민D 결핍으로 어려움을 겪고 있습니다.",
+   "derived": [],
+   "syn": [
+    [
+     "shortage",
+     "부족, 결핍"
+    ],
+    [
+     "lack",
+     "부족, ~이 없다"
+    ],
+    [
+     "scarce",
+     "결핍, 부족함"
+    ]
+   ]
+  },
+  {
+   "no": "1102",
+   "word": "order",
+   "ph": "[ɔ́ːrdər]",
+   "pos": "명·동",
+   "mean": "(명) 순서, 질서, 주문(서) / (동) 명령하다, 주문하다",
+   "ex": "We need certain rules to preserve the <b>order</b> of society.",
+   "exKo": "사회 질서를 유지시키기 위해서 우리에게는 특정한 규칙들이 필요합니다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1103",
+   "word": "garbage",
+   "ph": "[gáːrbidʒ]",
+   "pos": "명",
+   "mean": "쓰레기, 찌꺼기",
+   "ex": "Will you take out the <b>garbage</b> when you go out? It's too cold outside.",
+   "exKo": "나갈 때 그 쓰레기 좀 밖에 내놓을래? 밖에 너무 추워.",
+   "derived": [
+    [
+     "⚠ garage",
+     "(혼동 주의) 차고, 차량 수리소"
+    ]
+   ],
+   "syn": [
+    [
+     "rubbish",
+     "쓰레기, 잡동사니"
+    ],
+    [
+     "waste",
+     "쓰레기, 폐기물"
+    ]
+   ]
+  },
+  {
+   "no": "1104",
+   "word": "debt",
+   "ph": "[det]",
+   "pos": "명",
+   "mean": "빚, 빚을 진 상태, 은혜를 입음",
+   "ex": "He wanted to help his hometown, which is in a lot of <b>debt</b>.",
+   "exKo": "그는 많은 빚을 지고 있는 자신의 마을을 돕고 싶었습니다.",
+   "derived": [],
+   "syn": [
+    [
+     "liability",
+     "부채"
+    ],
+    [
+     "indebtedness",
+     "부채, 은혜, 신세"
+    ]
+   ]
+  },
+  {
+   "no": "1105",
+   "word": "anarchy",
+   "ph": "[ǽnərki]",
+   "pos": "명",
+   "mean": "무정부 상태, 혼란 상태",
+   "ex": "When the teacher was absent, there was an <b>anarchy</b> in the classroom.",
+   "exKo": "선생님이 자리를 비우자 교실은 난장판이 되었다.",
+   "derived": [
+    [
+     "anarchism",
+     "무정부주의"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1106",
+   "word": "orphan",
+   "ph": "[ɔ́ːrfən]",
+   "pos": "명·동",
+   "mean": "(명) 고아 / (동) 고아로 만들다",
+   "ex": "A very poor man helps <b>orphans</b>, children with no families.",
+   "exKo": "매우 가난한 남자가 고아들, 가족이 없는 아이들을 도와주고 있습니다.",
+   "derived": [
+    [
+     "orphanage",
+     "고아원, 고아"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1107",
+   "word": "vacancy",
+   "ph": "[véikənsi]",
+   "pos": "명",
+   "mean": "빈자리, 결원, 공석",
+   "ex": "They competed for the remaining 20% of the <b>vacancies</b>.",
+   "exKo": "그들은 나머지 20%의 공석을 놓고 경쟁을 했다.",
+   "derived": [
+    [
+     "vacate",
+     "비우다, 떠나다, ~로부터 자유로이 하다"
+    ],
+    [
+     "vacant",
+     "비어있는, 결원의"
+    ],
+    [
+     "⚠ vicinity",
+     "(혼동 주의) 주변, 인근, 근처"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1108",
+   "word": "desert",
+   "ph": "[dézərt]",
+   "pos": "명·동",
+   "mean": "(명) 사막 / (동) 버리다",
+   "ex": "The disease is carried in <b>desert</b> dust and people who work outside are particularly vulnerable.",
+   "exKo": "이 질병은 사막의 먼지로 옮겨지고 밖에서 일하는 사람들은 특히 취약하다.",
+   "derived": [
+    [
+     "dessert",
+     "디저트"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1109",
+   "word": "account",
+   "ph": "[əkáunt]",
+   "pos": "명·동",
+   "mean": "(명) 계좌, 설명 / (동) 설명하다, 차지하다 (for)",
+   "ex": "I don't have a bank <b>account</b>.",
+   "exKo": "나는 은행 계좌가 없다.",
+   "derived": [
+    [
+     "accounting",
+     "회계, 회계처리"
+    ]
+   ],
+   "syn": [
+    [
+     "explain",
+     "설명하다, 알려주다"
+    ],
+    [
+     "occupy",
+     "차지하다"
+    ]
+   ]
+  },
+  {
+   "no": "1110",
+   "word": "routine",
+   "ph": "[ruːtíːn]",
+   "pos": "명·형",
+   "mean": "(명) 틀, 일상 / (형) 일상적인",
+   "ex": "Her <b>routine</b> was invariable.",
+   "exKo": "그녀의 틀에 박힌 생활은 변함이 없었다.",
+   "derived": [],
+   "syn": [
+    [
+     "daily life",
+     "일상"
+    ]
+   ]
+  },
+  {
+   "no": "1111",
+   "word": "instruction",
+   "ph": "[instrʌ́kʃən]",
+   "pos": "명",
+   "mean": "설명, 지시",
+   "ex": "The <b>instruction</b> manual completely defeated me.",
+   "exKo": "그 사용 설명서가 내게는 전혀 이해가 되지 않았다.",
+   "derived": [],
+   "syn": [
+    [
+     "direction",
+     "설명"
+    ]
+   ]
+  },
+  {
+   "no": "1112",
+   "word": "honor",
+   "ph": "[ánər]",
+   "pos": "명·동",
+   "mean": "(명) 명예, 영광 / (동) 존경하다, 기리다",
+   "ex": "People created the day to <b>honor</b> the western state's cowboy culture.",
+   "exKo": "사람들은 서부의 카우보이 문화를 예우하기 위해 이 날을 만들었습니다.",
+   "derived": [],
+   "syn": [
+    [
+     "homage",
+     "존경, 경의를 표하다"
+    ],
+    [
+     "respect",
+     "존중, 존경하다, 측면"
+    ],
+    [
+     "revere",
+     "존경하다"
+    ],
+    [
+     "salute",
+     "경례하다, 인사"
+    ]
+   ]
+  },
+  {
+   "no": "1113",
+   "word": "curve",
+   "ph": "[kəːrv]",
+   "pos": "명·동",
+   "mean": "(명) 곡선 / (동) 구부러지다",
+   "ex": "However, nobody knows why someone wanted to <b>curve</b> the trees.",
+   "exKo": "하지만 왜 누군가가 그 나무를 구부리고 싶어했는지 아무도 모릅니다.",
+   "derived": [
+    [
+     "⚠ curb",
+     "(혼동 주의) 막다, 도로경계석"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1114",
+   "word": "impetus",
+   "ph": "[ímpitəs]",
+   "pos": "명",
+   "mean": "자극, 힘",
+   "ex": "This will provide the <b>impetus</b> for further strong growth.",
+   "exKo": "이것은 더 강력한 성장의 원동력이 될 것이다.",
+   "derived": [],
+   "syn": [
+    [
+     "stimulus",
+     "자극, 부양책"
+    ],
+    [
+     "impulse",
+     "충동, 자극"
+    ]
+   ]
+  },
+  {
+   "no": "1115",
+   "word": "verge",
+   "ph": "[vəːrdʒ]",
+   "pos": "명",
+   "mean": "가장자리, 경계",
+   "ex": "Now, I think that we're on the <b>verge</b> of something big.",
+   "exKo": "이제, 저는 우리가 어떤 큰 경계에 도달했다고 생각합니다.",
+   "derived": [],
+   "syn": [
+    [
+     "perimeter",
+     "경계, 주변, 외곽"
+    ],
+    [
+     "edge",
+     "가장자리, 끝, 우위"
+    ],
+    [
+     "brink",
+     "위기, 벼랑, 직전"
+    ],
+    [
+     "periphery",
+     "주변, 주변부"
+    ]
+   ]
+  },
+  {
+   "no": "1116",
+   "word": "correspondent",
+   "ph": "[kɔ̀(ː)rispándənt]",
+   "pos": "명·형",
+   "mean": "(명) 일치하는 것, 통신인 / (형) 대응하는",
+   "ex": "We were banned from Egypt, and our <b>correspondents</b>, some of them were arrested.",
+   "exKo": "우리는 이집트 입국을 금지 당했고, 우리 특파원들의 일부는 체포되었습니다.",
+   "derived": [
+    [
+     "corresponding",
+     "상응하는, 같은"
+    ]
+   ],
+   "syn": [
+    [
+     "reporter",
+     "기자, 리포터"
+    ]
+   ]
+  },
+  {
+   "no": "1117",
+   "word": "hypnosis",
+   "ph": "[hipnóusis]",
+   "pos": "명",
+   "mean": "최면 (상태)",
+   "ex": "<b>Hypnosis</b> is useful, as it also treats children with anxiety and asthma.",
+   "exKo": "최면은 어린이들의 불안 및 천식 또한 치료하기 때문에 유용하다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1118",
+   "word": "mysterious",
+   "ph": "[mistí(ː)əriəs]",
+   "pos": "형",
+   "mean": "신비의, 불가사의한, 이상한",
+   "ex": "Some elephants have a <b>mysterious</b> ability to find water far from where they are.",
+   "exKo": "어떤 코끼리들은 그들이 있는 곳에서 멀리 떨어져 있는 물을 찾는 신비한 능력을 가지고 있다.",
+   "derived": [],
+   "syn": [
+    [
+     "enigmatic",
+     "수수께끼 같은, 불가사의한, 수수께끼의"
+    ]
+   ]
+  },
+  {
+   "no": "1119",
+   "word": "humorous",
+   "ph": "[hjúːmərəs]",
+   "pos": "형",
+   "mean": "우스운, 유머러스한",
+   "ex": "It is a quiet, reflective, and <b>humorous</b> story of a boy's journey toward adulthood.",
+   "exKo": "이것은 어른으로 성장해 가는 한 소년의 여정에 대한 잔잔하고, 묵상적이며, 재미있는 이야기이다.",
+   "derived": [
+    [
+     "↔ tragic",
+     "(반의어) 비극적인"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1120",
+   "word": "scent",
+   "ph": "[sent]",
+   "pos": "명·동",
+   "mean": "(명) 자취, 향기 / (동) (냄새로) 찾다",
+   "ex": "The <b>scent</b> of the flowers was wafted along by the breeze.",
+   "exKo": "꽃향기가 미풍을 타고 퍼져 나갔다.",
+   "derived": [],
+   "syn": [
+    [
+     "fragrance",
+     "향기"
+    ]
+   ]
+  },
+  {
+   "no": "1121",
+   "word": "ritual",
+   "ph": "[rítʃuəl]",
+   "pos": "명·형",
+   "mean": "(명) 의례 / (형) 의식상의",
+   "ex": "She objects to the <b>ritual</b> of organized religion.",
+   "exKo": "그녀는 조직화된 종교 의례를 반대한다.",
+   "derived": [],
+   "syn": [
+    [
+     "ceremony",
+     "의식"
+    ]
+   ]
+  },
+  {
+   "no": "1122",
+   "word": "ambush",
+   "ph": "[ǽmbuʃ]",
+   "pos": "명",
+   "mean": "매복, 공격",
+   "ex": "The Indians were waiting in <b>ambush</b> behind some nearby sand dunes.",
+   "exKo": "그 인디언들은 근처의 모래 언덕 뒤에 매복한 채 기다리고 있었다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1123",
+   "word": "workshop",
+   "ph": "[wə́ːrkʃɑ̀p]",
+   "pos": "명",
+   "mean": "작업장, 워크샵, 토론회",
+   "ex": "Also, we can feel like we are in Germany during a <b>workshop</b>.",
+   "exKo": "또한, 우리는 워크숍 동안 우리가 독일에 있는 것처럼 느낄 수 있습니다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1124",
+   "word": "treachery",
+   "ph": "[trétʃəri]",
+   "pos": "명",
+   "mean": "배반, 배신",
+   "ex": "We have been successful in avoiding Mother Nature's <b>treachery</b> by learning how to get out of her way.",
+   "exKo": "우리는 자연의 방식을 벗어나는 방법을 배움으로써 자연의 배반 행위를 훌륭하게 피해왔다.",
+   "derived": [],
+   "syn": [
+    [
+     "betrayal",
+     "배신, 밀고"
+    ],
+    [
+     "treason",
+     "배신, 반역죄"
+    ]
+   ]
+  },
+  {
+   "no": "1125",
+   "word": "grave",
+   "ph": "[greiv]",
+   "pos": "명·형",
+   "mean": "(명) 무덤, 묘 / (형) 심각한",
+   "ex": "So he stayed beside his owner's <b>grave</b> for 15 days.",
+   "exKo": "그래서 그는 주인의 무덤 옆에 15일 동안 머물렀습니다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1126",
+   "word": "demise",
+   "ph": "[dimáiz]",
+   "pos": "명·동",
+   "mean": "(명) 종말, 사망 / (동) ~을 양도하다",
+   "ex": "There were no signs of violence and the cause of their <b>demise</b> was under investigation yesterday.",
+   "exKo": "폭력의 흔적은 없었고 그들의 사망 원인은 어제 조사 중이었다.",
+   "derived": [],
+   "syn": [
+    [
+     "collapse",
+     "붕괴, 무너지다"
+    ],
+    [
+     "death",
+     "죽음, 사망"
+    ],
+    [
+     "extinction",
+     "소멸, 멸종"
+    ]
+   ]
+  },
+  {
+   "no": "1127",
+   "word": "sake",
+   "ph": "[seik]",
+   "pos": "명",
+   "mean": "동기, 이익, 목적",
+   "ex": "The translation sacrifices naturalness for the <b>sake</b> of accuracy.",
+   "exKo": "그 번역은 정확성을 기하기 위해서 자연스러움을 희생시키고 있다.",
+   "derived": [
+    [
+     "for the sake of",
+     "~을 위해서"
+    ]
+   ],
+   "syn": [
+    [
+     "profit",
+     "이익"
+    ]
+   ]
+  },
+  {
+   "no": "1128",
+   "word": "ruin",
+   "ph": "[rú(ː)in]",
+   "pos": "명·동",
+   "mean": "(명) 붕괴, 몰락, 폐허 / (동) 망치다, 파산시키다",
+   "ex": "They let the house go to rack and <b>ruin</b>.",
+   "exKo": "그들은 그 집이 망가지도록 놔두었다.",
+   "derived": [],
+   "syn": [
+    [
+     "spoil",
+     "망치다"
+    ]
+   ]
+  },
+  {
+   "no": "1129",
+   "word": "hatred",
+   "ph": "[héitrid]",
+   "pos": "명",
+   "mean": "증오, 혐오, 미움",
+   "ex": "Terrorism is often fueled by a historic culture of <b>hatred</b> and distrust.",
+   "exKo": "테러리즘은 증오와 불신의 역사적 문화로 인해 흔히 야기된다.",
+   "derived": [],
+   "syn": [
+    [
+     "aversion",
+     "혐오, 반감, 아주 싫은 것"
+    ],
+    [
+     "abhorrence",
+     "혐오, 증오, 질색인 것"
+    ],
+    [
+     "antagonism",
+     "적대심"
+    ]
+   ]
+  },
+  {
+   "no": "1130",
+   "word": "deficit",
+   "ph": "[défisit]",
+   "pos": "명",
+   "mean": "부족, 결손, 적자",
+   "ex": "There is a <b>deficit</b> of 10,000 dollars in the total needed to carry out the research project.",
+   "exKo": "그 연구 프로젝트를 수행하는 데 필요한 총 액수에서 1만 달러가 부족하다.",
+   "derived": [],
+   "syn": [
+    [
+     "loss",
+     "손실, 잃음"
+    ],
+    [
+     "shortfall",
+     "부족, 부족액"
+    ]
+   ]
+  },
+  {
+   "no": "1131",
+   "word": "achievement",
+   "ph": "[ətʃíːvmənt]",
+   "pos": "명",
+   "mean": "업적, 성취물",
+   "ex": "He ascended to the peak of sporting <b>achievement</b>.",
+   "exKo": "그는 스포츠 부문 성취의 정점까지 올랐다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1132",
+   "word": "debate",
+   "ph": "[dibéit]",
+   "pos": "명",
+   "mean": "토론, 논쟁",
+   "ex": "This one was actually much closer than any <b>debate</b> so far.",
+   "exKo": "이것은 지금까지 했던 어떤 토론보다 훨씬 더 팽팽했습니다.",
+   "derived": [],
+   "syn": [
+    [
+     "discussion",
+     "논의, 토론"
+    ],
+    [
+     "discourse",
+     "담화, 토론, 말하다"
+    ]
+   ]
+  },
+  {
+   "no": "1133",
+   "word": "idol",
+   "ph": "[áidəl]",
+   "pos": "명",
+   "mean": "아이돌, 스타, 우상",
+   "ex": "Elvis Presley was the <b>idol</b> of millions of teens and the target for the wrath of teachers.",
+   "exKo": "엘비스 프레슬리는 수백만 십대들의 우상이었으며 선생들의 노여움의 대상이었다.",
+   "derived": [
+    [
+     "⚠ idle",
+     "(혼동 주의) 한가한, 무의미한"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1134",
+   "word": "optimism",
+   "ph": "[áptəmìzəm]",
+   "pos": "명",
+   "mean": "낙관론, 낙천주의",
+   "ex": "Too much <b>optimism</b> can bring disappointment when expectations are not met.",
+   "exKo": "너무 지나친 낙관주의는 기대가 충족되지 못했을 때 실망감을 불러 일으킬 수 있다.",
+   "derived": [
+    [
+     "pessimism",
+     "비관론, 비관주의"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1135",
+   "word": "premonition",
+   "ph": "[prìːməníʃən]",
+   "pos": "명",
+   "mean": "예고, 징후",
+   "ex": "He had a <b>premonition</b> and rushed out of the kitchen just before an explosion wrecked it.",
+   "exKo": "그는 예감을 하고 부엌이 폭발하기 직전에 그곳에서 뛰쳐나왔다.",
+   "derived": [
+    [
+     "⚠ promotion",
+     "(혼동 주의) 승진, 판촉"
+    ]
+   ],
+   "syn": [
+    [
+     "omen",
+     "전조, 징조, 조짐"
+    ],
+    [
+     "portent",
+     "전조, 조짐"
+    ],
+    [
+     "sign",
+     "표시, 징후"
+    ]
+   ]
+  },
+  {
+   "no": "1136",
+   "word": "stroke",
+   "ph": "[strouk]",
+   "pos": "명·동",
+   "mean": "(명) 뇌졸중, 타법, 획 / (동) 쓰다듬다",
+   "ex": "The <b>stroke</b> left him partly paralyzed.",
+   "exKo": "뇌졸중으로 그는 부분 마비가 되었다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1137",
+   "word": "rate",
+   "ph": "[reit]",
+   "pos": "명·동",
+   "mean": "(명) 속도, 비율, 요금 / (동) 평가하다",
+   "ex": "The unemployment <b>rate</b> has been projected to fall.",
+   "exKo": "실업률이 하락할 것으로 예상되어 왔다.",
+   "derived": [
+    [
+     "charge",
+     "비용(일반적)"
+    ],
+    [
+     "fee",
+     "비용(서비스), 입장료"
+    ],
+    [
+     "fare",
+     "(탈 것) 비용"
+    ],
+    [
+     "toll",
+     "통행료, 통신비용"
+    ]
+   ],
+   "syn": [
+    [
+     "proportion",
+     "비율, 비"
+    ]
+   ]
+  },
+  {
+   "no": "1138",
+   "word": "debris",
+   "ph": "[dəbríː]",
+   "pos": "명",
+   "mean": "잔해, 쓰레기",
+   "ex": "Everyone is pitching in, including an elephant who helped remove heavy <b>debris</b>.",
+   "exKo": "무거운 잔해를 치우는 일을 돕는 코끼리를 포함하여 모두가 참여하고 있습니다.",
+   "derived": [],
+   "syn": [
+    [
+     "particle",
+     "입자, 미립자"
+    ]
+   ]
+  },
+  {
+   "no": "1139",
+   "word": "corrosion",
+   "ph": "[kəróuʒən]",
+   "pos": "명",
+   "mean": "부식 작용",
+   "ex": "Bronze is used frequently in ship-building because it is resistant to <b>corrosion</b> from sea water.",
+   "exKo": "청동은 바닷물에 의한 부식에 저항력이 있기 때문에 배를 만들 때 자주 사용된다.",
+   "derived": [
+    [
+     "corrode",
+     "침식하다, 부식하다"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1140",
+   "word": "attitude",
+   "ph": "[ǽtitjùːd]",
+   "pos": "명",
+   "mean": "태도, 사고방식, 자세",
+   "ex": "He has an ambivalent <b>attitude</b> towards her.",
+   "exKo": "그는 그녀에 대해 애증이 엇갈리는 태도를 보인다.",
+   "derived": [
+    [
+     "⚠ altitude",
+     "(혼동 주의) 고도"
+    ],
+    [
+     "⚠ aptitude",
+     "(혼동 주의) 소질, 능력"
+    ]
+   ],
+   "syn": [
+    [
+     "mindset",
+     "사고방식, 마음가짐, 생각"
+    ]
+   ]
+  },
+  {
+   "no": "1141",
+   "word": "earthquake",
+   "ph": "[ə́ːrθkwèik]",
+   "pos": "명",
+   "mean": "지진",
+   "ex": "In January 2010, an <b>earthquake</b> destroyed Haiti and killed more than 300,000 people.",
+   "exKo": "2010년 1월에 지진이 아이티를 파괴했고 30만 명 이상의 사람들을 죽게 했다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1142",
+   "word": "posture",
+   "ph": "[pástʃər]",
+   "pos": "명·동",
+   "mean": "(명) 자세, 태세 / (동) 가식적으로 행동하다",
+   "ex": "This <b>posture</b> also means that the person is open for any communication.",
+   "exKo": "또한 이 자세는 대화를 환영한다는 뜻입니다.",
+   "derived": [],
+   "syn": [
+    [
+     "attitude",
+     "태도, 자세"
+    ],
+    [
+     "stance",
+     "입장, 자세, 태도"
+    ]
+   ]
+  },
+  {
+   "no": "1143",
+   "word": "imagination",
+   "ph": "[imæ̀dʒənéiʃən]",
+   "pos": "명",
+   "mean": "상상, 상상력, 창의력",
+   "ex": "That child has a very active <b>imagination</b>.",
+   "exKo": "저 아이는 상상력이 아주 풍부하다.",
+   "derived": [
+    [
+     "imaginative",
+     "창의적인, 상상력이 풍부한"
+    ],
+    [
+     "imagine",
+     "상상하다"
+    ]
+   ],
+   "syn": [
+    [
+     "fancy",
+     "공상, 상상"
+    ]
+   ]
+  },
+  {
+   "no": "1144",
+   "word": "geology",
+   "ph": "[dʒiálədʒi]",
+   "pos": "명",
+   "mean": "지질학, 지질학적 기원",
+   "ex": "India will put an orbital probe around the red planet to study its climate and <b>geology</b>.",
+   "exKo": "인도는 화성의 기후와 지질학을 연구하기 위해 이 붉은 행성의 주변을 도는 탐사선을 보낼 예정입니다.",
+   "derived": [
+    [
+     "geography",
+     "지리학"
+    ],
+    [
+     "geometry",
+     "기하학"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1145",
+   "word": "fine",
+   "ph": "[fain]",
+   "pos": "형·명",
+   "mean": "(형) 괜찮은, 미세한 / (명) 벌금",
+   "ex": "These <b>fine</b> particles penetrate deep into the lungs.",
+   "exKo": "이들 미세 입자는 폐 깊숙이 뚫고 들어간다.",
+   "derived": [
+    [
+     "fine dust",
+     "미세먼지"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1146",
+   "word": "license",
+   "ph": "[láisəns]",
+   "pos": "명·동",
+   "mean": "(명) 면허, 허가증 / (동) 허가하다",
+   "ex": "Non-Muslims also need to have a special <b>license</b> to buy alcohol.",
+   "exKo": "비이슬람교도들 또한 알코올 음료를 사기 위해서는 특별한 허가증을 가지고 있어야 합니다.",
+   "derived": [],
+   "syn": [
+    [
+     "permit",
+     "허가하다, 허용하다"
+    ],
+    [
+     "sanction",
+     "제재, 허가, 인정하다"
+    ],
+    [
+     "certificate",
+     "증서, 자격증"
+    ]
+   ]
+  },
+  {
+   "no": "1147",
+   "word": "cliff",
+   "ph": "[klif]",
+   "pos": "명",
+   "mean": "절벽",
+   "ex": "During her trip, she went surfing, scuba diving, and <b>cliff</b> diving.",
+   "exKo": "여행 중에 그녀는 서핑, 스쿠버 다이빙, 절벽 다이빙을 하러 갔습니다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1148",
+   "word": "fraud",
+   "ph": "[frɔːd]",
+   "pos": "명",
+   "mean": "사기",
+   "ex": "The firm collapsed amid allegations of <b>fraud</b>.",
+   "exKo": "그 회사는 사기 혐의가 쏟아지는 가운데 몰락했다.",
+   "derived": [],
+   "syn": [
+    [
+     "deception",
+     "기만, 사기, 허상"
+    ],
+    [
+     "deceit",
+     "책략, 사기, 속임"
+    ],
+    [
+     "scam",
+     "사기, 사기 치다"
+    ]
+   ]
+  },
+  {
+   "no": "1149",
+   "word": "refrigerator",
+   "ph": "[rifrídʒərèitər]",
+   "pos": "명",
+   "mean": "냉장고",
+   "ex": "The <b>refrigerator</b> was completely bare.",
+   "exKo": "냉장고가 완전히 비어 있었다.",
+   "derived": [],
+   "syn": [
+    [
+     "fridge",
+     "냉장고"
+    ]
+   ]
+  },
+  {
+   "no": "1150",
+   "word": "plethora",
+   "ph": "[pléθərə]",
+   "pos": "명",
+   "mean": "과다, 과잉",
+   "ex": "A <b>plethora</b> of suppliers will enter the market.",
+   "exKo": "과다한 공급자들이 시장에 투입될 것이다.",
+   "derived": [],
+   "syn": [
+    [
+     "excess",
+     "과도, 과잉"
+    ],
+    [
+     "profusion",
+     "풍부, 풍부함"
+    ],
+    [
+     "surfeit",
+     "과도, 과식, 폭식"
+    ]
+   ]
+  }
+ ]
+}
