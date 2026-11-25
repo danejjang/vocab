@@ -1,0 +1,913 @@
+{
+ "day": "DAY 27",
+ "words": [
+  {
+   "no": "1301",
+   "word": "exhaust",
+   "ph": "[igzɔ́ːst]",
+   "pos": "동·명",
+   "mean": "(동) 지치게 만들다 / (명) 배기가스, 배기관",
+   "ex": "Second, extra activities are good, but too many extra activities may <b>exhaust</b> students.",
+   "exKo": "다음으로, 추가 활동은 좋지만, 너무 많은 추가 활동은 학생들을 지치게 할 수도 있습니다.",
+   "derived": [
+    [
+     "exhaustive",
+     "철저한, 완전한"
+    ]
+   ],
+   "syn": [
+    [
+     "tire",
+     "지치게 만들다"
+    ],
+    [
+     "wear out",
+     "지치게 만들다"
+    ],
+    [
+     "drain",
+     "고갈시키다"
+    ]
+   ]
+  },
+  {
+   "no": "1302",
+   "word": "discord",
+   "ph": "[dískɔːrd]",
+   "pos": "명",
+   "mean": "불화, 다툼, 불협화음",
+   "ex": "However, it is also a path to a career that while not without <b>discord</b>, can prove highly rewarding.",
+   "exKo": "하지만, 이견이 없는 것은 아니지만 매우 보람 있다는 것을 드러낼 수 있는 진로이기도 하다.",
+   "derived": [],
+   "syn": [
+    [
+     "disagreement",
+     "이견, 불일치"
+    ],
+    [
+     "friction",
+     "마찰, 불화"
+    ],
+    [
+     "dissension",
+     "불화, 의견 차이"
+    ]
+   ]
+  },
+  {
+   "no": "1303",
+   "word": "custom",
+   "ph": "[kʌ́stəm]",
+   "pos": "명",
+   "mean": "관습, 풍습, 습관",
+   "ex": "There is no place in the world today for such <b>custom</b>.",
+   "exKo": "오늘날 그러한 관습을 가진 곳은 어디에도 없다.",
+   "derived": [
+    [
+     "customize",
+     "주문제작하다"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1304",
+   "word": "bunch",
+   "ph": "[bʌntʃ]",
+   "pos": "명·동",
+   "mean": "(명) 다발, 묶음 / (동) 단단해지다",
+   "ex": "A <b>bunch</b> of kids were hanging around outside.",
+   "exKo": "한 무리의 청소년들이 밖에서 얼쩡거리고 있었다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1305",
+   "word": "auction",
+   "ph": "[ɔ́ːkʃən]",
+   "pos": "명·동",
+   "mean": "(명) 경매 / (동) 경매로 팔다",
+   "ex": "The house is up for <b>auction</b>.",
+   "exKo": "그 집은 경매에 나와 있다.",
+   "derived": [],
+   "syn": [
+    [
+     "bid",
+     "입찰, 유치"
+    ]
+   ]
+  },
+  {
+   "no": "1306",
+   "word": "proponent",
+   "ph": "[prəpóunənt]",
+   "pos": "명",
+   "mean": "지지자, 옹호자",
+   "ex": "She was a <b>proponent</b> of capital punishment, but now is not any longer.",
+   "exKo": "그녀는 사형제를 지지하는 사람이었지만 지금은 더 이상 아니다.",
+   "derived": [
+    [
+     "opponent",
+     "반대론자"
+    ]
+   ],
+   "syn": [
+    [
+     "supporter",
+     "지지자, 옹호자, 찬성자"
+    ],
+    [
+     "advocate",
+     "옹호자, 옹호하다, 주장하다"
+    ]
+   ]
+  },
+  {
+   "no": "1307",
+   "word": "proverb",
+   "ph": "[právəːrb]",
+   "pos": "명",
+   "mean": "속담, 격언",
+   "ex": "There is a <b>proverb</b> that goes like this: constant dripping wears away the stone.",
+   "exKo": "이런 속담이 있다. 끊임없는 낙숫물이 바위를 닳게 만든다.",
+   "derived": [],
+   "syn": [
+    [
+     "adage",
+     "속담, 금언, 격언"
+    ],
+    [
+     "saying",
+     "속담, 말"
+    ],
+    [
+     "maxim",
+     "격언"
+    ]
+   ]
+  },
+  {
+   "no": "1308",
+   "word": "spine",
+   "ph": "[spain]",
+   "pos": "명",
+   "mean": "척추, 등뼈, 가시",
+   "ex": "A bone in my <b>spine</b> was out of alignment.",
+   "exKo": "내 등뼈 하나가 어긋나 있었다.",
+   "derived": [
+    [
+     "vertebrate",
+     "척추동물"
+    ]
+   ],
+   "syn": [
+    [
+     "backbone",
+     "등뼈, 척추"
+    ]
+   ]
+  },
+  {
+   "no": "1309",
+   "word": "nutrient",
+   "ph": "[njúːtriənt]",
+   "pos": "명",
+   "mean": "영양소, 영양분",
+   "ex": "Try to take in the proper amount of each <b>nutrient</b> and stay healthy.",
+   "exKo": "각 영양분을 적당량 섭취하여 건강하게 지내세요.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1310",
+   "word": "objective",
+   "ph": "[əbdʒéktiv]",
+   "pos": "명·형",
+   "mean": "(명) 목적, 목표 / (형) 객관적인",
+   "ex": "Without planning, people will not take steps forward towards achieving their <b>objectives</b>.",
+   "exKo": "계획을 세우지 않으면, 사람들은 자신의 목표를 이루기 위해 발을 내딛지 않을 것입니다.",
+   "derived": [
+    [
+     "subjective",
+     "주관적인"
+    ]
+   ],
+   "syn": [
+    [
+     "target",
+     "목표, 대상, 겨냥하다"
+    ],
+    [
+     "goal",
+     "목표, 목적"
+    ],
+    [
+     "purpose",
+     "목적, 명분"
+    ],
+    [
+     "aim",
+     "목표, 목표로 하다"
+    ]
+   ]
+  },
+  {
+   "no": "1311",
+   "word": "nerve",
+   "ph": "[nəːrv]",
+   "pos": "명·동",
+   "mean": "(명) 신경, 용기 / (동) 용기를 내어 ~하다",
+   "ex": "That is 10 times more <b>nerve</b> endings than a cat!",
+   "exKo": "이는 고양이의 신경 말단보다 10배나 더 되는 것이랍니다!",
+   "derived": [
+    [
+     "unnerve",
+     "불안하게 만들다"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1312",
+   "word": "motive",
+   "ph": "[móutiv]",
+   "pos": "명·형",
+   "mean": "(명) 동기, 의도, 목적 / (형) 움직이게 하는",
+   "ex": "Speaking without seeking the king's true <b>motive</b> is blindness.",
+   "exKo": "왕의 진짜 의도를 알려 하지 않고 말하는 것은 무분별하다.",
+   "derived": [
+    [
+     "motivate",
+     "동기부여하다, 자극하다"
+    ]
+   ],
+   "syn": [
+    [
+     "impulse",
+     "충동, 자극, 원동력, 욕망"
+    ],
+    [
+     "stimulus",
+     "자극, 부양책, 고무"
+    ]
+   ]
+  },
+  {
+   "no": "1313",
+   "word": "impact",
+   "ph": "[ímpækt]",
+   "pos": "명·동",
+   "mean": "(명) 영향, 충돌 / (동) 영향을 주다",
+   "ex": "The <b>impact</b> ruptured both fuel tanks.",
+   "exKo": "그 충격으로 연료 탱크가 둘 다 터졌다.",
+   "derived": [],
+   "syn": [
+    [
+     "effect",
+     "영향, 효과, 초래하다"
+    ],
+    [
+     "affect",
+     "~에게 영향을 주다"
+    ]
+   ]
+  },
+  {
+   "no": "1314",
+   "word": "cliché",
+   "ph": "[kliːʃéi]",
+   "pos": "명",
+   "mean": "상투어구, 틀에 박힌 문구",
+   "ex": "The idea that the twentieth century is the age of the common man has become one of the great <b>clichés</b> of our time.",
+   "exKo": "20세기는 보통 사람의 시대라는 생각은 우리의 시대의 매우 진부한 표현 중의 하나가 되었다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1315",
+   "word": "precise",
+   "ph": "[prisáis]",
+   "pos": "형",
+   "mean": "정확한, 정밀한, 엄밀한",
+   "ex": "They want to create a tool that turns from soft and flexible, to hard and <b>precise</b> for surgery.",
+   "exKo": "그들은 수술을 위해 부드럽고 유연한 것에서 단단하고 정밀한 것으로 바뀌는 도구를 만들기를 원합니다.",
+   "derived": [
+    [
+     "precision",
+     "정확성, 정밀함"
+    ]
+   ],
+   "syn": [
+    [
+     "accurate",
+     "정확한, 정밀한"
+    ],
+    [
+     "exact",
+     "정확한"
+    ]
+   ]
+  },
+  {
+   "no": "1316",
+   "word": "anchor",
+   "ph": "[ǽŋkər]",
+   "pos": "명·동",
+   "mean": "(명) 닻, 정신적 지주 / (동) 고정시키다, 정박하다",
+   "ex": "Several boats lay at <b>anchor</b> in the harbor.",
+   "exKo": "몇 척의 보트가 그 항구에 정박해 있었다.",
+   "derived": [],
+   "syn": [
+    [
+     "mainstay",
+     "중심, 대들보"
+    ]
+   ]
+  },
+  {
+   "no": "1317",
+   "word": "lift",
+   "ph": "[lift]",
+   "pos": "동·명",
+   "mean": "(동) 들어 올리다, (제한 등을) 해제하다 / (명) 엘리베이터",
+   "ex": "The authorities decided to <b>lift</b> the curfew after the situation improved.",
+   "exKo": "상황이 호전된 후 당국은 통행금지를 해제하기로 결정했다.",
+   "derived": [
+    [
+     "lift a ban",
+     "금지를 해제하다"
+    ],
+    [
+     "lift restrictions",
+     "제한을 해제하다"
+    ],
+    [
+     "lift a curfew",
+     "통행금지를 해제하다"
+    ]
+   ],
+   "syn": [
+    [
+     "raise",
+     "들어 올리다"
+    ],
+    [
+     "elevate",
+     "높이다"
+    ]
+   ]
+  },
+  {
+   "no": "1318",
+   "word": "trait",
+   "ph": "[treit]",
+   "pos": "명",
+   "mean": "특성, 인상",
+   "ex": "Left-handedness is a <b>trait</b> unique to humans.",
+   "exKo": "왼손잡이는 인간에게만 있는 특성이다.",
+   "derived": [],
+   "syn": [
+    [
+     "character",
+     "특성"
+    ],
+    [
+     "attribute",
+     "특성, ~탓으로 돌리다"
+    ],
+    [
+     "feature",
+     "특징, 특성, 드러내다"
+    ]
+   ]
+  },
+  {
+   "no": "1319",
+   "word": "vehicle",
+   "ph": "[víːikl]",
+   "pos": "명",
+   "mean": "차량, 탈 것, 수단, 매개체",
+   "ex": "The <b>vehicle</b> gained momentum as the road dipped.",
+   "exKo": "도로가 내리막이 되자 차에 가속도가 붙었다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1320",
+   "word": "wound",
+   "ph": "[wuːnd]",
+   "pos": "명·동",
+   "mean": "(명) 상처 / (동) 상처를 입히다",
+   "ex": "The bruising was not contiguous to the <b>wound</b>.",
+   "exKo": "타박상은 상처에 근접해 있지 않았다.",
+   "derived": [
+    [
+     "the wounded",
+     "부상자들"
+    ]
+   ],
+   "syn": [
+    [
+     "injure",
+     "부상입히다"
+    ],
+    [
+     "hurt",
+     "다치게 만들다, 아프다"
+    ]
+   ]
+  },
+  {
+   "no": "1321",
+   "word": "acupuncture",
+   "ph": "[ǽkjupʌ̀ŋktʃər]",
+   "pos": "명",
+   "mean": "침술",
+   "ex": "When people wait for <b>acupuncture</b>, the brain sends out chemicals called endorphins.",
+   "exKo": "사람들이 침술 치료를 기다리는 동안 뇌는 엔돌핀이라는 물질을 분비한다.",
+   "derived": [
+    [
+     "acupuncturist",
+     "침술사"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1322",
+   "word": "basin",
+   "ph": "[béisən]",
+   "pos": "명",
+   "mean": "분지, 세면기, 대야",
+   "ex": "Kathmandu sits almost in the middle of a <b>basin</b>, forming a square about 5km north-south and 5km east-west.",
+   "exKo": "카트만두는 분지의 거의 중앙에 있으며, 약 남북 5km, 동서 5km의 정사각형을 이룬다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1323",
+   "word": "representative",
+   "ph": "[rèprizéntətiv]",
+   "pos": "명·형",
+   "mean": "(명) 대표자, 대리인 / (형) 대표하는",
+   "ex": "The survey covers a <b>representative</b> sample of schools.",
+   "exKo": "그 실태조사는 학교들을 대표하는 표본을 포괄하고 있다.",
+   "derived": [],
+   "syn": [
+    [
+     "delegate",
+     "대표자"
+    ],
+    [
+     "surrogate",
+     "대리의, 대용의"
+    ]
+   ]
+  },
+  {
+   "no": "1324",
+   "word": "catastrophe",
+   "ph": "[kətǽstrəfi]",
+   "pos": "명",
+   "mean": "참사, 재난",
+   "ex": "The freeze on population funds was a <b>catastrophe</b> for poor women and their children.",
+   "exKo": "국민 기금의 동결은 빈곤한 여성들과 그 자녀들에게는 하나의 큰 재난이었다.",
+   "derived": [],
+   "syn": [
+    [
+     "disaster",
+     "재해, 재난"
+    ],
+    [
+     "calamity",
+     "재난, 참사"
+    ]
+   ]
+  },
+  {
+   "no": "1325",
+   "word": "ravage",
+   "ph": "[rǽvidʒ]",
+   "pos": "명·동",
+   "mean": "(명) 파괴, 황폐 / (동) 약탈하다, 파괴하다",
+   "ex": "Drugs inflict <b>ravages</b> on the bodies and spirits of those who take them.",
+   "exKo": "마약은 그것을 복용하는 사람들의 신체와 영혼에 해를 가져온다.",
+   "derived": [],
+   "syn": [
+    [
+     "damage",
+     "손해, 손상"
+    ],
+    [
+     "destruction",
+     "파괴, 분쇄"
+    ]
+   ]
+  },
+  {
+   "no": "1326",
+   "word": "procedure",
+   "ph": "[prəsíːdʒər]",
+   "pos": "명",
+   "mean": "절차, 수술",
+   "ex": "His body was used to undergo the <b>procedure</b> the ancient Egyptians used.",
+   "exKo": "그의 몸은 고대 이집트인들이 행해왔던 절차대로 이용되었다.",
+   "derived": [
+    [
+     "⚠ procure",
+     "(혼동 주의) 획득하다, 조달하다"
+    ]
+   ],
+   "syn": [
+    [
+     "process",
+     "과정, 공정, 처리"
+    ],
+    [
+     "step",
+     "단계, 절차"
+    ]
+   ]
+  },
+  {
+   "no": "1327",
+   "word": "role",
+   "ph": "[roul]",
+   "pos": "명",
+   "mean": "역할, 배역",
+   "ex": "Males have a number of traditional gender <b>role</b> expectations in our society.",
+   "exKo": "우리 사회에서는 남성에게 전통적으로 기대되는 성 역할이 많다.",
+   "derived": [],
+   "syn": [
+    [
+     "part",
+     "분담, 몫"
+    ],
+    [
+     "position",
+     "직책, 직, 근무처"
+    ]
+   ]
+  },
+  {
+   "no": "1328",
+   "word": "round-trip",
+   "ph": "",
+   "pos": "명",
+   "mean": "왕복 여행",
+   "ex": "A <b>round-trip</b> ticket between Cleveland and Washington D.C. was about $75.",
+   "exKo": "클리블랜드와 워싱턴DC 간의 왕복표 값은 75달러 정도였다.",
+   "derived": [
+    [
+     "one way trip",
+     "편도 여행"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1329",
+   "word": "hemisphere",
+   "ph": "[hémisfiər]",
+   "pos": "명",
+   "mean": "반구, 반구체",
+   "ex": "Interestingly, however, the season is opposite in the Southern <b>Hemisphere</b>.",
+   "exKo": "하지만 흥미롭게도, 남반구의 계절은 정반대랍니다.",
+   "derived": [
+    [
+     "sphere",
+     "구, 구체, 영역"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1330",
+   "word": "defiance",
+   "ph": "[difáiəns]",
+   "pos": "명",
+   "mean": "도전, 반항, 무시",
+   "ex": "The underground test was done in <b>defiance</b> of international warnings.",
+   "exKo": "지하 실험이 국제사회의 경고를 무시하고 이루어졌다.",
+   "derived": [],
+   "syn": [
+    [
+     "resistance",
+     "저항, 반대"
+    ],
+    [
+     "deviation",
+     "일탈, 탈선"
+    ]
+   ]
+  },
+  {
+   "no": "1331",
+   "word": "contemporary",
+   "ph": "[kəntémpərèri]",
+   "pos": "형",
+   "mean": "동시대의, 현대의",
+   "ex": "She is often called a master of the <b>contemporary</b> short story.",
+   "exKo": "그녀는 종종 동시대 단편소설의 거장이라고 불린다.",
+   "derived": [
+    [
+     "temporary",
+     "일시적인, 일시의"
+    ]
+   ],
+   "syn": [
+    [
+     "current",
+     "현재의"
+    ],
+    [
+     "up-to-date",
+     "최신의"
+    ]
+   ]
+  },
+  {
+   "no": "1332",
+   "word": "modification",
+   "ph": "[mɑ̀dəfikéiʃən]",
+   "pos": "명",
+   "mean": "수정, 변경",
+   "ex": "Considerable <b>modification</b> of the existing system is needed.",
+   "exKo": "기존 시스템에 대해 상당한 정도의 수정이 필요하다.",
+   "derived": [],
+   "syn": [
+    [
+     "adjustment",
+     "조정, 수정"
+    ],
+    [
+     "adaptation",
+     "수정, 적응"
+    ],
+    [
+     "revision",
+     "수정, 개정"
+    ]
+   ]
+  },
+  {
+   "no": "1333",
+   "word": "defendant",
+   "ph": "[diféndənt]",
+   "pos": "명",
+   "mean": "피고",
+   "ex": "<b>Defendants</b> will be able to decide whether or not they want to have jurors sit in on their trial.",
+   "exKo": "피고인은 자신의 재판에 대해 배심원 참여 여부를 결정할 수 있게 된다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1334",
+   "word": "vendor",
+   "ph": "[véndər]",
+   "pos": "명",
+   "mean": "노점, 판매자",
+   "ex": "I do not think that you have been fair to street <b>vendors</b>.",
+   "exKo": "난 당신이 노점상인들에게 공정했다고 생각하지 않는다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1335",
+   "word": "whistle",
+   "ph": "[hwísl]",
+   "pos": "명·동",
+   "mean": "(명) 휘파람, 호각 / (동) 휘파람을 불다",
+   "ex": "<b>Whistles</b> are often used as an agreement signal to hunt together for food.",
+   "exKo": "휘파람은 종종 먹이 사냥을 함께 하는 동의의 표시로 사용됩니다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1336",
+   "word": "workforce",
+   "ph": "[wə́ːrkfɔ̀ːrs]",
+   "pos": "명",
+   "mean": "노동력, 노동인구",
+   "ex": "The world's second-largest continent has a cheap <b>workforce</b> and an abundance of natural resources.",
+   "exKo": "세계에서 두 번째로 큰 대륙은 값싼 노동력과 풍부한 천연자원을 가지고 있다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1337",
+   "word": "session",
+   "ph": "[séʃən]",
+   "pos": "명",
+   "mean": "회기, 기간, 학년",
+   "ex": "The parliamentary <b>session</b> is due the week after.",
+   "exKo": "의회 회기는 그 다음 주로 예정되어 있다.",
+   "derived": [],
+   "syn": [
+    [
+     "period",
+     "기간, 시기"
+    ]
+   ]
+  },
+  {
+   "no": "1338",
+   "word": "evidence",
+   "ph": "[évidəns]",
+   "pos": "명·동",
+   "mean": "(명) 증거 / (동) 증언하다, 증거가 되다",
+   "ex": "There is actually not much historical <b>evidence</b> about Goryeo fashion.",
+   "exKo": "사실 고려의 의상에 대해서는 많은 역사적인 증거가 없다.",
+   "derived": [],
+   "syn": [
+    [
+     "proof",
+     "증거, 입증, 방지"
+    ],
+    [
+     "testimony",
+     "증언, 증거, 입증"
+    ]
+   ]
+  },
+  {
+   "no": "1339",
+   "word": "distance",
+   "ph": "[dístəns]",
+   "pos": "명·동",
+   "mean": "(명) 거리, 간격 / (동) 관여하지 않다(거리를 두다)",
+   "ex": "The <b>distance</b> between Korea and Thailand is about 3,840 km.",
+   "exKo": "한국과 태국 사이의 거리는 약 3,840킬로미터입니다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1340",
+   "word": "respondent",
+   "ph": "[rispándənt]",
+   "pos": "명",
+   "mean": "응답자",
+   "ex": "Only 10 percent of <b>respondents</b> said they were satisfied with their current job.",
+   "exKo": "응답자의 10%만이 자신의 현재 직업에 만족한다고 말했다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1341",
+   "word": "safe",
+   "ph": "[seif]",
+   "pos": "명·형",
+   "mean": "(명) 금고 / (형) 안전한",
+   "ex": "I heard that he was keeping the ledger and documents in a secret <b>safe</b> in his office.",
+   "exKo": "그가 자기 사무실의 비밀 금고에 그 장부와 서류들을 보관하고 있다고 들었다.",
+   "derived": [],
+   "syn": [
+    [
+     "vault",
+     "금고실"
+    ]
+   ]
+  },
+  {
+   "no": "1342",
+   "word": "gill",
+   "ph": "[gil]",
+   "pos": "명",
+   "mean": "아가미",
+   "ex": "Scientists argue that since the bodies of fish grow faster than their <b>gills</b>, these animals eventually will reach a point where they can't get enough oxygen to sustain normal growth.",
+   "exKo": "과학자들은 물고기의 몸이 아가미보다 더 빨리 자라기 때문에, 이 동물들은 결국 정상적인 성장을 지속하기에 충분한 산소를 얻을 수 없는 지경에 이르게 될 것이라고 주장한다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1343",
+   "word": "workout",
+   "ph": "[wə́ːrkàut]",
+   "pos": "명·동",
+   "mean": "(명) 운동, 워크아웃(기업재무개선작업) / (동) 운동하다",
+   "ex": "The jump rope also can wirelessly send <b>workout</b> data to personal devices via Bluetooth.",
+   "exKo": "그 줄넘기는 또한 블루투스를 통해 무선으로 개인 기기에 운동 데이터를 보낼 수 있습니다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1344",
+   "word": "haste",
+   "ph": "[heist]",
+   "pos": "명",
+   "mean": "서두름, 급함",
+   "ex": "Even those who support it point out at least two problems: <b>haste</b> and opacity.",
+   "exKo": "그것을 지지하는 자들도 적어도 성급함과 불투명성, 두 가지 문제점을 제기한다.",
+   "derived": [
+    [
+     "in haste",
+     "서둘러서, 급히"
+    ],
+    [
+     "hasty",
+     "서두른, 성급한 (hasty conclusion 성급한 결론)"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1345",
+   "word": "twilight",
+   "ph": "[twáilàit]",
+   "pos": "명",
+   "mean": "황혼, 쇠퇴기, 황혼기",
+   "ex": "As <b>twilight</b> fell over the hill, the crescent moon appeared like a ghost.",
+   "exKo": "산 위로 황혼이 내리자 초승달이 유령처럼 나타났다.",
+   "derived": [],
+   "syn": [
+    [
+     "dusk",
+     "황혼, 해질녘"
+    ]
+   ]
+  },
+  {
+   "no": "1346",
+   "word": "tyranny",
+   "ph": "[tírəni]",
+   "pos": "명",
+   "mean": "폭정, 횡포, 폭압",
+   "ex": "To prevent the <b>tyranny</b> of majority, all rules have to respect the constitution.",
+   "exKo": "다수의 횡포를 방지하기 위해서 모든 규칙은 헌법을 준수해야 한다.",
+   "derived": [],
+   "syn": [
+    [
+     "dictatorship",
+     "독재정치, 독재"
+    ],
+    [
+     "autocracy",
+     "독재정치, 독재"
+    ]
+   ]
+  },
+  {
+   "no": "1347",
+   "word": "humiliate",
+   "ph": "[hjuːmílièit]",
+   "pos": "동",
+   "mean": "창피 주다",
+   "ex": "I risked everything for you, and in return you <b>humiliate</b> me.",
+   "exKo": "난 당신을 위해 모든 위험을 감수했어. 그런데 당신은 나에게 굴욕감을 줬어.",
+   "derived": [],
+   "syn": [
+    [
+     "insult",
+     "모욕하다, 욕보이다, 무례함"
+    ]
+   ]
+  },
+  {
+   "no": "1348",
+   "word": "gravity",
+   "ph": "[grǽvəti]",
+   "pos": "명",
+   "mean": "중력, 엄숙함",
+   "ex": "The <b>gravity</b> of the Moon is just 17 percent than that of the Earth.",
+   "exKo": "달의 중력은 지구 중력의 17 퍼센트 밖에 되지 않습니다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1349",
+   "word": "punctual",
+   "ph": "[pʌ́ŋktʃuəl]",
+   "pos": "형",
+   "mean": "시간을 잘 지키는",
+   "ex": "She is always <b>punctual</b> for appointments, except when she is absorbed in reading.",
+   "exKo": "그녀는 독서에 빠져 있을 때를 제외하고는 항상 약속 시간을 엄수한다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1350",
+   "word": "mediation",
+   "ph": "[mìːdiéiʃən]",
+   "pos": "명",
+   "mean": "중재, 조정",
+   "ex": "They asked for the <b>mediation</b> of a third party.",
+   "exKo": "그들은 제삼자에게 조정을 요청했다.",
+   "derived": [
+    [
+     "⚠ medication",
+     "(혼동 주의) 약물, 약물치료"
+    ],
+    [
+     "⚠ meditation",
+     "(혼동 주의) 명상"
+    ]
+   ],
+   "syn": [
+    [
+     "intercession",
+     "중재, 중개, 탄원"
+    ]
+   ]
+  }
+ ]
+}
