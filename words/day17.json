@@ -1,0 +1,949 @@
+{
+ "day": "DAY 17",
+ "words": [
+  {
+   "no": "0801",
+   "word": "constrain",
+   "ph": "[kənstréin]",
+   "pos": "동",
+   "mean": "구속하다, 속박하다, ~하게 만들다",
+   "ex": "These treaties are key tools for those who want to <b>constrain</b> American influence in the world.",
+   "exKo": "이러한 협약들은 미국의 세계적인 영향력을 억제하길 원하는 사람들에게는 핵심적인 도구들이다.",
+   "derived": [],
+   "syn": [
+    [
+     "restrain",
+     "제한하다, 자제하다"
+    ],
+    [
+     "contain",
+     "억제시키다, 포함하다"
+    ]
+   ]
+  },
+  {
+   "no": "0802",
+   "word": "spit",
+   "ph": "[spit]",
+   "pos": "동·명",
+   "mean": "(동) 뱉다, 침을 뱉다 / (명) 침",
+   "ex": "<b>Spit</b> your gum out before you come into the classroom.",
+   "exKo": "수업에 들어가기 전에 껌을 뱉어라.",
+   "derived": [
+    [
+     "⚠ split",
+     "(혼동 주의) 나누다, 분할"
+    ]
+   ],
+   "syn": [
+    [
+     "saliva",
+     "침, 타액"
+    ]
+   ]
+  },
+  {
+   "no": "0803",
+   "word": "subtract",
+   "ph": "[səbtrǽkt]",
+   "pos": "동",
+   "mean": "빼다, 감하다",
+   "ex": "If you <b>subtract</b> five from nine, you are left with four.",
+   "exKo": "9에서 5를 빼면 4가 남는다.",
+   "derived": [],
+   "syn": [
+    [
+     "deduct",
+     "빼다"
+    ],
+    [
+     "take away",
+     "빼다, 제거하다"
+    ]
+   ]
+  },
+  {
+   "no": "0804",
+   "word": "exhibit",
+   "ph": "[igzíbit]",
+   "pos": "동·명",
+   "mean": "(동) 전시하다 / (명) 전시품",
+   "ex": "The Whale Museum has 283 <b>exhibits</b> including two whaling ships.",
+   "exKo": "고래 박물관에는 2척의 포경선을 포함해 283점의 전시품이 있습니다.",
+   "derived": [
+    [
+     "exhibition",
+     "전시, 전시회, 발휘, 표현"
+    ]
+   ],
+   "syn": [
+    [
+     "display",
+     "(작품을) 전시하다, 디스플레이, 표현하다"
+    ]
+   ]
+  },
+  {
+   "no": "0805",
+   "word": "commute",
+   "ph": "[kəmjúːt]",
+   "pos": "동·명",
+   "mean": "(동) 통근하다 / (명) 통근",
+   "ex": "With this information, drivers can know which areas to avoid during their <b>commutes</b>.",
+   "exKo": "이 정보들을 통해 운전자들은 통근 중에 어느 지역을 피해야 하는지 알 수 있다.",
+   "derived": [
+    [
+     "commuter",
+     "통근자"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "0806",
+   "word": "struggle",
+   "ph": "[strʌ́gl]",
+   "pos": "동·명",
+   "mean": "(동) 투쟁하다 / (명) 투쟁",
+   "ex": "Many people <b>struggle</b> to get a better social status.",
+   "exKo": "많은 사람들이 더 나은 사회적 지위를 얻기 위해 분투한다.",
+   "derived": [],
+   "syn": [
+    [
+     "strive",
+     "노력하다, 힘쓰다"
+    ]
+   ]
+  },
+  {
+   "no": "0807",
+   "word": "diffuse",
+   "ph": "[difjúːs]",
+   "pos": "동·형",
+   "mean": "(동) 분산시키다, 확산시키다, 퍼뜨리다 / (형) 널리 퍼진, 산만한",
+   "ex": "The heat from the electric heater was <b>diffused</b> throughout the room.",
+   "exKo": "전기 히터기의 열이 방 전체에 퍼졌다.",
+   "derived": [],
+   "syn": [
+    [
+     "spread",
+     "펴다, 펴지다, 퍼뜨리다"
+    ],
+    [
+     "disseminate",
+     "퍼뜨리다"
+    ],
+    [
+     "disperse",
+     "확산시키다"
+    ]
+   ]
+  },
+  {
+   "no": "0808",
+   "word": "compile",
+   "ph": "[kəmpáil]",
+   "pos": "동",
+   "mean": "엮다, 편집하다",
+   "ex": "He set out to <b>compile</b> a book chronicling Korean history.",
+   "exKo": "그는 한국의 역사를 연대순으로 기록한 책을 편찬하기 시작했습니다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0809",
+   "word": "disperse",
+   "ph": "[dispə́ːrs]",
+   "pos": "동",
+   "mean": "흩어지다, 해산하다, 확산시키다",
+   "ex": "As soon as the police arrived, the workers in the picket line <b>dispersed</b> in fear of arrest.",
+   "exKo": "경찰이 도착하자마자, 피켓라인 안의 노동자들은 체포되는 것이 두려워 뿔뿔이 흩어졌다.",
+   "derived": [
+    [
+     "⚠ dispense",
+     "(혼동 주의) 제공하다, ~없이 지내다(with)"
+    ]
+   ],
+   "syn": [
+    [
+     "scatter",
+     "분산시키다, 흩어지다"
+    ],
+    [
+     "spread",
+     "퍼뜨리다, 널리 퍼진"
+    ],
+    [
+     "diffuse",
+     "분산시키다, 확산시키다, 퍼뜨리다"
+    ]
+   ]
+  },
+  {
+   "no": "0810",
+   "word": "descend",
+   "ph": "[disénd]",
+   "pos": "동",
+   "mean": "내려오다, 경사지다, 내려앉다",
+   "ex": "They <b>descend</b> toward the ground at the speed of around 100m per second.",
+   "exKo": "그들은 초속 약 100m의 빠르기로 땅을 향해 내려옵니다.",
+   "derived": [
+    [
+     "ascend",
+     "오르다"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "0811",
+   "word": "devour",
+   "ph": "[diváuər]",
+   "pos": "동",
+   "mean": "(게걸스럽게) 먹다, 먹어 치우다",
+   "ex": "The boy <b>devoured</b> the food as if he had not eaten anything for several days.",
+   "exKo": "소년은 며칠 동안 아무것도 먹지 못한 것처럼 그 음식을 게걸스럽게 먹었다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0812",
+   "word": "renovate",
+   "ph": "[rénəvèit]",
+   "pos": "동",
+   "mean": "개조하다",
+   "ex": "I'd like to <b>renovate</b> my old house.",
+   "exKo": "내 낡은 집을 개조하고 싶다.",
+   "derived": [
+    [
+     "renovation",
+     "혁신, 수리, 쇄신"
+    ]
+   ],
+   "syn": [
+    [
+     "renew",
+     "새롭게 하다"
+    ],
+    [
+     "innovate",
+     "혁신하다"
+    ]
+   ]
+  },
+  {
+   "no": "0813",
+   "word": "straighten",
+   "ph": "[stréitən]",
+   "pos": "동",
+   "mean": "똑바르게 되다, 바로 하다",
+   "ex": "<b>Straighten</b> up slowly, then repeat the exercise ten times.",
+   "exKo": "천천히 바로 했다가 이 운동[동작]을 열 번 반복하세요.",
+   "derived": [],
+   "syn": [
+    [
+     "tidy (up)",
+     "정리하다, 바로 하다, 깨끗이 치우다, 정돈하다"
+    ]
+   ]
+  },
+  {
+   "no": "0814",
+   "word": "dedicate",
+   "ph": "[dédəkèit]",
+   "pos": "동",
+   "mean": "바치다, 헌신하다 (dedicate A to B)",
+   "ex": "Countless athletes <b>dedicate</b> themselves to one day becoming a successful boxer.",
+   "exKo": "수 많은 운동 선수들은 언제인가 성공적인 권투 선수가 되기 위해 그들 자신을 헌신한다.",
+   "derived": [
+    [
+     "dedicated",
+     "헌신적인, 전념하는"
+    ],
+    [
+     "dedication",
+     "헌신, 노력, 전념"
+    ]
+   ],
+   "syn": [
+    [
+     "devote",
+     "헌신하다, 바치다"
+    ],
+    [
+     "commit",
+     "몰두시키다, 저지르다, 약속하다"
+    ]
+   ]
+  },
+  {
+   "no": "0815",
+   "word": "discard",
+   "ph": "[diskáːrd]",
+   "pos": "동",
+   "mean": "버리다, 폐기하다",
+   "ex": "Then we can take the Nanopatch off and <b>discard</b> it.",
+   "exKo": "그리고 나면 나노패치를 떼어내서 버리면 됩니다.",
+   "derived": [],
+   "syn": [
+    [
+     "abandon",
+     "버리다, 포기하다, 유기하다"
+    ],
+    [
+     "throw away",
+     "버리다, 던지다, 낭비"
+    ]
+   ]
+  },
+  {
+   "no": "0816",
+   "word": "compose",
+   "ph": "[kəmpóuz]",
+   "pos": "동",
+   "mean": "구성하다, 작곡하다, 작문하다, 정돈하다, 진정시키다",
+   "ex": "It produces long wavelengths, which enables astronomers to <b>compose</b> this first-ever picture.",
+   "exKo": "그것은 긴 파장을 만들고 이로 인해 천문학자들이 이 사상 최초의 사진을 구성할 수 있다.",
+   "derived": [],
+   "syn": [
+    [
+     "make up",
+     "구성하다, 화장하다"
+    ],
+    [
+     "comprise",
+     "~을 구성하다, 차지하다"
+    ]
+   ]
+  },
+  {
+   "no": "0817",
+   "word": "deserve",
+   "ph": "[dizə́ːrv]",
+   "pos": "동",
+   "mean": "~할 자격이 있다, ~해도 싸다",
+   "ex": "The question has been whether such people truly <b>deserve</b> welfare.",
+   "exKo": "그러한 사람들이 정말로 복지혜택을 받을 만한지 의문이었다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0818",
+   "word": "anticipate",
+   "ph": "[æntísəpèit]",
+   "pos": "동",
+   "mean": "기대하다, 예상하다",
+   "ex": "The country <b>anticipates</b> a jump to 800,000 tons of waste imports a year.",
+   "exKo": "그 나라는 연간 80만 톤의 쓰레기를 배출할 것으로 예상하고 있다.",
+   "derived": [],
+   "syn": [
+    [
+     "predict",
+     "예측하다"
+    ],
+    [
+     "forecast",
+     "예상, 예보, 예상하다"
+    ],
+    [
+     "expect",
+     "예상하다"
+    ]
+   ]
+  },
+  {
+   "no": "0819",
+   "word": "terminate",
+   "ph": "[tə́ːrmənèit]",
+   "pos": "동",
+   "mean": "끝내다, 해지하다, 해고하다, 해치우다",
+   "ex": "Many are now arguing that it is time to <b>terminate</b> the dual price system that discriminates Korean consumers.",
+   "exKo": "많은 이들은 한국 소비자들을 차별하는 이 이중 가격 정책을 끝낼 때가 왔다고 주장하고 있다.",
+   "derived": [
+    [
+     "terminal",
+     "말기의, 끝의, 터미널 (종점)"
+    ]
+   ],
+   "syn": [
+    [
+     "wind up",
+     "~을 끝내다, 처지가 되다"
+    ],
+    [
+     "finish",
+     "마치다"
+    ]
+   ]
+  },
+  {
+   "no": "0820",
+   "word": "inspire",
+   "ph": "[inspáiər]",
+   "pos": "동",
+   "mean": "영감을 주다, 고무하다, 격려하다",
+   "ex": "Lang feels that shark scales can <b>inspire</b> designs for machines that experience drag, such as airplanes.",
+   "exKo": "Lang은 상어의 비늘이 비행기와 같이 항력을 경험하는 기계를 위한 디자인에 영감을 줄 수 있다고 느낀다.",
+   "derived": [],
+   "syn": [
+    [
+     "inspirit",
+     "활기를 북돋우다, 격려하여 시키다, 고무하다"
+    ]
+   ]
+  },
+  {
+   "no": "0821",
+   "word": "dread",
+   "ph": "[dred]",
+   "pos": "동·명",
+   "mean": "(동) 두려워하다 / (명) 큰 공포, 불안",
+   "ex": "I <b>dreaded</b> lest she should talk till it was all burnt out.",
+   "exKo": "나는 그녀가 그것이 모두 다 탈 때까지 말을 할까 봐 두려웠다.",
+   "derived": [],
+   "syn": [
+    [
+     "be scared of",
+     "~을 두려워하다"
+    ],
+    [
+     "get cold feet",
+     "겁먹다"
+    ],
+    [
+     "fear",
+     "두려워하다"
+    ]
+   ]
+  },
+  {
+   "no": "0822",
+   "word": "spill",
+   "ph": "[spil]",
+   "pos": "동·명",
+   "mean": "(동) 엎지르다, 흘리다 / (명) 유출(물)",
+   "ex": "You've <b>spilt</b> coffee over a colleague's papers.",
+   "exKo": "당신은 친구의 논문에 커피를 쏟았다.",
+   "derived": [
+    [
+     "⚠ spell",
+     "(혼동 주의) 철자하다, 기간, 마법"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "0823",
+   "word": "attain",
+   "ph": "[ətéin]",
+   "pos": "동",
+   "mean": "이루다, 달성하다, 획득하다",
+   "ex": "They will <b>attain</b> partnership more quickly in the middle parts of their career.",
+   "exKo": "그들은 경력 중간에 더 빨리 파트너십을 달성할 것이다.",
+   "derived": [],
+   "syn": [
+    [
+     "achieve",
+     "달성하다, 성취하다"
+    ],
+    [
+     "accomplish",
+     "성취하다"
+    ],
+    [
+     "obtain",
+     "획득하다, 얻다"
+    ]
+   ]
+  },
+  {
+   "no": "0824",
+   "word": "constitute",
+   "ph": "[kánstitjùːt]",
+   "pos": "동",
+   "mean": "구성하다, 차지하다, 간주하다, 나타내다",
+   "ex": "Globally, pedestrians <b>constitute</b> 22% of all road traffic fatalities.",
+   "exKo": "전 세계적으로 보행자는 모든 교통 사망자의 22%를 차지한다.",
+   "derived": [
+    [
+     "constitution",
+     "구성, 헌법, 체질"
+    ]
+   ],
+   "syn": [
+    [
+     "consist",
+     "이루어지다, 구성되다"
+    ],
+    [
+     "make up",
+     "구성하다, 화장하다"
+    ]
+   ]
+  },
+  {
+   "no": "0825",
+   "word": "distract",
+   "ph": "[distrǽkt]",
+   "pos": "동",
+   "mean": "(주의를) 분산시키다, 산만하게 하다",
+   "ex": "It was another attempt to <b>distract</b> attention from the truth.",
+   "exKo": "그것은 진실로부터 주의를 딴 데로 돌리려는 또 하나의 시도였다.",
+   "derived": [
+    [
+     "distraction",
+     "방해, 방해물, 주의 분산, 기분 전환"
+    ]
+   ],
+   "syn": [
+    [
+     "divert",
+     "우회시키다, 집중이 안되게 하다"
+    ],
+    [
+     "confuse",
+     "혼란시키다"
+    ]
+   ]
+  },
+  {
+   "no": "0826",
+   "word": "hover",
+   "ph": "[hʌ́vər]",
+   "pos": "동",
+   "mean": "맴돌다, 유지하다, 떠 있다",
+   "ex": "Why might people <b>hovering</b> near the poverty line be more likely to help their fellow humans?",
+   "exKo": "왜 빈곤선 근처에서 맴도는 사람들이 그들 주변인들을 더 도와주려고 하는 경향이 있을까?",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0827",
+   "word": "manufacture",
+   "ph": "[mæ̀njəfǽktʃər]",
+   "pos": "동·명",
+   "mean": "(동) 제조하다, 지어내다 / (명) 제조",
+   "ex": "The factory was turned over to the <b>manufacture</b> of aircraft parts.",
+   "exKo": "그 공장은 항공기 부품 제조로 전환되었다.",
+   "derived": [],
+   "syn": [
+    [
+     "produce",
+     "생산하다"
+    ]
+   ]
+  },
+  {
+   "no": "0828",
+   "word": "dig",
+   "ph": "[dig]",
+   "pos": "동",
+   "mean": "파다, 파헤치다, 발굴하다",
+   "ex": "Canals were <b>dug</b> to bring water from the river and to drain the marshland.",
+   "exKo": "강에서 물을 끌어오고 습지대를 배수하기 위해 수로가 파졌다.",
+   "derived": [],
+   "syn": [
+    [
+     "unearth",
+     "발굴하다"
+    ],
+    [
+     "excavate",
+     "발굴하다"
+    ],
+    [
+     "exhume",
+     "발굴하다"
+    ]
+   ]
+  },
+  {
+   "no": "0829",
+   "word": "imbalance",
+   "ph": "[imbǽləns]",
+   "pos": "명",
+   "mean": "불균형",
+   "ex": "There are some important factors causing a trade <b>imbalance</b> between the two countries.",
+   "exKo": "그 두 나라 사이에 무역 불균형을 초래하는 몇 가지 중요한 요인들이 있다.",
+   "derived": [],
+   "syn": [
+    [
+     "inequality",
+     "불평등, 불균형"
+    ]
+   ]
+  },
+  {
+   "no": "0830",
+   "word": "prolong",
+   "ph": "[prəlɔ́(ː)ŋ]",
+   "pos": "동",
+   "mean": "연장하다, 장기화하다",
+   "ex": "The scientists hope their discovery will <b>prolong</b> the harvests of crops in regions that are susceptible to flooding.",
+   "exKo": "과학자들은 그들의 발견이 홍수에 취약한 지역의 곡식의 추수를 연장하길 희망한다.",
+   "derived": [],
+   "syn": [
+    [
+     "protract",
+     "~을 연장하다, 오래 끌게 하다"
+    ],
+    [
+     "lengthen",
+     "연장하다, 길어지다"
+    ]
+   ]
+  },
+  {
+   "no": "0831",
+   "word": "aptitude",
+   "ph": "[ǽptitjùːd]",
+   "pos": "명",
+   "mean": "소질, 적성",
+   "ex": "She showed a natural <b>aptitude</b> for the work.",
+   "exKo": "그녀는 그 일에 천부적인 소질을 보였다.",
+   "derived": [
+    [
+     "attitude",
+     "태도"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "0832",
+   "word": "pest",
+   "ph": "[pest]",
+   "pos": "명",
+   "mean": "해충, 유해물",
+   "ex": "The densely structured wood is resistant to invasion by insects and other potential <b>pests</b>.",
+   "exKo": "조밀한 구조의 나무는 곤충과 다른 잠재적 해충의 침입에 저항력이 있다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0833",
+   "word": "spokesman",
+   "ph": "[spóuksmən]",
+   "pos": "명",
+   "mean": "대변인, 홍보 담당자",
+   "ex": "A White House <b>spokesman</b> said that the incident was the result of an unfortunate misunderstanding.",
+   "exKo": "백악관 대변인은 그 사고는 불행한 오해의 결과라고 말했다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0834",
+   "word": "biotechnology",
+   "ph": "[bàiouteknálədʒi]",
+   "pos": "명",
+   "mean": "생명 공학",
+   "ex": "Korea takes the lead in <b>biotechnology</b>.",
+   "exKo": "한국은 생명 공학 분야에서 다른 나라보다 앞서고 있다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0835",
+   "word": "souvenir",
+   "ph": "[sùːvəníər]",
+   "pos": "명",
+   "mean": "기념품, 선물, 추억",
+   "ex": "She bought a model of the Eiffel Tower as a <b>souvenir</b> of her trip to Paris.",
+   "exKo": "그녀는 파리에 여행간 기념으로 에펠탑 모형을 기념품으로 샀다.",
+   "derived": [],
+   "syn": [
+    [
+     "memento",
+     "기념물, 유품, 추억거리"
+    ]
+   ]
+  },
+  {
+   "no": "0836",
+   "word": "stagnation",
+   "ph": "[stægnéiʃən]",
+   "pos": "명",
+   "mean": "침체, 부진, 불황",
+   "ex": "Steel consumption is on the rise after several years of <b>stagnation</b>.",
+   "exKo": "철강 소비가 수년간의 정체 후에 증가 추세를 보이고 있다.",
+   "derived": [
+    [
+     "recession",
+     "경기침체"
+    ],
+    [
+     "depression",
+     "대공황(우울증)"
+    ],
+    [
+     "economic downturn",
+     "경기하강"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "0837",
+   "word": "staple",
+   "ph": "[stéipl]",
+   "pos": "형·명",
+   "mean": "(형) 주요한 / (명) 기본 식품",
+   "ex": "Rice is grown in many countries and is a <b>staple</b> food throughout much of the world.",
+   "exKo": "쌀은 많은 나라에서 재배되며, 세계의 전역의 많은 곳에서 주식이다.",
+   "derived": [
+    [
+     "⚠ stable",
+     "(혼동 주의) 안정적인, 마구간"
+    ]
+   ],
+   "syn": [
+    [
+     "main",
+     "주요한, 주된"
+    ]
+   ]
+  },
+  {
+   "no": "0838",
+   "word": "particle",
+   "ph": "[páːrtikl]",
+   "pos": "명",
+   "mean": "입자, 미립자, 먼지",
+   "ex": "That wind carries enormous dust <b>particles</b> into the Korean atmosphere.",
+   "exKo": "그 바람은 한국의 대기로 거대한 먼지 입자를 운반한다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0839",
+   "word": "peel",
+   "ph": "[piːl]",
+   "pos": "명·동",
+   "mean": "(명) 껍질 / (동) 껍질을 벗기다, 껍질이 벗겨지다",
+   "ex": "The bark on the trees <b>peels</b> off at different times.",
+   "exKo": "그 나무들의 껍질은 다른 시기에 벗겨집니다.",
+   "derived": [
+    [
+     "⚠ pill",
+     "(혼동 주의) 알약"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "0840",
+   "word": "mean",
+   "ph": "[miːn]",
+   "pos": "동명형",
+   "mean": "(동) 의미하다, 의도하다 / (명) 수단 / (형) 비열한",
+   "ex": "Stop talking in riddles — say what you <b>mean</b>.",
+   "exKo": "수수께끼 같은 얘기 그만하고 무슨 뜻인지 말해 봐.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0841",
+   "word": "philosophy",
+   "ph": "[filásəfi]",
+   "pos": "명",
+   "mean": "철학, 원리",
+   "ex": "Their <b>philosophy</b> is to live selflessly with respect for the environment.",
+   "exKo": "그들의 철학은 환경을 존중하면서 이타적으로 사는 것이다.",
+   "derived": [],
+   "syn": [
+    [
+     "thought",
+     "생각, 사상"
+    ],
+    [
+     "ideology",
+     "이념, 이데올로기"
+    ]
+   ]
+  },
+  {
+   "no": "0842",
+   "word": "meteorite",
+   "ph": "[míːtiəràit]",
+   "pos": "명",
+   "mean": "운석",
+   "ex": "<b>Meteorite</b> is named for the place where it was found, usually a nearby town or geographic feature.",
+   "exKo": "운석은 그것이 발견된 곳을 따서 이름이 지어지는데, 보통 가까운 도시나 지리적 특징으로 이름을 짓는다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0843",
+   "word": "device",
+   "ph": "[diváis]",
+   "pos": "명",
+   "mean": "장치, 방법",
+   "ex": "But, what if children are spending too much time on these <b>devices</b>?",
+   "exKo": "하지만, 아이들이 이러한 장비에 너무 많은 시간을 소비한다면 어떨까?",
+   "derived": [
+    [
+     "devise",
+     "고안하다, 마련하다"
+    ]
+   ],
+   "syn": [
+    [
+     "gadget",
+     "기기, 장치"
+    ],
+    [
+     "appliance",
+     "(가정용) 기기"
+    ]
+   ]
+  },
+  {
+   "no": "0844",
+   "word": "peak",
+   "ph": "[piːk]",
+   "pos": "명·동",
+   "mean": "(명) 절정, 산꼭대기 / (동) 최고조에 달하다",
+   "ex": "As industrialization <b>peaks</b>, the birth rate falls and begins to approximate the death rate.",
+   "exKo": "산업화가 절정에 이름에 따라 출산율이 떨어져 사망률과 비슷해지기 시작한다.",
+   "derived": [],
+   "syn": [
+    [
+     "pinnacle",
+     "정점"
+    ],
+    [
+     "summit",
+     "정상, 정상회담"
+    ],
+    [
+     "apex",
+     "정점"
+    ]
+   ]
+  },
+  {
+   "no": "0845",
+   "word": "perjury",
+   "ph": "[pə́ːrdʒəri]",
+   "pos": "명",
+   "mean": "위증, 거짓말",
+   "ex": "This witness has committed <b>perjury</b> and no reliance can be placed on her evidence.",
+   "exKo": "이 증인은 위증을 해 왔기에 그녀의 증언을 전혀 신뢰할 수 없다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0846",
+   "word": "impediment",
+   "ph": "[impédəmənt]",
+   "pos": "명",
+   "mean": "장애, 방해",
+   "ex": "A high divorce rate among their parents can also be an <b>impediment</b> to their formal education.",
+   "exKo": "아이들 부모의 높은 이혼율 또한 그들의 정규 교육에 장애물이 될 수 있다.",
+   "derived": [],
+   "syn": [
+    [
+     "obstacle",
+     "장애, 방해, 장애물"
+    ],
+    [
+     "interference",
+     "간섭, 방해, 혼선"
+    ],
+    [
+     "interruption",
+     "방해, 중단, 장애"
+    ]
+   ]
+  },
+  {
+   "no": "0847",
+   "word": "zeal",
+   "ph": "[ziːl]",
+   "pos": "명",
+   "mean": "열정, 열기",
+   "ex": "The irony is that Koreans are easily distinguished for their strong <b>zeal</b> towards education.",
+   "exKo": "아이러니한 점은 한국인들은 교육을 향한 강한 열의로 인해 쉽게 구별된다(차이를 보인다)는 것이다.",
+   "derived": [
+    [
+     "zealous",
+     "열정있는, 열성적인"
+    ],
+    [
+     "jealous",
+     "질투하는"
+    ]
+   ],
+   "syn": [
+    [
+     "passion",
+     "열정, 흥미, 감정"
+    ],
+    [
+     "enthusiasm",
+     "열광, 열망"
+    ]
+   ]
+  },
+  {
+   "no": "0848",
+   "word": "infinity",
+   "ph": "[infínəti]",
+   "pos": "명",
+   "mean": "무한대, 인피니티",
+   "ex": "If time and space are infinite, we mortals will never understand the <b>infinity</b> of time and space.",
+   "exKo": "시간과 공간이 무한하다면 우리 인간은 시공간의 무한성을 결코 이해하지 못할 것이다.",
+   "derived": [
+    [
+     "infinite",
+     "무한한"
+    ],
+    [
+     "finite",
+     "유한한, 한정된"
+    ],
+    [
+     "definite",
+     "분명한, 정해진"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "0849",
+   "word": "nonexistent",
+   "ph": "[nànigzístənt]",
+   "pos": "형",
+   "mean": "존재하지 않는",
+   "ex": "Attempts to protect endangered species are virtually <b>nonexistent</b> in this country.",
+   "exKo": "멸종 위기에 처한 종을 보호하려는 시도는 사실상 이 나라에는 존재하지 않는다.",
+   "derived": [],
+   "syn": [
+    [
+     "unreal",
+     "실재하지 않는, 가공의"
+    ]
+   ]
+  },
+  {
+   "no": "0850",
+   "word": "grudge",
+   "ph": "[grʌdʒ]",
+   "pos": "명·동",
+   "mean": "(명) 원한 / (동) 원한을 품다",
+   "ex": "The fire must be the work of someone with a <b>grudge</b> against our company.",
+   "exKo": "그 화재는 우리 회사에 원한이 있는 사람의 소행임이 틀림없다.",
+   "derived": [],
+   "syn": [
+    [
+     "hostility",
+     "적의, 반감"
+    ],
+    [
+     "hatred",
+     "증오"
+    ]
+   ]
+  }
+ ]
+}
