@@ -1,0 +1,904 @@
+{
+ "day": "DAY 18",
+ "words": [
+  {
+   "no": "0851",
+   "word": "hail",
+   "ph": "[heil]",
+   "pos": "명·동",
+   "mean": "(명) 환호, 우박 / (동) 환영하다",
+   "ex": "His new film has been immediately <b>hailed</b> as a masterpiece by most critics.",
+   "exKo": "그의 새 영화는 대부분의 비평가들로부터 즉각 걸작으로 칭송 받았다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0852",
+   "word": "ramp",
+   "ph": "[ræmp]",
+   "pos": "명·동",
+   "mean": "(명) 경사로 / (동) 속여 빼앗다",
+   "ex": "<b>Ramps</b> are being constructed at exits and entrances for wheelchair users.",
+   "exKo": "휠체어 사용자들을 위해서 출구와 입구에 경사로들이 세워지고 있다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0853",
+   "word": "utility",
+   "ph": "[juːtíləti]",
+   "pos": "명·형",
+   "mean": "(명) 유용성, 효용, 공익사업 / (형) 실용적인",
+   "ex": "Even though GoPros are expensive, they have a high <b>utility</b> value.",
+   "exKo": "고프로 카메라가 비싸지만, 높은 이용가치가 있다.",
+   "derived": [
+    [
+     "utility bills",
+     "(가스·전기·수도) 요금"
+    ],
+    [
+     "utilize",
+     "이용하다, 활용하다"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "0854",
+   "word": "vein",
+   "ph": "[vein]",
+   "pos": "명",
+   "mean": "정맥, 나뭇결",
+   "ex": "A <b>vein</b> pulsed in his temple.",
+   "exKo": "그의 관자놀이에서 정맥이 꿈틀거렸다.",
+   "derived": [
+    [
+     "artery",
+     "동맥"
+    ],
+    [
+     "blood vessel",
+     "혈관"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "0855",
+   "word": "camouflage",
+   "ph": "[kǽməflàːʒ]",
+   "pos": "명·동",
+   "mean": "(명) 위장 / (동) 위장하다",
+   "ex": "The whiteness of the arctic fox acts as <b>camouflage</b>, hiding it from its enemies.",
+   "exKo": "북극여우가 흰색인 것은 여우를 적들로부터 숨김으로써 위장의 역할을 한다.",
+   "derived": [],
+   "syn": [
+    [
+     "disguise",
+     "위장, 변장"
+    ]
+   ]
+  },
+  {
+   "no": "0856",
+   "word": "literacy",
+   "ph": "[lítərəsi]",
+   "pos": "명",
+   "mean": "글을 읽고 쓸 줄 아는 능력(문해력)",
+   "ex": "<b>Literacy</b> is of great importance to survive in a new and unfamiliar environment.",
+   "exKo": "글을 읽고 쓸 줄 아는 능력은 새롭고 낯선 환경에서 살아남기 위해 매우 중요합니다.",
+   "derived": [
+    [
+     "literate",
+     "(글을) 읽고 쓸 줄 아는"
+    ],
+    [
+     "illiterate",
+     "문맹의"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "0857",
+   "word": "carbohydrate",
+   "ph": "[kàːrbouháidreit]",
+   "pos": "명",
+   "mean": "탄수화물",
+   "ex": "<b>Carbohydrate</b> in foods such as sugar, bread, potatoes provides your body with heat and energy.",
+   "exKo": "설탕, 빵, 감자와 같은 식품에 있는 탄수화물은 몸에 열과 에너지를 공급한다.",
+   "derived": [
+    [
+     "protein",
+     "단백질"
+    ],
+    [
+     "fat",
+     "지방, 뚱뚱한"
+    ],
+    [
+     "fiber",
+     "식이섬유"
+    ],
+    [
+     "glucose",
+     "포도당"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "0858",
+   "word": "monopoly",
+   "ph": "[mənápəli]",
+   "pos": "명",
+   "mean": "독점, 전매",
+   "ex": "Some of the old artisan class had a <b>monopoly</b> of certain trades.",
+   "exKo": "오랜 기능공 계층 중 일부는 특정 장사들을 독점하고 있었다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0859",
+   "word": "beneficial",
+   "ph": "[bènəfíʃəl]",
+   "pos": "형",
+   "mean": "유익한, 이로운",
+   "ex": "Cycling is <b>beneficial</b> to health and the environment in that it produces no exhaust fumes.",
+   "exKo": "자전거 타기는 매연을 내지 않는다는 점에서 건강과 환경에 유익하다.",
+   "derived": [],
+   "syn": [
+    [
+     "helpful",
+     "유용한, 편리한"
+    ],
+    [
+     "useful",
+     "유익한, 쓸모 있는"
+    ]
+   ]
+  },
+  {
+   "no": "0860",
+   "word": "trial",
+   "ph": "[tráiəl]",
+   "pos": "명·동",
+   "mean": "(명) 재판, 시험 / (동) 시험하다",
+   "ex": "He is currently standing <b>trial</b> for alleged malpractices.",
+   "exKo": "그는 현재 부정행위 혐의로 재판을 받고 있다.",
+   "derived": [],
+   "syn": [
+    [
+     "test",
+     "시험하다"
+    ]
+   ]
+  },
+  {
+   "no": "0861",
+   "word": "array",
+   "ph": "[əréi]",
+   "pos": "명",
+   "mean": "배열, 집합체, 다량",
+   "ex": "There is a vast <b>array</b> of bottles of different shapes and sizes.",
+   "exKo": "형태와 크기가 다른, 엄청나게 많은 병들의 모음이 있다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0862",
+   "word": "precision",
+   "ph": "[prisíʒən]",
+   "pos": "명",
+   "mean": "정확성, 정밀성",
+   "ex": "<b>Precision</b> bombing was used to destroy enemy airbases and factories.",
+   "exKo": "정밀 조준 폭격이 적군의 공군기지들과 공장들을 파괴하는 데 사용되었다.",
+   "derived": [],
+   "syn": [
+    [
+     "exactness",
+     "정확함, 정확성"
+    ],
+    [
+     "accuracy",
+     "정확, 정확도"
+    ]
+   ]
+  },
+  {
+   "no": "0863",
+   "word": "triumph",
+   "ph": "[tráiəmf]",
+   "pos": "명·동",
+   "mean": "(명) 승리 / (동) 승리를 거두다",
+   "ex": "Her <b>triumph</b> was a cause for celebration.",
+   "exKo": "그녀의 승리는 축하해야 할 일이었다.",
+   "derived": [],
+   "syn": [
+    [
+     "victory",
+     "승리"
+    ]
+   ]
+  },
+  {
+   "no": "0864",
+   "word": "optimist",
+   "ph": "[áptəmist]",
+   "pos": "명",
+   "mean": "낙관주의자, 낙관론자",
+   "ex": "According to The Journal of Personality and Social Psychology, pessimists have higher blood pressure than <b>optimists</b>.",
+   "exKo": "성격과 사회 심리학회지에 따르면, 비관론자들은 낙관론자들보다 더 높은 혈압을 가집니다.",
+   "derived": [
+    [
+     "pessimist",
+     "비관주의자"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "0865",
+   "word": "originality",
+   "ph": "[ərìdʒənǽləti]",
+   "pos": "명",
+   "mean": "독창성, 창조력, 진품",
+   "ex": "The winner will be determined based on creativity, <b>originality</b>, and technical excellence.",
+   "exKo": "승자는 창의성, 독창성, 그리고 기술적 우수성에 근거하여 결정될 것입니다.",
+   "derived": [],
+   "syn": [
+    [
+     "creativity",
+     "창의성"
+    ]
+   ]
+  },
+  {
+   "no": "0866",
+   "word": "outlook",
+   "ph": "[áutlùk]",
+   "pos": "명",
+   "mean": "전망, 가능성",
+   "ex": "The <b>outlook</b> for the company is more hopeful than expected, according to this annual report.",
+   "exKo": "이 연차 보고서에 의하면 그 회사의 전망은 예상보다 더 희망적이다.",
+   "derived": [],
+   "syn": [
+    [
+     "prospect",
+     "조망, 전망"
+    ]
+   ]
+  },
+  {
+   "no": "0867",
+   "word": "bravery",
+   "ph": "[bréivəri]",
+   "pos": "명",
+   "mean": "용기, 용맹",
+   "ex": "In a society that cherishes honor or <b>bravery</b>, a battle wound would be more of a status symbol.",
+   "exKo": "명예와 용기를 소중하게 여기는 사회에서는 전투에서 입은 부상이 더욱 지위의 상징으로 여겨질 것이다.",
+   "derived": [],
+   "syn": [
+    [
+     "courage",
+     "용기, 담력"
+    ],
+    [
+     "fortitude",
+     "용기, 강인함"
+    ]
+   ]
+  },
+  {
+   "no": "0868",
+   "word": "breakthrough",
+   "ph": "[bréikθrùː]",
+   "pos": "명",
+   "mean": "돌파구, 획기적인 발전",
+   "ex": "Every victory one person makes is a <b>breakthrough</b> for all.",
+   "exKo": "한 사람이 이루는 모든 승리는 모두를 위한 돌파구이다.",
+   "derived": [],
+   "syn": [
+    [
+     "advance",
+     "발전, 진보, 나아가다"
+    ],
+    [
+     "progress",
+     "발전, 진보, 진행"
+    ]
+   ]
+  },
+  {
+   "no": "0869",
+   "word": "bulletin",
+   "ph": "[búlitən]",
+   "pos": "명",
+   "mean": "게시판, 공고",
+   "ex": "The information on the <b>bulletin</b> board is open and accessible to everyone.",
+   "exKo": "게시판에 있는 내용은 모두에게 공개되어 있고 모두가 이용할 수 있다.",
+   "derived": [
+    [
+     "⚠ bullet",
+     "(혼동 주의) 총알, 탄환"
+    ]
+   ],
+   "syn": [
+    [
+     "notice",
+     "공지, 알아차리다, 주목하다"
+    ]
+   ]
+  },
+  {
+   "no": "0870",
+   "word": "burial",
+   "ph": "[bériəl]",
+   "pos": "명",
+   "mean": "매장, 장례식",
+   "ex": "The law prohibits the <b>burial</b> of toxic substances without permission from the local government.",
+   "exKo": "법에서는 지방정부의 승인 없이 독성 물질을 매장하는 것을 금지한다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0871",
+   "word": "management",
+   "ph": "[mǽnidʒmənt]",
+   "pos": "명",
+   "mean": "경영, 관리, 경영진",
+   "ex": "Time <b>management</b> is an important skill for them to learn.",
+   "exKo": "시간 관리를 배우는 것은 그들에게 중요한 기술이다.",
+   "derived": [],
+   "syn": [
+    [
+     "supervision",
+     "감독, 관리, 지휘, 감시"
+    ]
+   ]
+  },
+  {
+   "no": "0872",
+   "word": "toil",
+   "ph": "[tɔil]",
+   "pos": "명",
+   "mean": "고역, 고생, 노역",
+   "ex": "He has achieved his comfortable life only after years of hard <b>toil</b>.",
+   "exKo": "수년 동안의 힘든 고생 후에 그는 안락한 삶을 성취했다.",
+   "derived": [],
+   "syn": [
+    [
+     "drudgery",
+     "힘든 일"
+    ]
+   ]
+  },
+  {
+   "no": "0873",
+   "word": "temperament",
+   "ph": "[témpərəmənt]",
+   "pos": "명",
+   "mean": "기질, 성격",
+   "ex": "Living surrounded by people with artistic <b>temperament</b>, he learned to see things in different ways.",
+   "exKo": "예술적 기질을 가진 사람들에 둘러싸여 살면서 그는 사물을 다른 방식으로 보는 법을 배웠다.",
+   "derived": [
+    [
+     "⚠ temperature",
+     "(혼동 주의) 온도"
+    ]
+   ],
+   "syn": [
+    [
+     "disposition",
+     "성향, 처분"
+    ],
+    [
+     "inclination",
+     "성향, 경사"
+    ],
+    [
+     "character",
+     "성격, 인격, 등장인물"
+    ]
+   ]
+  },
+  {
+   "no": "0874",
+   "word": "theft",
+   "ph": "[θeft]",
+   "pos": "명",
+   "mean": "절도, 도둑질",
+   "ex": "The police have reported that car <b>theft</b> is on the increase lately.",
+   "exKo": "자동차 절도가 최근 증가하고 있다고 경찰이 발표했다.",
+   "derived": [
+    [
+     "thief",
+     "도둑"
+    ],
+    [
+     "burglar",
+     "강도, 빈집털이"
+    ],
+    [
+     "robbery",
+     "강도, 도둑, 약탈"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "0875",
+   "word": "sophomore",
+   "ph": "[sáfəmɔ̀ːr]",
+   "pos": "명",
+   "mean": "2학년생, 2년차",
+   "ex": "She's going through a <b>sophomore</b> slump.",
+   "exKo": "그녀는 요새 2년차 증후군을 겪고 있어.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0876",
+   "word": "skeleton",
+   "ph": "[skélitən]",
+   "pos": "명·형",
+   "mean": "(명) 뼈대, 골격 / (형) 해골 같은",
+   "ex": "The human <b>skeleton</b> consists of 206 bones.",
+   "exKo": "인간의 뼈대는 206개의 뼈로 구성되어 있다.",
+   "derived": [],
+   "syn": [
+    [
+     "bone",
+     "뼈"
+    ]
+   ]
+  },
+  {
+   "no": "0877",
+   "word": "shipment",
+   "ph": "[ʃípmənt]",
+   "pos": "명",
+   "mean": "수송, 수송품, 배송",
+   "ex": "I am very sorry about the unfortunate error in <b>shipment</b>.",
+   "exKo": "불미스런 배송 실수에 대해 대단히 죄송합니다.",
+   "derived": [],
+   "syn": [
+    [
+     "transportation",
+     "수송"
+    ]
+   ]
+  },
+  {
+   "no": "0878",
+   "word": "ranch",
+   "ph": "[ræntʃ]",
+   "pos": "명",
+   "mean": "목장, 축산",
+   "ex": "<b>Ranches</b> generally consist of large areas, but may be of nearly any size.",
+   "exKo": "목장들은 일반적으로 넓은 땅들로 이루어져 있지만 거의 어떠한 규모로도 가능하다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0879",
+   "word": "real estate",
+   "ph": "",
+   "pos": "명",
+   "mean": "부동산, 집, 토지",
+   "ex": "The man established his own business and made a fortune through <b>real estate</b> investments.",
+   "exKo": "그 남자는 자신의 회사를 설립하여 부동산 투자를 통해 큰돈을 벌었다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0880",
+   "word": "federal",
+   "ph": "[fédərəl]",
+   "pos": "형",
+   "mean": "연방의, 연방 정부의",
+   "ex": "The <b>federal</b> government passed new legislation to support rural healthcare programs.",
+   "exKo": "연방 정부는 농촌 의료 프로그램을 지원하기 위한 새로운 법안을 통과시켰다.",
+   "derived": [
+    [
+     "Federal Reserve",
+     "연방 준비 제도(미국의 중앙은행)"
+    ],
+    [
+     "federal employee",
+     "연방 공무원"
+    ],
+    [
+     "federation",
+     "연방, 연합국"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "0881",
+   "word": "projection",
+   "ph": "[prədʒékʃən]",
+   "pos": "명",
+   "mean": "예상, 투사, 투영",
+   "ex": "The early <b>projections</b> on this year's holiday season are looking far worse than usual.",
+   "exKo": "올해 휴가 시즌에 대한 이른 전망은 예년보다 훨씬 더 나쁠 것이라고 나오고 있다.",
+   "derived": [],
+   "syn": [
+    [
+     "expectation",
+     "기대, 예상"
+    ],
+    [
+     "forecast",
+     "예상, 예보, 내다보다"
+    ]
+   ]
+  },
+  {
+   "no": "0882",
+   "word": "intolerance",
+   "ph": "[intálərəns]",
+   "pos": "명",
+   "mean": "무관용, 편협, 과민증",
+   "ex": "Saudi Arabia has unfortunately devolved into an outpost of <b>intolerance</b> and religious radicalism.",
+   "exKo": "사우디아라비아는 불행히도 편협함과 종교적 극단주의의 전초 기지로 빠져들었다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0883",
+   "word": "malnutrition",
+   "ph": "[mæ̀lnjuːtríʃən]",
+   "pos": "명",
+   "mean": "영양실조, 영양불량",
+   "ex": "<b>Malnutrition</b> is a matter of complete insufficiency of food for the population.",
+   "exKo": "영양실조는 인구에 비해 완전히 부족한 식량 문제이다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0884",
+   "word": "statement",
+   "ph": "[stéitmənt]",
+   "pos": "명",
+   "mean": "진술, 성명",
+   "ex": "His <b>statement</b> threw the court into turmoil.",
+   "exKo": "그의 진술에 법정이 갑자기 술렁거렸다.",
+   "derived": [],
+   "syn": [
+    [
+     "declaration",
+     "선언, 발표"
+    ],
+    [
+     "announcement",
+     "발표"
+    ]
+   ]
+  },
+  {
+   "no": "0885",
+   "word": "neutral",
+   "ph": "[njúːtrəl]",
+   "pos": "형·명",
+   "mean": "(형) 중립적인, 중립의 / (명) 중립",
+   "ex": "Many people think that technology itself is <b>neutral</b> and that it's the user's responsibility to use it well.",
+   "exKo": "많은 사람들은 기술 그 자체는 중립적이고, 그것을 잘 사용하는 것이 사용자의 책임이라고 생각한다.",
+   "derived": [],
+   "syn": [
+    [
+     "even-handed",
+     "공평한, 편파적이 아닌"
+    ],
+    [
+     "impartial",
+     "공정한, 치우침 없는"
+    ]
+   ]
+  },
+  {
+   "no": "0886",
+   "word": "fallacy",
+   "ph": "[fǽləsi]",
+   "pos": "명",
+   "mean": "오류, 오해, 궤변",
+   "ex": "He detected the <b>fallacy</b> of her argument.",
+   "exKo": "그는 그녀의 주장에 담긴 오류를 찾아냈다.",
+   "derived": [
+    [
+     "infallible",
+     "오류가 없는"
+    ]
+   ],
+   "syn": [
+    [
+     "falsehood",
+     "오류"
+    ]
+   ]
+  },
+  {
+   "no": "0887",
+   "word": "vegetarian",
+   "ph": "[vèdʒitɛ́(ː)əriən]",
+   "pos": "명·형",
+   "mean": "(명) 채식주의자 / (형) 채식의",
+   "ex": "Pandas primarily eat bamboo as part of their <b>vegetarian</b> diet.",
+   "exKo": "판다는 채식의 일부로서 대나무를 주로 먹습니다.",
+   "derived": [],
+   "syn": [
+    [
+     "vegan",
+     "(엄격) 채식주의자"
+    ]
+   ]
+  },
+  {
+   "no": "0888",
+   "word": "antibody",
+   "ph": "[ǽntibàdi]",
+   "pos": "명",
+   "mean": "항체, 항독소",
+   "ex": "The <b>antibodies</b> attacked the worms and killed them off.",
+   "exKo": "항체들은 기생충들을 공격했고 그것들을 죽였다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0889",
+   "word": "destruction",
+   "ph": "[distrʌ́kʃən]",
+   "pos": "명",
+   "mean": "파괴, 파멸",
+   "ex": "Environmental <b>destruction</b> will limit the economic development of the entire planet.",
+   "exKo": "환경 파괴는 지구 전체의 경제 발전을 제한할 것이다.",
+   "derived": [],
+   "syn": [
+    [
+     "disruption",
+     "붕괴, 파열, 분열"
+    ],
+    [
+     "demolition",
+     "파괴, 폭약"
+    ]
+   ]
+  },
+  {
+   "no": "0890",
+   "word": "bill",
+   "ph": "[bil]",
+   "pos": "명",
+   "mean": "법안, 청구서",
+   "ex": "The senator introduced a <b>bill</b> that would increase the minimum wage.",
+   "exKo": "그 상원 의원은 최저 임금을 올릴 법안을 제출했다.",
+   "derived": [],
+   "syn": [
+    [
+     "act",
+     "법률, 법안, 행동하다"
+    ],
+    [
+     "legislation",
+     "입법안"
+    ]
+   ]
+  },
+  {
+   "no": "0891",
+   "word": "bondage",
+   "ph": "[bándidʒ]",
+   "pos": "명",
+   "mean": "구속, 속박",
+   "ex": "<b>Bondage</b> rather than freedom was normal for most poor people in the seventeenth century.",
+   "exKo": "17세기에 대부분의 가난한 사람들에게는 자유가 아니라 구속이 일반적이었다.",
+   "derived": [
+    [
+     "bond",
+     "접착시키다, 유대, 끈"
+    ],
+    [
+     "⚠ bandage",
+     "(혼동 주의) 붕대, 붕대감다"
+    ]
+   ],
+   "syn": [
+    [
+     "confinement",
+     "감금, 속박, 유폐"
+    ],
+    [
+     "oppression",
+     "억압, 탄압"
+    ]
+   ]
+  },
+  {
+   "no": "0892",
+   "word": "tiny",
+   "ph": "[táini]",
+   "pos": "형",
+   "mean": "아주 작은, 적은",
+   "ex": "The computer chips are so <b>tiny</b> that when you lost it, it would be hard to find them.",
+   "exKo": "컴퓨터 칩은 아주 작아서 그것을 잃어버리면 찾기 힘들 것이다.",
+   "derived": [],
+   "syn": [
+    [
+     "trivial",
+     "사소한, 하찮은"
+    ],
+    [
+     "petty",
+     "의미 없는, 사소한"
+    ],
+    [
+     "minute",
+     "사소한, 하찮은, 분"
+    ]
+   ]
+  },
+  {
+   "no": "0893",
+   "word": "globalization",
+   "ph": "[glòubəlizéiʃən]",
+   "pos": "명",
+   "mean": "세계화",
+   "ex": "Of course, <b>globalization</b> has many upsides and yes, globalization has more good than bad.",
+   "exKo": "물론 세계화는 많은 좋은 점을 가지고 있고, 단점보다 더 많은 장점을 가지고 있다.",
+   "derived": [
+    [
+     "globe",
+     "세계, 지구, 구"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "0894",
+   "word": "consensus",
+   "ph": "[kənsénsəs]",
+   "pos": "명",
+   "mean": "일치, 합의, 여론",
+   "ex": "There is an overall <b>consensus</b> on how crude oil was first formed.",
+   "exKo": "원유가 처음에 어떻게 형성되었는지에 대해서 전반적으로 의견이 일치한다.",
+   "derived": [
+    [
+     "⚠ census",
+     "(혼동 주의) 인구 통계"
+    ]
+   ],
+   "syn": [
+    [
+     "agreement",
+     "합의, 승낙"
+    ]
+   ]
+  },
+  {
+   "no": "0895",
+   "word": "prose",
+   "ph": "[prouz]",
+   "pos": "명",
+   "mean": "산문",
+   "ex": "She was a <b>prose</b> writer of extraordinary talent, winning some different awards.",
+   "exKo": "그녀는 몇 개의 다른 상을 수상한 경력이 있는, 비범한 재능을 가진 산문 작가였다.",
+   "derived": [
+    [
+     "verse",
+     "운문 (= poem/poetry)"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "0896",
+   "word": "range",
+   "ph": "[reindʒ]",
+   "pos": "명·동",
+   "mean": "(명) 범위, 다양성 / (동) (A부터 B까지) 범위를 이루다 (range from A to B)",
+   "ex": "The job encompasses a wide <b>range</b> of responsibilities.",
+   "exKo": "그 일자리에서는 다양한 책무를 맡게 된다.",
+   "derived": [],
+   "syn": [
+    [
+     "variety",
+     "다양성"
+    ]
+   ]
+  },
+  {
+   "no": "0897",
+   "word": "privilege",
+   "ph": "[prívəlidʒ]",
+   "pos": "명·동",
+   "mean": "(명) 특권 / (동) 특권을 주다",
+   "ex": "Freedom of speech is a right and not a <b>privilege</b>.",
+   "exKo": "언론의 자유는 권리이지 특권이 아니다.",
+   "derived": [],
+   "syn": [
+    [
+     "prerogative",
+     "특권, 특전, 대권"
+    ]
+   ]
+  },
+  {
+   "no": "0898",
+   "word": "expertise",
+   "ph": "[èkspəːrtíːz]",
+   "pos": "명",
+   "mean": "전문 분야, 전문 지식, 기술",
+   "ex": "They have considerable <b>expertise</b> in dealing with oil spills.",
+   "exKo": "그들은 기름 유출을 처리하는 데 상당한 전문 기술을 지니고 있다.",
+   "derived": [],
+   "syn": [
+    [
+     "technique",
+     "기법, 기술"
+    ],
+    [
+     "skill",
+     "기술, 실력"
+    ],
+    [
+     "prowess",
+     "기량, 솜씨"
+    ]
+   ]
+  },
+  {
+   "no": "0899",
+   "word": "profound",
+   "ph": "[prəfáund]",
+   "pos": "형",
+   "mean": "엄청난, 심오한",
+   "ex": "The filmmakers often do not prompt deep, <b>profound</b> thoughts through their movies.",
+   "exKo": "영화 제작자들은 자신들의 영화를 통해 깊고 심오한 생각을 하게끔 종종 유도하지는 않습니다.",
+   "derived": [],
+   "syn": [
+    [
+     "recondite",
+     "난해한, 심오한, 숨겨진"
+    ],
+    [
+     "abstruse",
+     "난해한, 심오한"
+    ]
+   ]
+  },
+  {
+   "no": "0900",
+   "word": "exceed",
+   "ph": "[iksíːd]",
+   "pos": "동",
+   "mean": "초과하다, 넘다, 넘기다",
+   "ex": "Such employees' abilities meet or <b>exceed</b> the requirement from the present jobs.",
+   "exKo": "그런 직원들의 능력은 현재 있는 자리의 자격요건을 충족시키거나 초과한다.",
+   "derived": [
+    [
+     "excessive",
+     "과도한, 지나친"
+    ],
+    [
+     "excess",
+     "과잉, 초과, 여분, 무절제"
+    ]
+   ],
+   "syn": [
+    [
+     "outstrip",
+     "~을 능가하다"
+    ],
+    [
+     "transcend",
+     "초월하다, ~을 능가하다, 넘다"
+    ],
+    [
+     "surpass",
+     "초과하다, 극복하다"
+    ]
+   ]
+  }
+ ]
+}
