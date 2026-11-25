@@ -1,0 +1,915 @@
+{
+ "day": "DAY 26",
+ "words": [
+  {
+   "no": "1251",
+   "word": "spiral",
+   "ph": "[spáiərəl]",
+   "pos": "형·명",
+   "mean": "(형) 나선형의 / (명) 나선형, 소용돌이",
+   "ex": "Our economy is in an inflationary <b>spiral</b> of wage and price increases.",
+   "exKo": "우리 경제는 임금과 물가 인상에 의한 인플레이션 소용돌이에 휘말려 있다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1252",
+   "word": "painkiller",
+   "ph": "[péinkìlər]",
+   "pos": "명",
+   "mean": "진통제",
+   "ex": "The study revealed that the <b>painkiller</b> could cause serious side effects when mixed with alcoholic beverages.",
+   "exKo": "그 연구는 그 진통제가 알코올 음료와 함께 사용될 경우에는 심각한 부작용을 야기할 수 있다는 것을 밝혔다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1253",
+   "word": "retreat",
+   "ph": "[ritríːt]",
+   "pos": "명·동",
+   "mean": "(명) 후퇴, 하락 / (동) 후퇴하다",
+   "ex": "Ten thousand years ago, the ice began its <b>retreat</b> from Scotland.",
+   "exKo": "1만 년 전, 얼음은 스코틀랜드에서 후퇴하기 시작했다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1254",
+   "word": "tax",
+   "ph": "[tæks]",
+   "pos": "명·동",
+   "mean": "(명) 세, 세금 / (동) 과세하다",
+   "ex": "To facilitate economic recovery, the government may cut <b>taxes</b> and encourage people to spend more.",
+   "exKo": "경기회복을 돕기 위해서 정부는 세금을 줄여서 사람들이 돈을 더 많이 쓰게 유도할 수 있을 것이다.",
+   "derived": [
+    [
+     "tariff",
+     "관세"
+    ],
+    [
+     "duty",
+     "관세, 세금, 의무"
+    ]
+   ],
+   "syn": [
+    [
+     "levy",
+     "징수금, 징수하다"
+    ]
+   ]
+  },
+  {
+   "no": "1255",
+   "word": "article",
+   "ph": "[áːrtikl]",
+   "pos": "명",
+   "mean": "기사, 논문, 조항, 물품",
+   "ex": "I read an interesting <b>article</b> on vegetarianism in the paper yesterday.",
+   "exKo": "나는 어제 신문에서 채식에 대한 흥미로운 기사를 읽었다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1256",
+   "word": "fuss",
+   "ph": "[fʌs]",
+   "pos": "명",
+   "mean": "호들갑, 야단법석",
+   "ex": "All this <b>fuss</b> is totally unnecessary.",
+   "exKo": "이 모든 야단법석은 전적으로 불필요하다.",
+   "derived": [],
+   "syn": [
+    [
+     "commotion",
+     "소동, 소란"
+    ]
+   ]
+  },
+  {
+   "no": "1257",
+   "word": "innate",
+   "ph": "[inéit]",
+   "pos": "형",
+   "mean": "타고난, 선천적인",
+   "ex": "Not all human behavior is <b>innate</b>; much of it is shaped by culture.",
+   "exKo": "모든 인간의 행동이 선천적인 것은 아니며, 많은 부분이 문화에 의해 형성된다.",
+   "derived": [],
+   "syn": [
+    [
+     "inborn",
+     "타고난"
+    ],
+    [
+     "natural",
+     "자연적인"
+    ],
+    [
+     "inherent",
+     "내재된, 타고난"
+    ],
+    [
+     "congenital",
+     "선천적인"
+    ]
+   ]
+  },
+  {
+   "no": "1258",
+   "word": "justice",
+   "ph": "[dʒʌ́stis]",
+   "pos": "명",
+   "mean": "정의, 사법",
+   "ex": "It is absolutely true that there can be no peace without <b>justice</b> for all.",
+   "exKo": "만인을 위한 정의가 없다면 평화는 있을 수 없다는 것은 전적으로 참이다.",
+   "derived": [],
+   "syn": [
+    [
+     "justness",
+     "정당함, 공정함, 합법"
+    ]
+   ]
+  },
+  {
+   "no": "1259",
+   "word": "landmark",
+   "ph": "[lǽndmàːrk]",
+   "pos": "명",
+   "mean": "역사적 장소, 경계표, 주요사건",
+   "ex": "The Empire State Building is one of New York's most famous <b>landmark</b>.",
+   "exKo": "엠파이어스테이트 빌딩은 뉴욕에서 가장 유명한 지형지물 중 하나이다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1260",
+   "word": "log",
+   "ph": "[lɔ(ː)g]",
+   "pos": "명·동",
+   "mean": "(명) 통나무, 일지 / (동) 벌채하다",
+   "ex": "The furniture is manufactured in Vietnam but made from <b>log</b> imported from Indonesia.",
+   "exKo": "이 가구는 베트남에서 제조되지만 인도네시아에서 수입된 통나무로 만들어진다.",
+   "derived": [
+    [
+     "⚠ lag",
+     "(혼동 주의) 뒤쳐지다, 꾸물거리다"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1261",
+   "word": "salary",
+   "ph": "[sǽləri]",
+   "pos": "명",
+   "mean": "봉급, 급여, 월급",
+   "ex": "He was not on a good <b>salary</b>, so he decided to change jobs.",
+   "exKo": "그는 급여가 많지 않았기 때문에 이직을 하기로 결심했다.",
+   "derived": [],
+   "syn": [
+    [
+     "income",
+     "소득, 수입"
+    ],
+    [
+     "wage",
+     "임금, 급여"
+    ]
+   ]
+  },
+  {
+   "no": "1262",
+   "word": "mercy",
+   "ph": "[mə́ːrsi]",
+   "pos": "명",
+   "mean": "자비, 은총",
+   "ex": "The gunmen showed no <b>mercy</b>, killing all the innocent men and women in the bar.",
+   "exKo": "그 총잡이들은 자비심을 보이지 않았고, 그 술집에 있던 무고한 남녀 모두를 죽였다.",
+   "derived": [
+    [
+     "mercy killing",
+     "안락사"
+    ]
+   ],
+   "syn": [
+    [
+     "benevolence",
+     "자비심, 선행, 선의"
+    ],
+    [
+     "generosity",
+     "관대함, 아낌없는"
+    ]
+   ]
+  },
+  {
+   "no": "1263",
+   "word": "tactic",
+   "ph": "[tǽktik]",
+   "pos": "명",
+   "mean": "전술, 전략, 수단",
+   "ex": "In baseball, pitchers need an excellent <b>tactic</b> using both psychology and skill to strike out batters.",
+   "exKo": "야구에서, 투수가 타자를 삼진으로 아웃시키려면 심리전과 기술을 모두 사용하는 훌륭한 전략이 필요하다.",
+   "derived": [],
+   "syn": [
+    [
+     "strategy",
+     "전략, 계획"
+    ]
+   ]
+  },
+  {
+   "no": "1264",
+   "word": "syndrome",
+   "ph": "[síndroum]",
+   "pos": "명",
+   "mean": "증후군",
+   "ex": "This <b>syndrome</b> is associated with frequent coughing.",
+   "exKo": "이 증후군은 잦은 기침과 연관성이 있다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1265",
+   "word": "thermometer",
+   "ph": "[θərmámitər]",
+   "pos": "명",
+   "mean": "온도계, 체온계",
+   "ex": "The <b>thermometer</b> says it's 25 degrees outside, but it doesn't feel so hot.",
+   "exKo": "온도계가 바깥 온도를 25도로 나타내고 있는데 그렇게 덥게 느껴지지 않는다.",
+   "derived": [
+    [
+     "barometer",
+     "기압계"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1266",
+   "word": "mode",
+   "ph": "[moud]",
+   "pos": "명",
+   "mean": "방식, 유행, 조절",
+   "ex": "We should keep our phones in silent <b>mode</b> while in public.",
+   "exKo": "우리는 공공장소에서는 휴대폰을 매너 모드로 바꿔야 해.",
+   "derived": [],
+   "syn": [
+    [
+     "method",
+     "방식, 방법"
+    ],
+    [
+     "manner",
+     "방식, 태도"
+    ]
+   ]
+  },
+  {
+   "no": "1267",
+   "word": "diaper",
+   "ph": "[dáiəpər]",
+   "pos": "명·동",
+   "mean": "(명) 기저귀 / (동) (기저귀를) 갈다",
+   "ex": "It is not easy for mothers to change a baby's <b>diaper</b> in public places.",
+   "exKo": "엄마들이 공공장소에서 아기 기저귀를 갈기란 쉽지 않다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1268",
+   "word": "crew",
+   "ph": "[kruː]",
+   "pos": "명",
+   "mean": "승무원, 무리, 동료",
+   "ex": "A construction <b>crew</b> will begin work on the building next month.",
+   "exKo": "건축 팀은 다음 달에 그 건물에 대한 공사를 시작할 것이다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1269",
+   "word": "by-product",
+   "ph": "",
+   "pos": "명",
+   "mean": "부산물, 부차적 결과",
+   "ex": "An especially annoying problem is the removal of nuclear <b>by-product</b>.",
+   "exKo": "특히 골치 아픈 문제는 핵 부산물의 제거이다.",
+   "derived": [],
+   "syn": [
+    [
+     "derivative",
+     "파생물, 파생의"
+    ]
+   ]
+  },
+  {
+   "no": "1270",
+   "word": "legacy",
+   "ph": "[légəsi]",
+   "pos": "명",
+   "mean": "유산, 업적, 여파",
+   "ex": "His bold step to leave a global warming <b>legacy</b> may contribute to worldwide efforts to save the Earth.",
+   "exKo": "지구 온난화에 관한 업적을 남기기 위한 그의 과감한 결단은 지구를 구하기 위한 전 세계적인 노력에 기여하게 될지도 모른다.",
+   "derived": [],
+   "syn": [
+    [
+     "heritage",
+     "유산, 혈통, 전통"
+    ],
+    [
+     "bequest",
+     "유증, 유산, 유물"
+    ]
+   ]
+  },
+  {
+   "no": "1271",
+   "word": "relaxation",
+   "ph": "[rìːlækséiʃən]",
+   "pos": "명",
+   "mean": "휴식, 완화",
+   "ex": "For <b>relaxation</b>, some people like to take a walk in the park.",
+   "exKo": "휴식을 위해 어떤 사람들은 공원에서 산책하는 것을 좋아한다.",
+   "derived": [],
+   "syn": [
+    [
+     "leisure",
+     "여가, 여가의"
+    ],
+    [
+     "rest",
+     "휴식, 휴게"
+    ]
+   ]
+  },
+  {
+   "no": "1272",
+   "word": "costume",
+   "ph": "[kástjuːm]",
+   "pos": "명",
+   "mean": "의상, 옷",
+   "ex": "High school students in England and France take courses on the making of traditional Indonesian <b>costume</b>.",
+   "exKo": "영국과 프랑스의 고등학생들은 인도네시아 전통 의상 만들기 수업을 받는다.",
+   "derived": [],
+   "syn": [
+    [
+     "outfit",
+     "의상"
+    ],
+    [
+     "garment",
+     "의류, 옷"
+    ]
+   ]
+  },
+  {
+   "no": "1273",
+   "word": "bliss",
+   "ph": "[blis]",
+   "pos": "명",
+   "mean": "행복, 희열",
+   "ex": "Almost all religions in the world promise eternal <b>bliss</b> for believers.",
+   "exKo": "세상의 거의 모든 종교들은 신도들에게 영원한 행복을 약속한다.",
+   "derived": [
+    [
+     "bless",
+     "축복하다"
+    ]
+   ],
+   "syn": [
+    [
+     "jubilation",
+     "환희, 환호, 축하"
+    ],
+    [
+     "happiness",
+     "행복, 만족"
+    ]
+   ]
+  },
+  {
+   "no": "1274",
+   "word": "expense",
+   "ph": "[ikspéns]",
+   "pos": "명",
+   "mean": "비용, 경비",
+   "ex": "No <b>expense</b> was spared in furnishing the new office.",
+   "exKo": "새 사무실 실내 장식에는 경비를 아낌없이 들였다.",
+   "derived": [
+    [
+     "at the expense of",
+     "~을 대가로 하여, ~을 희생하여"
+    ],
+    [
+     "take a toll on",
+     "~에 악영향을 주다, 타격을 주다"
+    ]
+   ],
+   "syn": [
+    [
+     "fare",
+     "운임, 요금"
+    ],
+    [
+     "expenditure",
+     "지출, 소비, 비용"
+    ]
+   ]
+  },
+  {
+   "no": "1275",
+   "word": "factual",
+   "ph": "[fǽktʃuəl]",
+   "pos": "형",
+   "mean": "사실에 입각한, 사실적인",
+   "ex": "Science requires <b>factual</b> evidence to prove theories.",
+   "exKo": "과학은 이론을 증명하는 사실적 증거를 요구한다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1276",
+   "word": "rainfall",
+   "ph": "[réinfɔ̀ːl]",
+   "pos": "명",
+   "mean": "강우량, 강수량",
+   "ex": "<b>Rainfall</b> is abundant in summer; the period of drought lasts during winter.",
+   "exKo": "강수량은 여름에 풍부하고, 겨울 동안에는 가뭄 기간이 지속된다.",
+   "derived": [],
+   "syn": [
+    [
+     "precipitation",
+     "강우, 강수량"
+    ]
+   ]
+  },
+  {
+   "no": "1277",
+   "word": "sanitation",
+   "ph": "[sæ̀nitéiʃən]",
+   "pos": "명",
+   "mean": "위생 (관리)",
+   "ex": "Most illnesses in the temporary refugee camp are the result of inadequate <b>sanitation</b>.",
+   "exKo": "그 임시 난민 수용소에서 발생하는 대부분의 질병은 부족한 위생관리의 결과이다.",
+   "derived": [
+    [
+     "sanitary",
+     "위생적인, 청결한"
+    ],
+    [
+     "antiseptic",
+     "소독제, 방부제, 살균의"
+    ],
+    [
+     "sterilization",
+     "살균, 불임"
+    ]
+   ],
+   "syn": [
+    [
+     "hygiene",
+     "위생, 건강법, 보건"
+    ],
+    [
+     "purification",
+     "정화"
+    ]
+   ]
+  },
+  {
+   "no": "1278",
+   "word": "steep",
+   "ph": "[stiːp]",
+   "pos": "형·동",
+   "mean": "(형) 가파른, 너무 비싼 / (동) 담가두다, 몰두시키다",
+   "ex": "The children clambered up the <b>steep</b> bank.",
+   "exKo": "아이들은 가파른 둑을 기어올랐다.",
+   "derived": [],
+   "syn": [
+    [
+     "expensive",
+     "비싼"
+    ]
+   ]
+  },
+  {
+   "no": "1279",
+   "word": "bias",
+   "ph": "[báiəs]",
+   "pos": "명",
+   "mean": "편견, 편향, 성향",
+   "ex": "The issue of racial <b>bias</b> in law enforcement has attracted considerable attention in recent years.",
+   "exKo": "법 집행에 있어 인종적 편견에 대한 쟁점은 최근 몇 년 동안 상당한 주의를 끌어왔다.",
+   "derived": [
+    [
+     "biased",
+     "편향된, 선입견 있는"
+    ],
+    [
+     "unbiased",
+     "편견없는, 공정한"
+    ]
+   ],
+   "syn": [
+    [
+     "prejudice",
+     "편견, 선입견, 편애"
+    ],
+    [
+     "propensity",
+     "기호, 성향"
+    ],
+    [
+     "stereotype",
+     "고정관념, 정형화하다"
+    ]
+   ]
+  },
+  {
+   "no": "1280",
+   "word": "arithmetic",
+   "ph": "[æ̀riθmétik]",
+   "pos": "명·형",
+   "mean": "(명) 산수, 산술 / (형) 산수의",
+   "ex": "My son is not good at <b>arithmetic</b> and writing yet, but he is a good child.",
+   "exKo": "내 아들은 아직 산수와 작문을 잘하지 못하지만 착한 아이이다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1281",
+   "word": "paycheck",
+   "ph": "[péitʃèk]",
+   "pos": "명",
+   "mean": "봉급, 급료",
+   "ex": "If you save just a little from each <b>paycheck</b>, eventually this money will earn more than you do.",
+   "exKo": "봉급을 받아서 조금씩 저축하면, 결국 이 돈이 당신이 버는 것보다 더 많은 돈을 벌어다 줄 것이다.",
+   "derived": [],
+   "syn": [
+    [
+     "wage",
+     "임금, 급료"
+    ],
+    [
+     "income",
+     "소득, 수입, 수익"
+    ],
+    [
+     "salary",
+     "월급, 연봉, 급여"
+    ]
+   ]
+  },
+  {
+   "no": "1282",
+   "word": "solitude",
+   "ph": "[sálitjùːd]",
+   "pos": "명",
+   "mean": "고독, 외로움",
+   "ex": "As she wanted to work on her novel in <b>solitude</b>, she rented a small house in the countryside.",
+   "exKo": "그녀는 혼자 조용히 소설 작업을 하고 싶어서 시골에 있는 작은 집을 빌렸다.",
+   "derived": [],
+   "syn": [
+    [
+     "loneliness",
+     "외로움, 고독, 쓸쓸함"
+    ]
+   ]
+  },
+  {
+   "no": "1283",
+   "word": "client",
+   "ph": "[kláiənt]",
+   "pos": "명",
+   "mean": "고객, 손님, 의뢰인",
+   "ex": "We are conscious that the greater success of our company is to satisfy our <b>clients</b>.",
+   "exKo": "우리는 회사의 더욱 큰 성공은 우리 고객들을 만족시키는 일이라는 것을 알고 있다.",
+   "derived": [],
+   "syn": [
+    [
+     "customer",
+     "고객, 손님"
+    ]
+   ]
+  },
+  {
+   "no": "1284",
+   "word": "conscience",
+   "ph": "[kánʃəns]",
+   "pos": "명",
+   "mean": "양심, 가책",
+   "ex": "Robots with <b>conscience</b> or emotions as in science fiction are still many years away.",
+   "exKo": "공상과학에 나오는 양심이나 감정을 가진 로봇은 아직도 먼 얘기다.",
+   "derived": [],
+   "syn": [
+    [
+     "regret",
+     "후회하다, 유감, 아쉬움"
+    ],
+    [
+     "remorse",
+     "후회, 가책"
+    ],
+    [
+     "repentance",
+     "후회, 양심의 가책"
+    ]
+   ]
+  },
+  {
+   "no": "1285",
+   "word": "equilibrium",
+   "ph": "[ìːkwəlíbriəm]",
+   "pos": "명",
+   "mean": "평형, 균형, 평형 상태",
+   "ex": "He sat down to try and recover his <b>equilibrium</b>.",
+   "exKo": "그는 자리에 앉아 평정을 되찾으려고 했다.",
+   "derived": [],
+   "syn": [
+    [
+     "balance",
+     "균형"
+    ],
+    [
+     "composure",
+     "침착, 냉정, 평정"
+    ],
+    [
+     "equanimity",
+     "평정, 침착"
+    ]
+   ]
+  },
+  {
+   "no": "1286",
+   "word": "obstacle",
+   "ph": "[ábstəkl]",
+   "pos": "명",
+   "mean": "장애, 장애물",
+   "ex": "But an even bigger <b>obstacle</b> for Zafar is the uniform that boxers typically wear.",
+   "exKo": "하지만 Zafar에게 더 큰 장애물은 권투 선수들이 보통 입는 유니폼입니다.",
+   "derived": [],
+   "syn": [
+    [
+     "barrier",
+     "장벽, 장애물, 장애"
+    ],
+    [
+     "interruption",
+     "방해, 중단, 장애"
+    ],
+    [
+     "obstruction",
+     "방해물, 장애물, 방해"
+    ],
+    [
+     "hindrance",
+     "장애, 방해"
+    ]
+   ]
+  },
+  {
+   "no": "1287",
+   "word": "resort",
+   "ph": "[rizɔ́ːrt]",
+   "pos": "명·동",
+   "mean": "(명) 리조트 / (동) 의존하다 (to)",
+   "ex": "Germany offers opportunities to enjoy winter sports at many ski <b>resorts</b>.",
+   "exKo": "독일은 많은 스키 리조트에서 겨울 스포츠를 즐길 수 있는 기회들을 제공한다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1288",
+   "word": "diameter",
+   "ph": "[daiǽmitər]",
+   "pos": "명",
+   "mean": "지름, 배율",
+   "ex": "It is 3 centimeters thick and 53 centimeters in <b>diameter</b>.",
+   "exKo": "그것은 두께가 3cm이고 지름이 53cm입니다.",
+   "derived": [
+    [
+     "radius",
+     "반지름"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1289",
+   "word": "pledge",
+   "ph": "[pledʒ]",
+   "pos": "명·동",
+   "mean": "(명) 약속, 맹세 / (동) 약속하다",
+   "ex": "His <b>pledge</b> is the largest charitable donation in U.S. history.",
+   "exKo": "그의 약속은 미국 역사상 가장 큰 자선 기부이다.",
+   "derived": [],
+   "syn": [
+    [
+     "commitment",
+     "몰입, 약속, 헌신"
+    ],
+    [
+     "vow",
+     "서약, 맹세"
+    ],
+    [
+     "oath",
+     "맹세, 선서"
+    ]
+   ]
+  },
+  {
+   "no": "1290",
+   "word": "respiration",
+   "ph": "[rèspəréiʃən]",
+   "pos": "명",
+   "mean": "호흡",
+   "ex": "While photosynthesis operates only during day, <b>respiration</b> goes on both night and day.",
+   "exKo": "광합성은 낮에 일어나지만 호흡은 밤과 낮에 모두 일어난다.",
+   "derived": [
+    [
+     "respiratory",
+     "호흡의, 호흡기관의"
+    ],
+    [
+     "⚠ perspiration",
+     "(혼동 주의) 땀, 발한"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1291",
+   "word": "cure",
+   "ph": "[kjuər]",
+   "pos": "명·동",
+   "mean": "(명) 치료법 / (동) 치료하다",
+   "ex": "Sadly, however, there was no <b>cure</b> for the rare condition.",
+   "exKo": "하지만 안타깝게도 그 희귀병에는 치료법이 없었습니다.",
+   "derived": [],
+   "syn": [
+    [
+     "treatment",
+     "치료, 처리, 대우"
+    ],
+    [
+     "therapy",
+     "치료, 요법"
+    ],
+    [
+     "heal",
+     "치유하다, 치료하다"
+    ]
+   ]
+  },
+  {
+   "no": "1292",
+   "word": "anatomy",
+   "ph": "[ənǽtəmi]",
+   "pos": "명",
+   "mean": "해부학, 구조, 몸",
+   "ex": "I never studied <b>anatomy</b>.",
+   "exKo": "해부학은 공부해 본 적이 없어요.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1293",
+   "word": "rage",
+   "ph": "[reidʒ]",
+   "pos": "명·동",
+   "mean": "(명) 분노, 폭력 사태 / (동) 몹시 화를 내다",
+   "ex": "A tide of <b>rage</b> surged through her.",
+   "exKo": "거센 분노의 파도가 솟구쳐 그녀를 사로잡았다.",
+   "derived": [
+    [
+     "range",
+     "범위, 범위를 이루다"
+    ]
+   ],
+   "syn": [
+    [
+     "anger",
+     "분노"
+    ]
+   ]
+  },
+  {
+   "no": "1294",
+   "word": "intersection",
+   "ph": "[ìntərsékʃən]",
+   "pos": "명",
+   "mean": "사거리, 교차점",
+   "ex": "To reduce accidents at the <b>intersection</b>, we have to change the traffic lights system.",
+   "exKo": "그 교차로에서의 사고를 줄이기 위해서 우리는 신호등 체계를 바꿔야 한다.",
+   "derived": [],
+   "syn": [
+    [
+     "juncture",
+     "연결, 접합, 시점"
+    ],
+    [
+     "junction",
+     "합류점, 연결, 교차점"
+    ]
+   ]
+  },
+  {
+   "no": "1295",
+   "word": "land",
+   "ph": "[lænd]",
+   "pos": "명·동",
+   "mean": "(명) 땅, 토지 / (동) 착륙하다",
+   "ex": "Despite some problems, the plane safely <b>landed</b> on the runway.",
+   "exKo": "몇몇 문제가 있었지만 비행기는 활주로에 안전하게 착륙했다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1296",
+   "word": "erect",
+   "ph": "[irékt]",
+   "pos": "형·동",
+   "mean": "(형) 직립인, 똑바로 선 / (동) 짓다, 세우다",
+   "ex": "He kept his upper body <b>erect</b>.",
+   "exKo": "그는 상체를 똑바로 세웠다.",
+   "derived": [
+    [
+     "⚠ elect",
+     "(혼동 주의) 선출하다, 당선된"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1297",
+   "word": "expectancy",
+   "ph": "[ikspéktənsi]",
+   "pos": "명",
+   "mean": "예상, 기대감",
+   "ex": "There was an air of <b>expectancy</b> among the waiting crowd.",
+   "exKo": "기다리는 사람들 사이에 기대감이 돌았다.",
+   "derived": [
+    [
+     "life expectancy",
+     "기대수명"
+    ]
+   ],
+   "syn": [
+    [
+     "anticipation",
+     "기대, 예상"
+    ]
+   ]
+  },
+  {
+   "no": "1298",
+   "word": "spare",
+   "ph": "[spɛər]",
+   "pos": "형·동",
+   "mean": "(형) 남는, 여분의 / (동) 할애하다",
+   "ex": "Are there any tickets going <b>spare</b>?",
+   "exKo": "표가 남는 게 있나요?",
+   "derived": [],
+   "syn": [
+    [
+     "reserve",
+     "예비의, 준비의, 남겨두다, 예약하다"
+    ]
+   ]
+  },
+  {
+   "no": "1299",
+   "word": "merit",
+   "ph": "[mérit]",
+   "pos": "명·동",
+   "mean": "(명) 장점, 성과, 가치 / (동) ~할 자격이 있다",
+   "ex": "As asserted in the definition of this debate, competition creates <b>merit</b>.",
+   "exKo": "이 논쟁의 정의에서 주장하는 것처럼 경쟁은 장점을 만들어낸다.",
+   "derived": [],
+   "syn": [
+    [
+     "excellence",
+     "우수함, 장점"
+    ],
+    [
+     "deserve",
+     "~할 자격이 있다"
+    ]
+   ]
+  },
+  {
+   "no": "1300",
+   "word": "gender",
+   "ph": "[dʒéndər]",
+   "pos": "명",
+   "mean": "성, 성별",
+   "ex": "Regardless of age, skin color, <b>gender</b>, look, and background, everyone is important and precious.",
+   "exKo": "나이, 피부 색, 성별, 외모, 그리고 배경에 상관 없이 모든 사람들이 중요하고 소중해.",
+   "derived": [],
+   "syn": []
+  }
+ ]
+}
