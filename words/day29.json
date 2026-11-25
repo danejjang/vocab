@@ -1,0 +1,899 @@
+{
+ "day": "DAY 29",
+ "words": [
+  {
+   "no": "1401",
+   "word": "craft",
+   "ph": "[kræft]",
+   "pos": "명·동",
+   "mean": "(명) 공예, 기술 / (동) 공들여 만들다",
+   "ex": "You will enjoy fun and creative nature <b>craft</b> activities, performances, and exhibitions!",
+   "exKo": "여러분은 재미있고 창조적인 자연 공예 행사, 공연과 전시회를 즐길 것입니다!",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1402",
+   "word": "artery",
+   "ph": "[áːrtəri]",
+   "pos": "명",
+   "mean": "동맥",
+   "ex": "<b>Artery</b> is a blood vessel that carries blood from the heart to other parts of the body.",
+   "exKo": "동맥은 피를 심장으로부터 신체의 다른 부위들로 나르는 혈관이다.",
+   "derived": [
+    [
+     "vein",
+     "정맥, 맥락"
+    ],
+    [
+     "blood vessel",
+     "혈관, 핏줄"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1403",
+   "word": "worship",
+   "ph": "[wə́ːrʃip]",
+   "pos": "명·동",
+   "mean": "(명) 예배, 숭배 / (동) 예배하다",
+   "ex": "They fell prostrate in <b>worship</b>.",
+   "exKo": "그들은 바닥에 엎드려 예배를 올렸다.",
+   "derived": [],
+   "syn": [
+    [
+     "revere",
+     "존경하다, 숭배하다"
+    ],
+    [
+     "honor",
+     "존경하다, 기리다"
+    ]
+   ]
+  },
+  {
+   "no": "1404",
+   "word": "vocation",
+   "ph": "[voukéiʃən]",
+   "pos": "명",
+   "mean": "직업, 생업, 소명 의식",
+   "ex": "He has a <b>vocation</b> for teaching.",
+   "exKo": "그는 가르치는 일에 소명 의식을 갖고 있다.",
+   "derived": [
+    [
+     "⚠ vacation",
+     "(혼동 주의) 휴가, 자리비움, 공백"
+    ]
+   ],
+   "syn": [
+    [
+     "profession",
+     "직업, 직종"
+    ],
+    [
+     "occupation",
+     "직업, 점령"
+    ]
+   ]
+  },
+  {
+   "no": "1405",
+   "word": "belly",
+   "ph": "[béli]",
+   "pos": "명·동",
+   "mean": "(명) 배 / (동) 부풀리다",
+   "ex": "They said his spleen was enlarged, which was causing his <b>belly</b> to swell.",
+   "exKo": "그들은 그의 비장이 늘어나 그의 배가 부풀어 올랐다고 말했다.",
+   "derived": [],
+   "syn": [
+    [
+     "abdomen",
+     "배, 복부"
+    ],
+    [
+     "stomach",
+     "배, 위"
+    ]
+   ]
+  },
+  {
+   "no": "1406",
+   "word": "indigestion",
+   "ph": "[ìndaidʒéstʃən]",
+   "pos": "명",
+   "mean": "소화불량, 미숙",
+   "ex": "Whenever I eat spicy and hot foods, which I like very much, they give me <b>indigestion</b>.",
+   "exKo": "양념이 많이 되고 매운 음식을 나는 정말 좋아하는데, 그런 음식을 먹을 때마다 소화가 잘 안 된다.",
+   "derived": [
+    [
+     "congestion",
+     "혼잡, 정체"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1407",
+   "word": "funeral",
+   "ph": "[fjúːnərəl]",
+   "pos": "명",
+   "mean": "장례식",
+   "ex": "Flags were flown at half mast on the day of his <b>funeral</b>.",
+   "exKo": "그의 장례식 날에는 조기가 게양되었다.",
+   "derived": [],
+   "syn": [
+    [
+     "memorial service",
+     "추모식, 장례식"
+    ]
+   ]
+  },
+  {
+   "no": "1408",
+   "word": "garage",
+   "ph": "[gərɑ́ːdʒ]",
+   "pos": "명·동",
+   "mean": "(명) 차고, 주차장, 차량 수리소 / (동) (차를) 두다",
+   "ex": "She put the car in the <b>garage</b> and instead took the bicycle.",
+   "exKo": "그녀는 차를 차고에 넣고 대신에 자전거를 탔다.",
+   "derived": [
+    [
+     "⚠ garbage",
+     "(혼동 주의) 쓰레기, 찌꺼기"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1409",
+   "word": "inflation",
+   "ph": "[infléiʃən]",
+   "pos": "명",
+   "mean": "물가상승, 인플레이션",
+   "ex": "<b>Inflation</b> means a persistent rise in the price levels, leading to a fall in the currency's purchasing power.",
+   "exKo": "인플레이션은 통화의 구매력 감소로 이어지는 지속적인 물가수준의 상승을 의미한다.",
+   "derived": [
+    [
+     "inflammation",
+     "염증"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1410",
+   "word": "lawsuit",
+   "ph": "[lɔ́ːsjùːt]",
+   "pos": "명",
+   "mean": "소송, 고소",
+   "ex": "Two of the employees have filed a <b>lawsuit</b> against their former employer.",
+   "exKo": "그 직원들 중 두 명이 그들의 전 고용주를 고소했다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1411",
+   "word": "lifeguard",
+   "ph": "[láifgɑ̀ːrd]",
+   "pos": "명·동",
+   "mean": "(명) 인명 구조원 / (동) 생명을 지키다",
+   "ex": "If the <b>lifeguard</b> had not come to his rescue, he would have drowned in the sea.",
+   "exKo": "인명 구조원이 그를 구조하지 않았다면 그는 바다에서 익사했을 것이다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1412",
+   "word": "merchandise",
+   "ph": "[mə́ːrtʃəndàiz]",
+   "pos": "명",
+   "mean": "상품, 물품",
+   "ex": "The USA was the largest producer of electronic <b>merchandises</b> both in 2001 and in 2004.",
+   "exKo": "미국은 2001년과 2004년에 전자제품의 가장 큰 생산국이었다.",
+   "derived": [],
+   "syn": [
+    [
+     "goods",
+     "상품, 물품, 재화"
+    ]
+   ]
+  },
+  {
+   "no": "1413",
+   "word": "ratio",
+   "ph": "[réiʃou]",
+   "pos": "명",
+   "mean": "비율",
+   "ex": "The college has a 20:1 <b>ratio</b> between students and professors.",
+   "exKo": "그 대학은 학생과 교수의 비율이 20:1이다.",
+   "derived": [
+    [
+     "ration",
+     "할당하다, 배급량, 배급"
+    ]
+   ],
+   "syn": [
+    [
+     "proportion",
+     "비율, 비례"
+    ],
+    [
+     "rate",
+     "비율, 속도"
+    ]
+   ]
+  },
+  {
+   "no": "1414",
+   "word": "vacuum",
+   "ph": "[vǽkjuəm]",
+   "pos": "명형동",
+   "mean": "(명) 진공, 공백 / (형) 진공의 / (동) (진공청소기로) 청소하다",
+   "ex": "<b>Vacuum</b> cleaners work by suction.",
+   "exKo": "진공청소기는 흡입을 이용해 일을 한다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1415",
+   "word": "transition",
+   "ph": "[trænzíʃən]",
+   "pos": "명·동",
+   "mean": "(명) 변천, 이행, 과도기 / (동) 이행하다",
+   "ex": "The <b>transition</b> from school to work can be difficult.",
+   "exKo": "학교 생활에서 직장 생활로 옮겨가는 일은 힘들 수 있다.",
+   "derived": [],
+   "syn": [
+    [
+     "fulfillment",
+     "이행"
+    ]
+   ]
+  },
+  {
+   "no": "1416",
+   "word": "extinction",
+   "ph": "[ikstíŋkʃən]",
+   "pos": "명",
+   "mean": "멸종, 소멸",
+   "ex": "The mountain gorilla is on the verge of <b>extinction</b>.",
+   "exKo": "산악 고릴라는 멸종 직전에 있다.",
+   "derived": [
+    [
+     "⚠ distinction",
+     "(혼동 주의) 구별, 차이"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1417",
+   "word": "revelation",
+   "ph": "[rèvəléiʃən]",
+   "pos": "명",
+   "mean": "계시, 폭로, 공개",
+   "ex": "The book includes many shocking <b>revelation</b> about the politician's personal life.",
+   "exKo": "그 책에는 그 정치인의 개인적인 생활에 대한 많은 충격적인 폭로가 들어있다.",
+   "derived": [],
+   "syn": [
+    [
+     "leak",
+     "누설, 유출, 누설되다"
+    ],
+    [
+     "disclosure",
+     "노출"
+    ]
+   ]
+  },
+  {
+   "no": "1418",
+   "word": "mine",
+   "ph": "[main]",
+   "pos": "명·동",
+   "mean": "(명) 광산, 나의 것, 지뢰 / (동) 채굴하다",
+   "ex": "The diamond was unearthed in the Cullinan <b>mine</b> near Pretoria, South Africa.",
+   "exKo": "이 다이아몬드는 남아프리카의 프레토리아 근처, 컬리넌 광산에서 발견되었다.",
+   "derived": [],
+   "syn": [
+    [
+     "pit",
+     "갱도, 채굴장"
+    ]
+   ]
+  },
+  {
+   "no": "1419",
+   "word": "fossil",
+   "ph": "[fásl]",
+   "pos": "명",
+   "mean": "화석",
+   "ex": "A <b>fossil</b> of the fish dates it as roughly 400 million years old!",
+   "exKo": "이 물고기의 화석은 대략 4억 년이나 된 것이랍니다.",
+   "derived": [],
+   "syn": [
+    [
+     "relic",
+     "유물, 유적, 유골"
+    ],
+    [
+     "remain(s)",
+     "유적, 유물"
+    ]
+   ]
+  },
+  {
+   "no": "1420",
+   "word": "embassy",
+   "ph": "[émbəsi]",
+   "pos": "명",
+   "mean": "대사관, 외국 공관",
+   "ex": "I explained to her how to get to the U.S. <b>Embassy</b>.",
+   "exKo": "나는 그녀에게 미국 대사관에 가는 방법을 설명해 주었어.",
+   "derived": [
+    [
+     "ambassador",
+     "대사"
+    ],
+    [
+     "diplomat",
+     "외교관"
+    ],
+    [
+     "consulate",
+     "영사관"
+    ],
+    [
+     "summit",
+     "정상, 정상회담"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1421",
+   "word": "pathogen",
+   "ph": "[pǽθədʒən]",
+   "pos": "명",
+   "mean": "병원균, 미생물",
+   "ex": "The researchers discovered a dangerous <b>pathogen</b> that was responsible for the rapid spread of the disease across several regions.",
+   "exKo": "연구원들은 여러 지역에 걸쳐 질병이 빠르게 퍼진 원인이 된 위험한 병원체를 발견했다.",
+   "derived": [],
+   "syn": [
+    [
+     "germ",
+     "세균, 병균, 미생물"
+    ],
+    [
+     "microbe",
+     "미생물, 세균"
+    ]
+   ]
+  },
+  {
+   "no": "1422",
+   "word": "punctuation",
+   "ph": "[pʌ̀ŋktʃuéiʃən]",
+   "pos": "명",
+   "mean": "구두점, 중단",
+   "ex": "You can add <b>punctuation</b> to writing to separate phrases and sentences, to show that something is a question, etc.",
+   "exKo": "구들과 문장들을 구분하기 위해서, 어떤 글이 질문이라는 것을 나타내기 위해서, 그리고 기타 등등의 목적을 위해서 글에 구두점을 넣을 수 있다.",
+   "derived": [
+    [
+     "⚠ pronunciation",
+     "(혼동 주의) 발음"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1423",
+   "word": "sled",
+   "ph": "[sled]",
+   "pos": "명·동",
+   "mean": "(명) 썰매 / (동) 썰매를 타다",
+   "ex": "A lot of people in Alaska have dogs at home and use these dogs to pull the <b>sled</b>.",
+   "exKo": "알래스카의 많은 사람들은 집에 개들을 데리고 있는데, 썰매를 끄는 데 이 개들을 이용한다.",
+   "derived": [
+    [
+     "⚠ shed",
+     "(혼동 주의) 떨어뜨리다, 흘리다"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1424",
+   "word": "cycle",
+   "ph": "[sáikl]",
+   "pos": "명·동",
+   "mean": "(명) 순환, 주기 / (동) 순환하다",
+   "ex": "In the <b>cycle</b> of life and business, we have times when we must break the rhythm of failure and loss.",
+   "exKo": "우리는 생활과 일의 순환에서 반복되는 실패와 상실의 리듬을 깨야 할 때가 있다.",
+   "derived": [
+    [
+     "vicious cycle",
+     "악순환 (= vicious circle)"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1425",
+   "word": "dilemma",
+   "ph": "[dilémə]",
+   "pos": "명",
+   "mean": "딜레마, 궁지, 진퇴양난",
+   "ex": "Today a lot of women are faced with the <b>dilemma</b> of choosing between work and family commitments.",
+   "exKo": "오늘날 많은 여성들이 일과 가정에의 헌신 사이에서 선택을 해야 하는 딜레마에 직면해 있다.",
+   "derived": [],
+   "syn": [
+    [
+     "predicament",
+     "곤경, 궁지"
+    ],
+    [
+     "quandary",
+     "진퇴양난"
+    ]
+   ]
+  },
+  {
+   "no": "1426",
+   "word": "profit",
+   "ph": "[práfit]",
+   "pos": "명·동",
+   "mean": "(명) 이익 / (동) 이익을 얻다 (from), 이익을 주다",
+   "ex": "The stock markets are showing stability and investors are marking <b>profits</b>.",
+   "exKo": "주식 시장은 안정세를 보이고 있고 투자가들은 이익을 내고 있다.",
+   "derived": [
+    [
+     "net profit",
+     "순이익"
+    ]
+   ],
+   "syn": [
+    [
+     "proceeds",
+     "수익금, 수입, 이익금"
+    ]
+   ]
+  },
+  {
+   "no": "1427",
+   "word": "dormitory",
+   "ph": "[dɔ́ːrmitɔ̀ːri]",
+   "pos": "명",
+   "mean": "기숙사, 숙소",
+   "ex": "If you want to live in the <b>dormitory</b>, you have to agree to abide by its rules.",
+   "exKo": "기숙사에서 생활하고 싶다면 기숙사 규칙을 지키겠다는 동의를 해야만 한다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1428",
+   "word": "poverty",
+   "ph": "[pávərti]",
+   "pos": "명",
+   "mean": "가난, 빈곤",
+   "ex": "<b>Poverty</b> forced them to leave their native lands for the New World against their will.",
+   "exKo": "그들은 가난으로 인해 그들의 의지와는 상관없이 본토를 떠나 신세계로 가야 했다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1429",
+   "word": "anxiety",
+   "ph": "[æŋzáiəti]",
+   "pos": "명",
+   "mean": "불안, 불안증, 열망",
+   "ex": "There is <b>anxiety</b> about the rising tide of crime.",
+   "exKo": "범죄의 물결이 거세지는 데 대한 불안이 있다.",
+   "derived": [
+    [
+     "be anxious for/ to ®",
+     "~을 갈망하다"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1430",
+   "word": "discomfort",
+   "ph": "[diskʌ́mfərt]",
+   "pos": "명",
+   "mean": "불편함",
+   "ex": "In this modern world, people are not used to living with <b>discomfort</b>.",
+   "exKo": "오늘날의 현대 세계에서 사람들은 불편하게 사는 것에 익숙하지 않다.",
+   "derived": [],
+   "syn": [
+    [
+     "inconvenience",
+     "불편, 폐"
+    ],
+    [
+     "uneasiness",
+     "불안, 걱정, 불쾌"
+    ]
+   ]
+  },
+  {
+   "no": "1431",
+   "word": "persistence",
+   "ph": "[pərsístəns]",
+   "pos": "명",
+   "mean": "인내, 고집, 집요함",
+   "ex": "Her <b>persistence</b> was finally rewarded by a reply from the editor.",
+   "exKo": "그녀의 집요함은 마침내 그 편집장으로부터 응답을 받음으로써 보상을 받았다.",
+   "derived": [],
+   "syn": [
+    [
+     "perseverance",
+     "끈기, 인내심"
+    ]
+   ]
+  },
+  {
+   "no": "1432",
+   "word": "epoch",
+   "ph": "[épək]",
+   "pos": "명",
+   "mean": "시대, 시기",
+   "ex": "The death of the emperor marked the end of an <b>epoch</b> in the country's history.",
+   "exKo": "그 황제의 죽음은 그 나라 역사에서 한 시대의 종결을 나타내는 것이었다.",
+   "derived": [],
+   "syn": [
+    [
+     "period",
+     "시기"
+    ],
+    [
+     "era",
+     "시대"
+    ]
+   ]
+  },
+  {
+   "no": "1433",
+   "word": "nectar",
+   "ph": "[néktər]",
+   "pos": "명",
+   "mean": "꿀, 과즙",
+   "ex": "Honey is a sweet food made by bees using <b>nectar</b> from flowers.",
+   "exKo": "꿀은 벌이 꽃의 과즙을 이용하여 만든 달콤한 식품이다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1434",
+   "word": "pavement",
+   "ph": "[péivmənt]",
+   "pos": "명",
+   "mean": "포장된 도로",
+   "ex": "It is hard for street trees to survive with only foot-square holes in the <b>pavement</b>.",
+   "exKo": "가로수가 포장된 도로에 난 1평방피트의 구멍이만 가지고 생존하기는 어렵다.",
+   "derived": [
+    [
+     "alley",
+     "오솔길, 골목길"
+    ],
+    [
+     "curb",
+     "도로 턱"
+    ],
+    [
+     "boulevard",
+     "도로, 대로"
+    ],
+    [
+     "avenue",
+     "대로, 거리, 진입로"
+    ],
+    [
+     "aisle",
+     "복도, 통로"
+    ],
+    [
+     "corridor",
+     "복도, 통로"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1435",
+   "word": "monarch",
+   "ph": "[mánərk]",
+   "pos": "명",
+   "mean": "군주, 거물",
+   "ex": "An absolute <b>monarch</b> is a ruler who has full control over his country.",
+   "exKo": "절대 군주는 자신의 국가에 대한 완전한 지배권을 가진 통치자이다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1436",
+   "word": "cosmetic",
+   "ph": "[kazmétik]",
+   "pos": "형",
+   "mean": "미용의, 성형의",
+   "ex": "A younger look through <b>cosmetic</b> surgery may give an older employee a few more years on the job.",
+   "exKo": "성형 수술을 통해 더 젊어진 얼굴은 나이든 직원을 그 직장에 몇 년 더 있게 해 줄 수도 있다.",
+   "derived": [
+    [
+     "cosmetic surgery",
+     "성형수술"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1437",
+   "word": "draft",
+   "ph": "[dræft]",
+   "pos": "명·동",
+   "mean": "(명) 초안, 입안 / (동) 초안을 작성하다",
+   "ex": "The U.N. member states agreed on a <b>draft</b> of the SDGs in August.",
+   "exKo": "유엔 회원국들은 8월에 이 지속 가능한 개발 목표의 초안에 합의했다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1438",
+   "word": "division",
+   "ph": "[divíʒən]",
+   "pos": "명",
+   "mean": "분할, 나눗셈, 분열",
+   "ex": "The <b>division</b> was rooted in slavery.",
+   "exKo": "그 분열은 노예제에 뿌리를 두고 있습니다.",
+   "derived": [],
+   "syn": [
+    [
+     "section",
+     "부분, 구역"
+    ],
+    [
+     "classification",
+     "분류, 구분"
+    ]
+   ]
+  },
+  {
+   "no": "1439",
+   "word": "effect",
+   "ph": "[ifékt]",
+   "pos": "명·동",
+   "mean": "(명) 영향, 효과 / (동) 초래하다",
+   "ex": "Reports say the new rules will go into <b>effect</b> in August.",
+   "exKo": "새로운 법안은 8월에 효력이 발생될 것이다.",
+   "derived": [
+    [
+     "affect",
+     "~에게 영향을 주다, 정서"
+    ],
+    [
+     "have an effect on",
+     "~에게 영향을 주다"
+    ],
+    [
+     "put into effect",
+     "실행하다"
+    ],
+    [
+     "effective",
+     "효과적인, 효과가 있는"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1440",
+   "word": "discrepancy",
+   "ph": "[diskrépənsi]",
+   "pos": "명",
+   "mean": "불일치, 모순, 차이",
+   "ex": "The auditors discovered a huge <b>discrepancy</b> in the account information and the company's assets.",
+   "exKo": "감사들은 그 회사의 회계 내용과 자산에서 큰 차이를 발견했다.",
+   "derived": [],
+   "syn": [
+    [
+     "disagreement",
+     "이견, 불일치, 불화, 논쟁"
+    ],
+    [
+     "dissimilarity",
+     "차이점"
+    ],
+    [
+     "disparity",
+     "격차, 차이"
+    ]
+   ]
+  },
+  {
+   "no": "1441",
+   "word": "specimen",
+   "ph": "[spésəmən]",
+   "pos": "명",
+   "mean": "표본, 견본",
+   "ex": "Museums pay large amounts of money for good dinosaur fossil <b>specimen</b>.",
+   "exKo": "박물관들은 훌륭한 공룡 화석 표본을 위해 많은 돈을 지불한다.",
+   "derived": [],
+   "syn": [
+    [
+     "sample",
+     "견본, 표본, 샘플"
+    ]
+   ]
+  },
+  {
+   "no": "1442",
+   "word": "aspiration",
+   "ph": "[æ̀spəréiʃən]",
+   "pos": "명",
+   "mean": "열망, 염원, 포부",
+   "ex": "Coins reflect both a country's history and its <b>aspiration</b>.",
+   "exKo": "동전은 한 나라의 역사와 열망을 반영한다.",
+   "derived": [
+    [
+     "aspire",
+     "열망하다, 추구하다"
+    ]
+   ],
+   "syn": [
+    [
+     "ambition",
+     "대망, 야심, 야망"
+    ],
+    [
+     "eagerness",
+     "열의, 열망"
+    ],
+    [
+     "passion",
+     "열정, 흥미, 감정"
+    ]
+   ]
+  },
+  {
+   "no": "1443",
+   "word": "donor",
+   "ph": "[dóunər]",
+   "pos": "명",
+   "mean": "기부자, 기증자",
+   "ex": "It is very sad to see some patients die before a suitable <b>donor</b> is found.",
+   "exKo": "몇몇 환자들이 적합한 기증자가 발견되기 전에 사망하는 것을 보는 것은 매우 슬픈 일이다.",
+   "derived": [],
+   "syn": [
+    [
+     "donator",
+     "기부자, 기증자"
+    ]
+   ]
+  },
+  {
+   "no": "1444",
+   "word": "sole",
+   "ph": "[soul]",
+   "pos": "형·명",
+   "mean": "(형) 유일한, 혼자의 / (명) 발바닥",
+   "ex": "Her <b>sole</b> aim is personal aggrandizement.",
+   "exKo": "그녀의 유일한 목적은 개인적인 지위 확대이다.",
+   "derived": [],
+   "syn": [
+    [
+     "single",
+     "단일의, 유일한"
+    ],
+    [
+     "solitary",
+     "혼자의, 단독의"
+    ]
+   ]
+  },
+  {
+   "no": "1445",
+   "word": "pigment",
+   "ph": "[pígmənt]",
+   "pos": "명",
+   "mean": "색소",
+   "ex": "A <b>pigment</b> called chlorophyll, which is responsible for the green colors of plants, absorbs some of the energy of light.",
+   "exKo": "식물의 녹색의 원인인 엽록소라고 불리는 색소가 빛 에너지의 일부를 흡수한다.",
+   "derived": [],
+   "syn": [
+    [
+     "coloring",
+     "색소"
+    ]
+   ]
+  },
+  {
+   "no": "1446",
+   "word": "manual",
+   "ph": "[mǽnjuəl]",
+   "pos": "명·형",
+   "mean": "(명) 설명서 / (형) 수동의, 육체노동의",
+   "ex": "The game is educational because it does not come with an instruction <b>manual</b>.",
+   "exKo": "그 게임은 사용 안내서가 나오지 않기 때문에 교육적입니다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1447",
+   "word": "doctrine",
+   "ph": "[dáktrin]",
+   "pos": "명",
+   "mean": "교리, 신조, 원칙",
+   "ex": "He claimed that Marxist <b>doctrine</b> had gone too far in its attacks on capitalism.",
+   "exKo": "그는 마르크스주의가 자본주의를 공격하는 데 있어서 도를 넘었다고 주장했다.",
+   "derived": [],
+   "syn": [
+    [
+     "principle",
+     "원칙, 원리, 법칙"
+    ],
+    [
+     "dogma",
+     "신조, 교리"
+    ]
+   ]
+  },
+  {
+   "no": "1448",
+   "word": "parliament",
+   "ph": "[pɑ́ːrləmənt]",
+   "pos": "명",
+   "mean": "국회, 의회",
+   "ex": "His idea was welcomed by many people in the <b>parliament</b>.",
+   "exKo": "그의 생각은 국회의 많은 사람들로부터 환영 받았다.",
+   "derived": [],
+   "syn": [
+    [
+     "assembly",
+     "의회, 집회"
+    ],
+    [
+     "congress",
+     "국회, 의회, 학회"
+    ]
+   ]
+  },
+  {
+   "no": "1449",
+   "word": "surface",
+   "ph": "[sə́ːrfis]",
+   "pos": "명·동",
+   "mean": "(명) 표면 / (동) 수면으로 올라오다",
+   "ex": "Flatten the <b>surface</b> of the grass with a roller.",
+   "exKo": "잔디 표면을 롤러로 납작하게 만들어라.",
+   "derived": [],
+   "syn": [
+    [
+     "facade",
+     "정면, 표면"
+    ],
+    [
+     "superficial",
+     "피상적인, 표면의, 표면적인"
+    ]
+   ]
+  },
+  {
+   "no": "1450",
+   "word": "stock",
+   "ph": "[stak]",
+   "pos": "명·동",
+   "mean": "(명) 재고품, 축적, 주식, 가축 / (동) 들여놓다, 보관하다",
+   "ex": "We have a fast turnover of <b>stock</b>.",
+   "exKo": "우리는 재고품이 빠르게 회전됩니다.",
+   "derived": [],
+   "syn": [
+    [
+     "merchandise",
+     "상품, 제품, 재고품"
+    ]
+   ]
+  }
+ ]
+}
