@@ -1,0 +1,888 @@
+{
+ "day": "DAY 32",
+ "words": [
+  {
+   "no": "1551",
+   "word": "strain",
+   "ph": "[strein]",
+   "pos": "명·동",
+   "mean": "(명) 부담, 품종 / (동) 부담을 주다",
+   "ex": "These repayments are putting a <b>strain</b> on our finances.",
+   "exKo": "이들 부채 상환이 우리 재정에 부담을 주고 있다.",
+   "derived": [],
+   "syn": [
+    [
+     "pressure",
+     "압박, 중압, 강제"
+    ]
+   ]
+  },
+  {
+   "no": "1552",
+   "word": "psychology",
+   "ph": "[saikálədʒi]",
+   "pos": "명",
+   "mean": "심리학, 심리",
+   "ex": "As consumer <b>psychology</b> rises, so do sales at department stores.",
+   "exKo": "소비 심리가 상승하면, 백화점 매출도 상승한다.",
+   "derived": [
+    [
+     "⚠ psychiatry",
+     "(혼동 주의) 정신 의학"
+    ],
+    [
+     "⚠ physiology",
+     "(혼동 주의) 생리학"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1553",
+   "word": "fair",
+   "ph": "[fɛər]",
+   "pos": "형·명",
+   "mean": "(형) 공정한, 꽤 많은 / (명) 전시회",
+   "ex": "The manager always tries to be <b>fair</b> when assigning tasks to employees.",
+   "exKo": "그 매니저는 직원들에게 업무를 배분할 때 항상 공정하려고 노력한다.",
+   "derived": [
+    [
+     "display",
+     "진열, 전시"
+    ],
+    [
+     "bazaar",
+     "장터, 자선 전시 행사"
+    ],
+    [
+     "exhibition",
+     "전시회"
+    ],
+    [
+     "fairness",
+     "공정, 공정한"
+    ],
+    [
+     "⚠ fare",
+     "(혼동 주의) 비용"
+    ]
+   ],
+   "syn": [
+    [
+     "just",
+     "정의로운, 공정한"
+    ],
+    [
+     "impartial",
+     "편견 없는, 중립적인"
+    ],
+    [
+     "unbiased",
+     "편견 없는, 공정한"
+    ]
+   ]
+  },
+  {
+   "no": "1554",
+   "word": "phobia",
+   "ph": "[fóubiə]",
+   "pos": "명",
+   "mean": "공포증",
+   "ex": "If so, you have to consider whether you have a <b>phobia</b>.",
+   "exKo": "만일 그렇다면, 당신은 공포증을 가지고 있을지 모른다.",
+   "derived": [],
+   "syn": [
+    [
+     "fear",
+     "공포, 공포심"
+    ],
+    [
+     "dread",
+     "두려움"
+    ],
+    [
+     "terror",
+     "공포"
+    ]
+   ]
+  },
+  {
+   "no": "1555",
+   "word": "motion",
+   "ph": "[móuʃən]",
+   "pos": "명·동",
+   "mean": "(명) 운동, 동작 / (동) 동작을 해 보이다",
+   "ex": "One exercise that can be done even at home is the slow-<b>motion</b> running.",
+   "exKo": "집에서도 할 수 있는 한 가지 운동은 천천히 달리는 운동이다.",
+   "derived": [],
+   "syn": [
+    [
+     "action",
+     "행동, 동작"
+    ],
+    [
+     "activity",
+     "활동, 행위"
+    ]
+   ]
+  },
+  {
+   "no": "1556",
+   "word": "physics",
+   "ph": "[fíziks]",
+   "pos": "명",
+   "mean": "물리학",
+   "ex": "The Fabric of the Cosmos helps even laymen understand complicated modern <b>physics</b>.",
+   "exKo": "<우주의 구조>는 복잡한 현대 물리학을 아마추어들도 이해하도록 돕고 있습니다.",
+   "derived": [
+    [
+     "physicist",
+     "물리학자"
+    ],
+    [
+     "physician",
+     "의사"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1557",
+   "word": "biodiversity",
+   "ph": "[bàioudaivə́ːrsəti]",
+   "pos": "명",
+   "mean": "(생물) 다양성",
+   "ex": "That is the tragedy of <b>biodiversity</b> loss.",
+   "exKo": "그것은 생물 다양성 손실의 비극입니다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1558",
+   "word": "drill",
+   "ph": "[dril]",
+   "pos": "명·동",
+   "mean": "(명) 반복 연습, 학습 / (동) 뚫다",
+   "ex": "In the pronunciation <b>drill</b> period, learners will correct every error.",
+   "exKo": "발음 연습 기간에 학습자들은 모든 잘못된 부분들을 교정할 것이다.",
+   "derived": [],
+   "syn": [
+    [
+     "training",
+     "훈련, 교육, 트레이닝"
+    ]
+   ]
+  },
+  {
+   "no": "1559",
+   "word": "spectacle",
+   "ph": "[spéktəkl]",
+   "pos": "명",
+   "mean": "장관, 광경, 구경거리",
+   "ex": "The carnival parade was a magnificent <b>spectacle</b>.",
+   "exKo": "그 카니발 행렬은 굉장한 구경거리였다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1560",
+   "word": "curriculum",
+   "ph": "[kəríkjələm]",
+   "pos": "명",
+   "mean": "교육과정",
+   "ex": "Languages, both native and foreign, are an essential part of the school <b>curriculum</b>.",
+   "exKo": "언어는, 자국어와 외국어 둘 다, 학교 교육과정의 필수적인 한 부분이다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1561",
+   "word": "subsistence",
+   "ph": "[səbsístəns]",
+   "pos": "명",
+   "mean": "생존, 생계, 존재",
+   "ex": "More than a quarter of the population live below the <b>subsistence</b> level.",
+   "exKo": "그 인구의 1/4 이상이 생존 수준 이하로 살고 있다.",
+   "derived": [
+    [
+     "subsist",
+     "연명하다, 유효하다"
+    ]
+   ],
+   "syn": [
+    [
+     "livelihood",
+     "생계, 민생, 생활"
+    ]
+   ]
+  },
+  {
+   "no": "1562",
+   "word": "element",
+   "ph": "[éləmənt]",
+   "pos": "명",
+   "mean": "요소, 위험, 부류",
+   "ex": "It is just not the only <b>element</b> for excellent performance.",
+   "exKo": "그것이 훌륭한 성과를 위한 유일한 요소는 아니라는 이야기다.",
+   "derived": [],
+   "syn": [
+    [
+     "ingredient",
+     "재료, 성분"
+    ],
+    [
+     "component",
+     "성분, 구성 요소, 부품"
+    ],
+    [
+     "constituent",
+     "성분, 구성하는"
+    ]
+   ]
+  },
+  {
+   "no": "1563",
+   "word": "disgust",
+   "ph": "[disgʌ́st]",
+   "pos": "명",
+   "mean": "혐오감, 메스꺼움, 역겨움",
+   "ex": "Each face conveyed a sense of anger, happiness, surprise, <b>disgust</b>, or a neutral expression.",
+   "exKo": "각각의 얼굴은 화, 행복, 놀라움, 메스꺼움 혹은 중립 표정의 모습을 담고 있었다.",
+   "derived": [],
+   "syn": [
+    [
+     "aversion",
+     "혐오, 반감, 아주 싫은 것"
+    ],
+    [
+     "antipathy",
+     "반감, 혐오"
+    ],
+    [
+     "distaste",
+     "혐오, 거부, 싫음"
+    ]
+   ]
+  },
+  {
+   "no": "1564",
+   "word": "generative",
+   "ph": "[dʒénərèitiv]",
+   "pos": "형",
+   "mean": "생성의, 생산하는, 창의적인",
+   "ex": "<b>Generative</b> AI models are capable of producing original content from learned patterns.",
+   "exKo": "생성형 AI 모델은 학습된 패턴으로부터 독창적인 콘텐츠를 만들어낼 수 있다.",
+   "derived": [
+    [
+     "generate",
+     "생성하다, 발생시키다"
+    ],
+    [
+     "generator",
+     "발전기, 생성기"
+    ],
+    [
+     "generation",
+     "세대, 발생"
+    ],
+    [
+     "generative model",
+     "생성(형) 모델"
+    ]
+   ],
+   "syn": [
+    [
+     "creative",
+     "창의적인"
+    ],
+    [
+     "productive",
+     "생산적인"
+    ]
+   ]
+  },
+  {
+   "no": "1565",
+   "word": "disadvantage",
+   "ph": "[dìsədvǽntidʒ]",
+   "pos": "명",
+   "mean": "손해, 약점, 불리",
+   "ex": "The benefits of messy play far outweigh the <b>disadvantage</b> of a few spots of paint or mud.",
+   "exKo": "어지르기 놀이의 이점은 페인트나 진흙 얼룩 몇 개에 불과한 단점보다 훨씬 더 크다.",
+   "derived": [],
+   "syn": [
+    [
+     "drawback",
+     "결점, 단점, 결함"
+    ],
+    [
+     "weakness",
+     "약점, 약함, 부진"
+    ],
+    [
+     "downside",
+     "불리한 점, 하강, 하락세"
+    ]
+   ]
+  },
+  {
+   "no": "1566",
+   "word": "capacity",
+   "ph": "[kəpǽsəti]",
+   "pos": "명",
+   "mean": "용량, 능력, 지위",
+   "ex": "You must also have the \"<b>capacity</b>\" to understand the different abilities each member has.",
+   "exKo": "당신은 또한, 각 팀원이 가진 다른 능력들을 이해할 수 있는 '능력'이 있어야 한다.",
+   "derived": [],
+   "syn": [
+    [
+     "ability",
+     "능력"
+    ],
+    [
+     "capability",
+     "능력, 가능성"
+    ]
+   ]
+  },
+  {
+   "no": "1567",
+   "word": "astronomy",
+   "ph": "[əstránəmi]",
+   "pos": "명",
+   "mean": "천문학",
+   "ex": "Mr. Kim has devoted his life to <b>astronomy</b>.",
+   "exKo": "Mr. Kim은 그의 인생 전체를 천문학에 헌신하였다.",
+   "derived": [
+    [
+     "astrology",
+     "점성술"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1568",
+   "word": "shortcoming",
+   "ph": "[ʃɔ́ːrtkʌ̀miŋ]",
+   "pos": "명",
+   "mean": "단점, 결점, 약점",
+   "ex": "In spite of its <b>shortcoming</b>s, his theory was regarded as important.",
+   "exKo": "그의 이론은 약점이 있었음에도 불구하고 중요한 것으로 여겨졌다.",
+   "derived": [],
+   "syn": [
+    [
+     "drawback",
+     "결점, 단점, 결함"
+    ],
+    [
+     "defect",
+     "결함, 장애, 결여"
+    ]
+   ]
+  },
+  {
+   "no": "1569",
+   "word": "transaction",
+   "ph": "[trænsǽkʃən]",
+   "pos": "명",
+   "mean": "거래, 처리",
+   "ex": "For the <b>transaction</b>, we need your signature here on the screen.",
+   "exKo": "거래를 위해서, 여기 화면에 서명해 주시기 바랍니다.",
+   "derived": [],
+   "syn": [
+    [
+     "deal",
+     "거래, 매매"
+    ]
+   ]
+  },
+  {
+   "no": "1570",
+   "word": "crisis",
+   "ph": "[kráisəs]",
+   "pos": "명",
+   "mean": "위기, 최악의 고비",
+   "ex": "In the last several months Greece experienced a financial <b>crisis</b>.",
+   "exKo": "지난 몇 개월 동안 그리스는 경제 위기를 겪었다.",
+   "derived": [
+    [
+     "critical",
+     "위태로운, 비판적인, 중대한"
+    ]
+   ],
+   "syn": [
+    [
+     "danger",
+     "위험, 위기, 경고, 우려"
+    ],
+    [
+     "predicament",
+     "곤경, 곤란함, 어려움"
+    ]
+   ]
+  },
+  {
+   "no": "1571",
+   "word": "content",
+   "ph": "[kəntént]",
+   "pos": "명·형·동",
+   "mean": "(명) 내용(물), 목차 / (형) 만족하는 / (동) 만족시키다",
+   "ex": "It's is really a matter of style rather than <b>content</b>.",
+   "exKo": "그것은 내용보다는 스타일의 문제이다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1572",
+   "word": "suburb",
+   "ph": "[sʌ́bəːrb]",
+   "pos": "명",
+   "mean": "교외",
+   "ex": "They live in a wealthy <b>suburb</b> of Chicago.",
+   "exKo": "그들은 시카고의 부유한 교외 지역에 산다.",
+   "derived": [],
+   "syn": [
+    [
+     "outskirts",
+     "외곽, 변두리"
+    ]
+   ]
+  },
+  {
+   "no": "1573",
+   "word": "provision",
+   "ph": "[prəvíʒən]",
+   "pos": "명·동",
+   "mean": "(명) 공급, 조항, 규정 / (동) 공급하다",
+   "ex": "The <b>provision</b> of good public transport will be essential for developing the area.",
+   "exKo": "훌륭한 대중교통을 제공하는 것이 그 지역의 발전을 위해서 필수적이다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1574",
+   "word": "troop",
+   "ph": "[truːp]",
+   "pos": "명·동",
+   "mean": "(명) 병력, 군대 / (동) (무리를 지어) 걸어가다",
+   "ex": "The <b>troop</b> was composed entirely of American soldiers.",
+   "exKo": "그 부대는 전적으로 미국 병사들로 구성되어 있었다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1575",
+   "word": "predilection",
+   "ph": "[prèdəlékʃən]",
+   "pos": "명",
+   "mean": "편애, 좋아함",
+   "ex": "She has the <b>predilection</b> of having pedicures done in sparkling green colors.",
+   "exKo": "그녀는 발톱을 반짝이는 녹색으로 칠하는 것을 좋아한다.",
+   "derived": [],
+   "syn": [
+    [
+     "penchant",
+     "경향, 기호"
+    ],
+    [
+     "preference",
+     "선호"
+    ],
+    [
+     "fondness",
+     "기호, 취미"
+    ]
+   ]
+  },
+  {
+   "no": "1576",
+   "word": "mutation",
+   "ph": "[mju(ː)téiʃən]",
+   "pos": "명",
+   "mean": "돌연변이, 변화, 변이",
+   "ex": "Viruses of many kinds have changed forms; these changes are mainly caused by <b>mutation</b>.",
+   "exKo": "많은 종류의 바이러스들은 형태를 변형시켜왔는데, 이러한 변화들은 주로 돌연변이에 의해서 일어난다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1577",
+   "word": "passport",
+   "ph": "[pǽspɔːrt]",
+   "pos": "명",
+   "mean": "여권",
+   "ex": "If your <b>passport</b> is lost or stolen overseas, please contact the nearest U.S. Embassy.",
+   "exKo": "해외에서 여권을 잃어버리거나 도난 당했을 경우에는 가까운 미국 대사관에 연락하십시오.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1578",
+   "word": "retailer",
+   "ph": "[ríːteilər]",
+   "pos": "명",
+   "mean": "소매 상인, 소매점",
+   "ex": "The company is known as a leading <b>retailer</b> of athletic shoes.",
+   "exKo": "그 회사는 선두적인 운동화 소매업체로 알려져 있다.",
+   "derived": [
+    [
+     "wholesaler",
+     "도매상, 도매업자"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1579",
+   "word": "shade",
+   "ph": "[ʃeid]",
+   "pos": "명·동",
+   "mean": "(명) 그늘, 가리개 / (동) 가리다",
+   "ex": "The sunlight was so strong that she was sitting in the <b>shade</b> of a large tree.",
+   "exKo": "햇살이 너무 강해서 그녀는 큰 나무의 그늘에 앉아 있었다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1580",
+   "word": "speculation",
+   "ph": "[spèkjəléiʃən]",
+   "pos": "명",
+   "mean": "추측, 생각, 투기",
+   "ex": "Aristotle turned aside from his philosophical and ethical <b>speculation</b> to make a study of the adolescent.",
+   "exKo": "아리스토텔레스는 철학적이고 윤리적인 성찰에서 눈을 돌려 청소년에 대한 연구를 하였다.",
+   "derived": [],
+   "syn": [
+    [
+     "surmise",
+     "추측하다, 추측"
+    ]
+   ]
+  },
+  {
+   "no": "1581",
+   "word": "prompt",
+   "ph": "[prampt]",
+   "pos": "형·동",
+   "mean": "(형) 신속한, 기민한 / (동) 촉발하다",
+   "ex": "We thank you for your <b>prompt</b> attention to this matter.",
+   "exKo": "본 건에 대하여 귀하의 즉각적인 처리에 감사드립니다.",
+   "derived": [],
+   "syn": [
+    [
+     "immediate",
+     "신속한, 즉각적인"
+    ],
+    [
+     "cause",
+     "초래하다, 일으키다"
+    ]
+   ]
+  },
+  {
+   "no": "1582",
+   "word": "livestock",
+   "ph": "[láivstàk]",
+   "pos": "명",
+   "mean": "가축, 축산물",
+   "ex": "The <b>livestock</b> itself is another contributor to the environmental harm.",
+   "exKo": "가축 그 자체가 또 다른 환경 파괴의 주범이다.",
+   "derived": [],
+   "syn": [
+    [
+     "cattle",
+     "소, 가축"
+    ]
+   ]
+  },
+  {
+   "no": "1583",
+   "word": "fate",
+   "ph": "[feit]",
+   "pos": "명·동",
+   "mean": "(명) 운명, 천명, 죽음 / (동) -할 운명이다",
+   "ex": "Many are now worried about the <b>fate</b> of India and its people.",
+   "exKo": "현재 대부분은 인도의 운명과 국민들에 대해 걱정하고 있다.",
+   "derived": [
+    [
+     "⚠ fade",
+     "(혼동 주의) 사라지다"
+    ]
+   ],
+   "syn": [
+    [
+     "destiny",
+     "운명, 숙명"
+    ],
+    [
+     "doom",
+     "운명, 파멸, 운명 짓다"
+    ]
+   ]
+  },
+  {
+   "no": "1584",
+   "word": "comment",
+   "ph": "[kάment]",
+   "pos": "명·동",
+   "mean": "(명) 논평, 의견, 비평 / (동) 논평하다, 말하다",
+   "ex": "I have received positive <b>comment</b>s from many of my readers, and I really appreciate it.",
+   "exKo": "저는 저의 많은 독자들로부터 긍정적인 의견들을 받았는데, 그 점에 대해 매우 감사히 여깁니다.",
+   "derived": [],
+   "syn": [
+    [
+     "remark",
+     "발언, 말, 언급"
+    ]
+   ]
+  },
+  {
+   "no": "1585",
+   "word": "parachute",
+   "ph": "[pǽrəʃùːt]",
+   "pos": "명·동",
+   "mean": "(명) 낙하산 / (동) 투하하다",
+   "ex": "Former president George Bush made two <b>parachute</b> jumps to mark his 80th birthday.",
+   "exKo": "조지 부시 전(前)대통령은 자신의 80번째 생일을 기념하여 두 번의 낙하산 점프를 선보였다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1586",
+   "word": "blanket",
+   "ph": "[blǽŋkit]",
+   "pos": "명·동",
+   "mean": "(명) 담요 / (동) (완전히) 뒤덮다",
+   "ex": "An unusually rainy period can produce \"super blooms,\" where even the Atacama becomes <b>blanket</b>ed in wildflowers.",
+   "exKo": "유난히 비가 많이 오는 시기는 \"슈퍼 블룸\"을 만들어 낼 수 있는데, 그곳에서 아타카마조차도 야생화로 뒤덮이게 된다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1587",
+   "word": "core",
+   "ph": "[kɔːr]",
+   "pos": "명·형",
+   "mean": "(명) 핵심, 속, 중심부 / (형) 핵심의",
+   "ex": "<b>Core</b> people's individual accomplishments directly lead to the organization's success.",
+   "exKo": "핵심 인력들의 개별 업적은 조직의 성공과 직접 이어진다.",
+   "derived": [],
+   "syn": [
+    [
+     "essence",
+     "본질, 정수"
+    ]
+   ]
+  },
+  {
+   "no": "1588",
+   "word": "endeavor",
+   "ph": "[endévər]",
+   "pos": "명·동",
+   "mean": "(명) 노력 / (동) 노력하다",
+   "ex": "For one thing, there's an essential human factor in every business <b>endeavor</b>.",
+   "exKo": "한 예를 든다면, 모든 경영의 노력에는 필수적인 인적 요인이 있다.",
+   "derived": [],
+   "syn": [
+    [
+     "effort",
+     "노력, 작업, 활동"
+    ],
+    [
+     "toil",
+     "수고, 수고하다"
+    ],
+    [
+     "exertion",
+     "노력, 진력, 행사"
+    ]
+   ]
+  },
+  {
+   "no": "1589",
+   "word": "leftover",
+   "ph": "[léftòuvər]",
+   "pos": "명",
+   "mean": "남은 음식, 나머지, 찌꺼기",
+   "ex": "How many times have you wrapped up <b>leftover</b> when eating out?",
+   "exKo": "당신은 외식을 하러 가서 남은 음식을 싸온 적이 몇 번이나 됩니까?",
+   "derived": [],
+   "syn": [
+    [
+     "residue",
+     "잔류물, 남아있는"
+    ]
+   ]
+  },
+  {
+   "no": "1590",
+   "word": "paradigm",
+   "ph": "[pǽrədàim]",
+   "pos": "명",
+   "mean": "패러다임, 모범, 전형적인 예",
+   "ex": "The book provides us with a new <b>paradigm</b> for modern biography.",
+   "exKo": "그 책은 현대적 전기의 새로운 전형적인 양식을 제공한다.",
+   "derived": [],
+   "syn": [
+    [
+     "standard",
+     "기준, 표준, 수준"
+    ],
+    [
+     "archetype",
+     "원형, 전형"
+    ]
+   ]
+  },
+  {
+   "no": "1591",
+   "word": "circuit",
+   "ph": "[sə́ːrkit]",
+   "pos": "명·동",
+   "mean": "(명) 순환, 회로 / (동) 일주하다, 순회하다",
+   "ex": "And what I hope to do, when I make these connections, is short <b>circuit</b> people's thinking.",
+   "exKo": "제가 이러한 연결고리들을 만들 때 제가 하고자 하는 것은 사람들의 사고를 빠르게 순회하는 것입니다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1592",
+   "word": "bullying",
+   "ph": "[búliiŋ]",
+   "pos": "명",
+   "mean": "괴롭힘, 폭력",
+   "ex": "But <b>bullying</b> still remains a rampant practice among many students and juveniles.",
+   "exKo": "그러나 괴롭힘은 많은 학생들과 청소년들 사이에 여전히 만연해 있다.",
+   "derived": [
+    [
+     "bully",
+     "괴롭히다, 폭력, (학폭) 가해자"
+    ]
+   ],
+   "syn": [
+    [
+     "harassment",
+     "괴롭힘, 애먹음"
+    ]
+   ]
+  },
+  {
+   "no": "1593",
+   "word": "award",
+   "ph": "[əwɔ́ːrd]",
+   "pos": "명·동",
+   "mean": "(명) 상 / (동) 수여하다",
+   "ex": "He accepted the <b>award</b> with characteristic modesty.",
+   "exKo": "그는 특유의 겸손한 태도로 그 상을 수락했다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1594",
+   "word": "function",
+   "ph": "[fʌ́ŋkʃən]",
+   "pos": "명·동",
+   "mean": "(명) 기능, 행사, 함수 / (동) 기능하다, 작용하다",
+   "ex": "Your heart is not designed to live and <b>function</b> outside of your body.",
+   "exKo": "당신의 심장은 신체 밖에서 기능하도록 설계되지 않았습니다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1595",
+   "word": "insistent",
+   "ph": "[insístənt]",
+   "pos": "형",
+   "mean": "끈덕진, 집요한, 고집하는",
+   "ex": "He was <b>insistent</b> that we should stop the construction.",
+   "exKo": "그는 우리가 그 공사를 중단해야 한다고 우겼다.",
+   "derived": [],
+   "syn": [
+    [
+     "obstinate",
+     "완고한, 고집 센"
+    ],
+    [
+     "stubborn",
+     "고집 센, 완고한, 끈질긴"
+    ]
+   ]
+  },
+  {
+   "no": "1596",
+   "word": "memorial",
+   "ph": "[məmɔ́ːriəl]",
+   "pos": "명·형",
+   "mean": "(명) 기념비 / (형) 기념하기 위한, 추도의",
+   "ex": "The aquarium is planning to build a <b>memorial</b> in his honor.",
+   "exKo": "수족관은 그를 위해 기념비를 세울 계획입니다.",
+   "derived": [
+    [
+     "memorize",
+     "암기하다, 학습하다"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1597",
+   "word": "seminar",
+   "ph": "[sémənɑ̀ːr]",
+   "pos": "명",
+   "mean": "세미나, 토론식 수업",
+   "ex": "They are giving a <b>seminar</b> on the latest developments in genetic engineering next week.",
+   "exKo": "그들은 유전공학의 최근의 발전에 대한 세미나를 다음 주에 열 것이다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1598",
+   "word": "sentence",
+   "ph": "[séntəns]",
+   "pos": "명·동",
+   "mean": "(명) 문장, 선고, 판결 / (동) 선고하다",
+   "ex": "His <b>sentence</b> was overturned by the appeal court.",
+   "exKo": "그에 대한 판결은 항소 법정에서 뒤집혔다.",
+   "derived": [
+    [
+     "be sentenced to",
+     "-의 형을 받다"
+    ]
+   ],
+   "syn": [
+    [
+     "punishment",
+     "형벌, 처벌"
+    ]
+   ]
+  },
+  {
+   "no": "1599",
+   "word": "atmosphere",
+   "ph": "[ǽtməsfìər]",
+   "pos": "명",
+   "mean": "대기, 분위기",
+   "ex": "The gloomy <b>atmosphere</b> in the office oppressed her.",
+   "exKo": "사무실 내의 침울한 분위기가 그녀를 우울하게 했다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1600",
+   "word": "chaos",
+   "ph": "[kéiɑs]",
+   "pos": "명",
+   "mean": "혼돈, 혼란",
+   "ex": "<b>Chaos</b> arrived at a time of economic turmoil for the impoverished country of Pakistan.",
+   "exKo": "가난한 국가 파키스탄이 경제적 위기를 겪고 있는 때에 혼란이 발생했다.",
+   "derived": [],
+   "syn": [
+    [
+     "confusion",
+     "혼란, 논란, 현기증"
+    ]
+   ]
+  }
+ ]
+}
