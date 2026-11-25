@@ -1,0 +1,1016 @@
+{
+ "day": "DAY 15",
+ "words": [
+  {
+   "no": "0701",
+   "word": "proscribe",
+   "ph": "[prouskráib]",
+   "pos": "동",
+   "mean": "금지하다, 추방하다",
+   "ex": "Under Hitler, the works of Heine were <b>proscribed</b>.",
+   "exKo": "히틀러 정권 하에서는 하이네의 작품이 금지되었다.",
+   "derived": [
+    [
+     "⚠ prescribe",
+     "(혼동 주의) 처방하다, 규정하다"
+    ]
+   ],
+   "syn": [
+    [
+     "forbid",
+     "금지하다, 어렵게 하다"
+    ],
+    [
+     "prohibit",
+     "금지하다, 막다"
+    ],
+    [
+     "ban",
+     "금지, 못하다"
+    ]
+   ]
+  },
+  {
+   "no": "0702",
+   "word": "infer",
+   "ph": "[infə́ːr]",
+   "pos": "동",
+   "mean": "추론하다, 뜻하다, 암시하다",
+   "ex": "From the way he behaved, I should <b>infer</b> that he was drunk.",
+   "exKo": "그의 거동으로 보아 그가 취해 있었다고 추측한다.",
+   "derived": [
+    [
+     "refer (to)",
+     "지칭하다, 언급하다, 참고하다"
+    ]
+   ],
+   "syn": [
+    [
+     "deduce",
+     "추론하다"
+    ]
+   ]
+  },
+  {
+   "no": "0703",
+   "word": "define",
+   "ph": "[difáin]",
+   "pos": "동",
+   "mean": "정의하다, 규정하다",
+   "ex": "He <b>defined</b> exactly what the topic was, and why he would win the debate.",
+   "exKo": "그는 정확하게 주제가 무엇인지와 왜 그가 토론에서 승리할지를 정의했다.",
+   "derived": [
+    [
+     "definition",
+     "정의, 개념"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "0704",
+   "word": "crawl",
+   "ph": "[krɔːl]",
+   "pos": "동·명",
+   "mean": "(동) 기다, 기어가다 / (명) 기어가기",
+   "ex": "It can also <b>crawl</b> on the floor like a baby!",
+   "exKo": "아기처럼 바닥을 기어다닐 수도 있대요!",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0705",
+   "word": "confine",
+   "ph": "[kánfain]",
+   "pos": "동",
+   "mean": "국한시키다, 넣다, 가두다",
+   "ex": "And we don't even need to <b>confine</b> ourselves to this macro vision.",
+   "exKo": "그리고 우리가 꼭 이런 거시적인 비전에만 국한할 필요가 없습니다.",
+   "derived": [],
+   "syn": [
+    [
+     "suppress",
+     "억제하다, 진압하다"
+    ],
+    [
+     "circumscribe",
+     "~을 제한하다"
+    ],
+    [
+     "contain",
+     "포함하다, 억제하다"
+    ]
+   ]
+  },
+  {
+   "no": "0706",
+   "word": "ascend",
+   "ph": "[əsénd]",
+   "pos": "동",
+   "mean": "오르다, 올라가다, 상승하다",
+   "ex": "In addition, William spoke no English despite his efforts when he <b>ascended</b> the throne.",
+   "exKo": "게다가 윌리엄이 왕좌에 올랐을 때, 그의 노력에도 불구하고 영어를 하지 못했다.",
+   "derived": [
+    [
+     "descend",
+     "내려가다"
+    ]
+   ],
+   "syn": [
+    [
+     "soar",
+     "치솟다, 증가하다, 급등하다"
+    ],
+    [
+     "surge",
+     "급등하다, 급등"
+    ]
+   ]
+  },
+  {
+   "no": "0707",
+   "word": "regard",
+   "ph": "[rigáːrd]",
+   "pos": "동·명",
+   "mean": "(동) A를 B로 여기다 (regard A as B), ~을 보다 / (명) 관심, 고려",
+   "ex": "We <b>regard</b> health as inversely related to social class.",
+   "exKo": "우리는 건강이 사회적인 계층과 반비례 관계에 있다고 본다.",
+   "derived": [],
+   "syn": [
+    [
+     "think of A as B",
+     "A를 B로 생각하다"
+    ],
+    [
+     "view A as B",
+     "A를 B로 간주하다"
+    ]
+   ]
+  },
+  {
+   "no": "0708",
+   "word": "resolve",
+   "ph": "[rizálv]",
+   "pos": "동",
+   "mean": "해결하다, 다짐하다",
+   "ex": "How can we <b>resolve</b> this apparent contradiction?",
+   "exKo": "이 뚜렷한 모순을 어떻게 해결하죠?",
+   "derived": [],
+   "syn": [
+    [
+     "settle",
+     "해결하다"
+    ]
+   ]
+  },
+  {
+   "no": "0709",
+   "word": "respect",
+   "ph": "[rispékt]",
+   "pos": "동·명",
+   "mean": "(동) 존경하다 / (명) 존경, 존중",
+   "ex": "She promised to <b>respect</b> our wishes.",
+   "exKo": "그녀는 우리의 바람을 존중하겠다고 약속했다.",
+   "derived": [],
+   "syn": [
+    [
+     "admire",
+     "존경하다, 동경하다"
+    ],
+    [
+     "revere",
+     "존경하다"
+    ],
+    [
+     "look up to",
+     "존경하다"
+    ]
+   ]
+  },
+  {
+   "no": "0710",
+   "word": "stimulate",
+   "ph": "[stímjəlèit]",
+   "pos": "동",
+   "mean": "자극하다, 활성화시키다",
+   "ex": "Parents should give children books that <b>stimulate</b> them.",
+   "exKo": "부모는 자녀들에게 흥미를 불러일으킬 수 있는 책을 주어야 한다.",
+   "derived": [
+    [
+     "stimulus",
+     "자극제, 고무"
+    ],
+    [
+     "⚠ simulate",
+     "(혼동 주의) 모방하다, 시뮬레이션하다"
+    ],
+    [
+     "⚠ emulate",
+     "(혼동 주의) 모방하다, 본받다"
+    ]
+   ],
+   "syn": [
+    [
+     "arouse",
+     "자극하다"
+    ],
+    [
+     "provoke",
+     "자극하다, 도발하다"
+    ]
+   ]
+  },
+  {
+   "no": "0711",
+   "word": "brag",
+   "ph": "[bræg]",
+   "pos": "동",
+   "mean": "자랑하다",
+   "ex": "The mother always <b>bragged</b> that her daughter was the best student in her class.",
+   "exKo": "그 어머니는 자신의 딸이 반에서 가장 우수한 학생이라고 항상 자랑했다.",
+   "derived": [],
+   "syn": [
+    [
+     "boast",
+     "자랑하다, 떠벌리다"
+    ]
+   ]
+  },
+  {
+   "no": "0712",
+   "word": "collide",
+   "ph": "[kəláid]",
+   "pos": "동",
+   "mean": "충돌하다, 부딪히다",
+   "ex": "A car and a truck <b>collided</b> on the road, resulting in two deaths.",
+   "exKo": "자동차와 트럭이 도로에서 충돌하여 두 명의 사망자를 낳았다.",
+   "derived": [],
+   "syn": [
+    [
+     "clash",
+     "충돌하다, 전투하다"
+    ]
+   ]
+  },
+  {
+   "no": "0713",
+   "word": "bribe",
+   "ph": "[braib]",
+   "pos": "동·명",
+   "mean": "(동) 뇌물을 주다, 매수하다 / (명) 뇌물",
+   "ex": "In the process they <b>bribed</b> other government officials to aid their efforts.",
+   "exKo": "이 과정에서 이들은 공모를 위해 다른 공무원에게 금품을 제공했다.",
+   "derived": [
+    [
+     "⚠ bride",
+     "(혼동 주의) 신부"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "0714",
+   "word": "develop",
+   "ph": "[divéləp]",
+   "pos": "동",
+   "mean": "발달하다, 발전시키다, 병에 걸리다, 전개시키다",
+   "ex": "Each country has <b>developed</b> their own ways to enjoy ice cream.",
+   "exKo": "각 나라들은 아이스크림을 즐기는 고유한 방법들을 개발했습니다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0715",
+   "word": "suffer",
+   "ph": "[sʌ́fər]",
+   "pos": "동",
+   "mean": "겪다, 고통을 받다, 앓다",
+   "ex": "It shows total disrespect to those who died and to those still <b>suffer</b> with the mental scars.",
+   "exKo": "그것은 죽은 사람들과 아직도 정신적 상처로 고통 받는 사람들에 대한 완전한 무례함을 보여준다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0716",
+   "word": "comfort",
+   "ph": "[kʌ́mfərt]",
+   "pos": "동·명",
+   "mean": "(동) 위로하다, 달래다 / (명) 위로",
+   "ex": "Five therapy dogs <b>comforted</b> victims after the Boston Marathon bombing.",
+   "exKo": "다섯 마리의 치유견들이 보스톤 마라톤 폭파사건 이후 피해자들을 달래주었다.",
+   "derived": [],
+   "syn": [
+    [
+     "console",
+     "위로하다"
+    ],
+    [
+     "soothe",
+     "진정시키다, 완화하다"
+    ],
+    [
+     "hearten",
+     "~을 격려하다, ~의 기운을 북돋우다"
+    ]
+   ]
+  },
+  {
+   "no": "0717",
+   "word": "reverse",
+   "ph": "[rivə́ːrs]",
+   "pos": "동·명",
+   "mean": "(동) 뒤바꾸다, 뒤집다 / (명) 반대",
+   "ex": "This problem is the <b>reverse</b> of the previous one.",
+   "exKo": "이 문제는 이전 것과 정반대이다.",
+   "derived": [],
+   "syn": [
+    [
+     "revoke",
+     "뒤집다"
+    ]
+   ]
+  },
+  {
+   "no": "0718",
+   "word": "explore",
+   "ph": "[iksplɔ́ːr]",
+   "pos": "동",
+   "mean": "탐험하다, 탐구하다, 살피다",
+   "ex": "Breathe the fresh air, <b>explore</b> nature, and check out the insects.",
+   "exKo": "맑은 공기를 마시고, 자연을 탐구하며, 곤충들을 살펴보세요.",
+   "derived": [
+    [
+     "explorer",
+     "탐험가, 탐구자"
+    ]
+   ],
+   "syn": [
+    [
+     "investigate",
+     "조사하다, 수사하다, 살피다"
+    ],
+    [
+     "inquire into",
+     "~을 조사하다"
+    ]
+   ]
+  },
+  {
+   "no": "0719",
+   "word": "glow",
+   "ph": "[glou]",
+   "pos": "동·명",
+   "mean": "(동) 빛나다, 타다 / (명) 불빛",
+   "ex": "Buildings and towers in the capital city of Germany <b>glow</b> beautifully at night!",
+   "exKo": "독일 수도의 건물들과 탑들은 밤에 아름답게 빛납니다!",
+   "derived": [],
+   "syn": [
+    [
+     "shine",
+     "빛나다, 빛, 광내다"
+    ],
+    [
+     "sparkle",
+     "반짝이다, 빛나다, 활기"
+    ]
+   ]
+  },
+  {
+   "no": "0720",
+   "word": "breed",
+   "ph": "[briːd]",
+   "pos": "동·명",
+   "mean": "(동) 새끼를 낳다, 사육하다 / (명) 품종",
+   "ex": "Many animals <b>breed</b> only at certain times of the year.",
+   "exKo": "많은 동물들이 일년 중에 특정한 시기에만 새끼를 낳는다.",
+   "derived": [
+    [
+     "⚠ bleed",
+     "(혼동 주의) 피흘리다"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "0721",
+   "word": "forecast",
+   "ph": "[fɔ́ːrkæ̀st]",
+   "pos": "동·명",
+   "mean": "(동) 예상하다, 예측하다 / (명) 예측",
+   "ex": "Can you <b>forecast</b> where the economy is heading?",
+   "exKo": "경제가 어디로 향하고 있는지 예측이 되세요?",
+   "derived": [],
+   "syn": [
+    [
+     "predict",
+     "예상하다"
+    ],
+    [
+     "foretell",
+     "예견하다"
+    ],
+    [
+     "foresee",
+     "예견하다"
+    ]
+   ]
+  },
+  {
+   "no": "0722",
+   "word": "immigrate",
+   "ph": "[íməgrèit]",
+   "pos": "동",
+   "mean": "이주해 오다",
+   "ex": "It is easier to <b>immigrate</b> to Quebec than to other provinces.",
+   "exKo": "다른 지방보다 퀘벡으로 이주하는 것이 더 쉽다.",
+   "derived": [
+    [
+     "immigrant",
+     "이민자"
+    ],
+    [
+     "emigrate",
+     "이주해 나가다"
+    ]
+   ],
+   "syn": [
+    [
+     "migrate",
+     "이주하다"
+    ]
+   ]
+  },
+  {
+   "no": "0723",
+   "word": "interfere",
+   "ph": "[ìntərfíər]",
+   "pos": "동",
+   "mean": "방해하다 (with), 개입하다, 간섭하다 (in)",
+   "ex": "Don't <b>interfere</b> in what doesn't concern you.",
+   "exKo": "너하고 상관없는 일에 간섭하지 마.",
+   "derived": [],
+   "syn": [
+    [
+     "meddle",
+     "간섭하다, 참견하다"
+    ]
+   ]
+  },
+  {
+   "no": "0724",
+   "word": "appreciate",
+   "ph": "[əpríːʃièit]",
+   "pos": "동",
+   "mean": "진가를 알아보다, 감상하다, 이해하다, 감사하다",
+   "ex": "Her family doesn't <b>appreciate</b> her.",
+   "exKo": "그녀의 가족은 그녀의 진가를 알아주지 않는다.",
+   "derived": [
+    [
+     "appreciation",
+     "감탄, 감상, 공감, 감사"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "0725",
+   "word": "revise",
+   "ph": "[riváiz]",
+   "pos": "동",
+   "mean": "변경하다, 개정하다",
+   "ex": "I can see I will have to <b>revise</b> my opinions of his abilities now.",
+   "exKo": "이제 내가 그의 능력에 대한 나의 견해를 수정해야 한다는 것을 알겠다.",
+   "derived": [
+    [
+     "⚠ revive",
+     "(혼동 주의) 활기를 되찾다, 회복하다"
+    ]
+   ],
+   "syn": [
+    [
+     "modify",
+     "수정하다"
+    ],
+    [
+     "amend",
+     "개정하다, 수정하다"
+    ]
+   ]
+  },
+  {
+   "no": "0726",
+   "word": "broaden",
+   "ph": "[brɔ́ːdən]",
+   "pos": "동",
+   "mean": "넓히다, 넓어지다",
+   "ex": "She wanted to travel to <b>broaden</b> her horizons.",
+   "exKo": "그녀는 시야를 넓히기 위해 여행을 하고 싶었다.",
+   "derived": [],
+   "syn": [
+    [
+     "extend",
+     "연장하다, 확대하다"
+    ],
+    [
+     "enlarge",
+     "확대하다"
+    ]
+   ]
+  },
+  {
+   "no": "0727",
+   "word": "cherish",
+   "ph": "[tʃériʃ]",
+   "pos": "동",
+   "mean": "소중히 여기다, 아끼다, 간직하다",
+   "ex": "It shows that how much she loved and <b>cherished</b> numbers during her life.",
+   "exKo": "이것은 인생에서 그녀가 얼마나 숫자를 사랑했고 소중히 여겼는지 보여준다.",
+   "derived": [],
+   "syn": [
+    [
+     "adore",
+     "좋아하다"
+    ]
+   ]
+  },
+  {
+   "no": "0728",
+   "word": "alter",
+   "ph": "[ɔ́ːltər]",
+   "pos": "동",
+   "mean": "바꾸다, 달라지다, 변하다",
+   "ex": "Nothing can <b>alter</b> the fact that we are to blame.",
+   "exKo": "그 무엇으로도 우리에게 책임이 있다는 사실을 바꿀 수 없다.",
+   "derived": [
+    [
+     "alternative",
+     "대안, 양자택일의"
+    ]
+   ],
+   "syn": [
+    [
+     "change",
+     "바꾸다"
+    ],
+    [
+     "modify",
+     "바꾸다, 변경하다"
+    ]
+   ]
+  },
+  {
+   "no": "0729",
+   "word": "frighten",
+   "ph": "[fráitən]",
+   "pos": "동",
+   "mean": "겁먹게 만들다, 겁주다",
+   "ex": "They do not want to influence the animal's behavior or to <b>frighten</b> the animal.",
+   "exKo": "그들은 동물의 행동에 영향을 주거나 놀라게 하기를 원하지 않는다.",
+   "derived": [
+    [
+     "fright",
+     "겁, 놀람"
+    ]
+   ],
+   "syn": [
+    [
+     "scare",
+     "겁주다, 공포"
+    ],
+    [
+     "intimidate",
+     "~을 두려워하게 하다, ~을 협박하다, 겁먹게 하다"
+    ],
+    [
+     "get cold feet",
+     "겁먹다"
+    ]
+   ]
+  },
+  {
+   "no": "0730",
+   "word": "resign",
+   "ph": "[rizáin]",
+   "pos": "동",
+   "mean": "사임하다, 단념하다",
+   "ex": "Rumors are rife that he is going to <b>resign</b>.",
+   "exKo": "그가 사임할 것이라는 소문이 널리 퍼져 있다.",
+   "derived": [],
+   "syn": [
+    [
+     "step down",
+     "중도 하차하다"
+    ],
+    [
+     "renounce",
+     "포기하다, 그만두다, 의절하다"
+    ]
+   ]
+  },
+  {
+   "no": "0731",
+   "word": "conspire",
+   "ph": "[kənspáiər]",
+   "pos": "동",
+   "mean": "음모를 꾸미다, 공모하다",
+   "ex": "There was some evidence that he had been <b>conspiring</b> against our company.",
+   "exKo": "그가 우리 회사에 대하여 음모를 꾸미고 있었다는 몇몇 증거가 있었다.",
+   "derived": [],
+   "syn": [
+    [
+     "intrigue",
+     "음모를 꾸미다"
+    ],
+    [
+     "collude",
+     "공모하다, 결탁하다"
+    ],
+    [
+     "scheme",
+     "계략, 계획, 계략을 꾸미다"
+    ]
+   ]
+  },
+  {
+   "no": "0732",
+   "word": "detract",
+   "ph": "[ditrǽkt]",
+   "pos": "동",
+   "mean": "떨어뜨리다, 손상시키다, 딴 데로 돌리다",
+   "ex": "The role of photographer may actually <b>detract</b> from their delight in the present moment.",
+   "exKo": "사진사의 역할은 실제로는 현재 순간에서의 그것들의 즐거움을 감소시킬 수 있다.",
+   "derived": [],
+   "syn": [
+    [
+     "lessen",
+     "줄다, 줄이다"
+    ]
+   ]
+  },
+  {
+   "no": "0733",
+   "word": "exacerbate",
+   "ph": "[igzǽsərbèit]",
+   "pos": "동",
+   "mean": "악화시키다, 격분시키다",
+   "ex": "Global warming will <b>exacerbate</b> the problem, especially in poor, arid areas.",
+   "exKo": "지구 온난화는 특히 가난하고 건조한 지역에서 이 문제를 악화시킬 것이다.",
+   "derived": [
+    [
+     "⚠ exaggerate",
+     "(혼동 주의) 과장하다, 지나친"
+    ]
+   ],
+   "syn": [
+    [
+     "deteriorate",
+     "악화시키다"
+    ],
+    [
+     "worsen",
+     "악화시키다"
+    ]
+   ]
+  },
+  {
+   "no": "0734",
+   "word": "poke",
+   "ph": "[pouk]",
+   "pos": "동",
+   "mean": "찌르다, 쑤시다",
+   "ex": "He <b>poked</b> the boar caught in a trap with his finger to see if it was still alive.",
+   "exKo": "그는 덫에 걸린 멧돼지가 살아있는지 보려고 손가락으로 쿡쿡 찔러보았다.",
+   "derived": [],
+   "syn": [
+    [
+     "thrust",
+     "찌르다, 밀다"
+    ],
+    [
+     "nudge",
+     "찌르다"
+    ]
+   ]
+  },
+  {
+   "no": "0735",
+   "word": "enlighten",
+   "ph": "[inláitən]",
+   "pos": "동",
+   "mean": "계몽하다, 가르치다, 빛나게 하다",
+   "ex": "Education <b>enlightens</b> people and gives them so many chances.",
+   "exKo": "교육은 사람들을 계몽시키고, 그들에게 많은 기회를 준다.",
+   "derived": [],
+   "syn": [
+    [
+     "educate",
+     "교육하다"
+    ]
+   ]
+  },
+  {
+   "no": "0736",
+   "word": "contaminate",
+   "ph": "[kəntǽmənit]",
+   "pos": "동",
+   "mean": "오염시키다",
+   "ex": "It has been revealed that the water is <b>contaminated</b> with poisonous chemicals.",
+   "exKo": "그 물은 유독성 화학물질로 오염되어 있다는 사실이 드러났다.",
+   "derived": [],
+   "syn": [
+    [
+     "pollute",
+     "오염시키다, 분위기를 흐리다"
+    ]
+   ]
+  },
+  {
+   "no": "0737",
+   "word": "subscribe",
+   "ph": "[səbskráib]",
+   "pos": "동",
+   "mean": "구독하다, 가입하다, 청약하다",
+   "ex": "Which journals does the library <b>subscribe</b> to?",
+   "exKo": "이 도서관에서는 어떤 저널들을 구독하나요?",
+   "derived": [],
+   "syn": [
+    [
+     "take in",
+     "구독하다, 섭취하다, 속이다"
+    ]
+   ]
+  },
+  {
+   "no": "0738",
+   "word": "sue",
+   "ph": "[sjuː]",
+   "pos": "동",
+   "mean": "고소하다, 소송을 제기하다",
+   "ex": "She decided to <b>sue</b> her employer for wrongful dismissal.",
+   "exKo": "그녀는 자신의 고용주를 부당 해고로 고소하기로 결심했다.",
+   "derived": [],
+   "syn": [
+    [
+     "prosecute",
+     "기소하다, 공소하다"
+    ]
+   ]
+  },
+  {
+   "no": "0739",
+   "word": "arouse",
+   "ph": "[əráuz]",
+   "pos": "동",
+   "mean": "불러 일으키다, 자극하다",
+   "ex": "This new technology has <b>aroused</b> the interest of many consumers.",
+   "exKo": "이 신기술은 많은 소비자들의 관심을 불러일으켰다.",
+   "derived": [
+    [
+     "arise",
+     "발생하다"
+    ]
+   ],
+   "syn": [
+    [
+     "provoke",
+     "자극하다, 도발하다"
+    ],
+    [
+     "bring on",
+     "초래하다, 자극하다"
+    ],
+    [
+     "incite",
+     "선동하다, 조장하다"
+    ]
+   ]
+  },
+  {
+   "no": "0740",
+   "word": "charge",
+   "ph": "[tʃaːrdʒ]",
+   "pos": "동·명",
+   "mean": "(동) 청구하다, 고발하다, 충전하다 / (명) 고발, 요금, 비용",
+   "ex": "He also <b>charged</b> the former Ukraine prime minister with money laundering.",
+   "exKo": "또한 그는 전 우크라이나 총리에게 돈세탁 혐의를 두었다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0741",
+   "word": "submit",
+   "ph": "[səbmít]",
+   "pos": "동",
+   "mean": "제출하다, 항복하다",
+   "ex": "You must <b>submit</b> your claim within a reasonable time.",
+   "exKo": "당신은 합당한 시간 내에 청구서를 제출해야 한다.",
+   "derived": [],
+   "syn": [
+    [
+     "succumb",
+     "굴복하다, 압도당하다"
+    ],
+    [
+     "give in",
+     "굴복하다"
+    ],
+    [
+     "turn in",
+     "제출하다"
+    ]
+   ]
+  },
+  {
+   "no": "0742",
+   "word": "downplay",
+   "ph": "[dáunplèi]",
+   "pos": "동",
+   "mean": "경시하다, ~을 중시하지 않다",
+   "ex": "I have tried hard to notice my son's good acts and <b>downplay</b> his mistakes.",
+   "exKo": "나는 아들의 좋은 행동에 관심을 기울이고 아들의 실수는 중요하지 않게 여기려고 매우 노력해왔다.",
+   "derived": [],
+   "syn": [
+    [
+     "devalue",
+     "평가를 절하하다"
+    ],
+    [
+     "make light of",
+     "경시하다"
+    ]
+   ]
+  },
+  {
+   "no": "0743",
+   "word": "blossom",
+   "ph": "[blásəm]",
+   "pos": "동",
+   "mean": "(꽃이) 피다, 꽃을 피우다",
+   "ex": "After ten years of being friends, Martin and Anita's friendship <b>blossomed</b> into love.",
+   "exKo": "10년 동안 친구로 지낸 후에 마틴과 아니타의 우정은 사랑으로 꽃을 피웠다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "0744",
+   "word": "avert",
+   "ph": "[əvə́ːrt]",
+   "pos": "동",
+   "mean": "피하다, 회피하다, 돌리다",
+   "ex": "We all must join forces to <b>avert</b> generational conflict in rapid aging society.",
+   "exKo": "우리는 급속하게 고령화되어 가고 있는 사회에서 세대 간 갈등을 피하기 위해 함께 노력해야 할 것이다.",
+   "derived": [],
+   "syn": [
+    [
+     "avoid",
+     "피하다"
+    ],
+    [
+     "shun",
+     "피하다"
+    ],
+    [
+     "circumvent",
+     "피하다"
+    ]
+   ]
+  },
+  {
+   "no": "0745",
+   "word": "disregard",
+   "ph": "[dìsrigáːrd]",
+   "pos": "동",
+   "mean": "~을 무시하다, 등한시하다",
+   "ex": "Art reminds us of what we might have <b>disregarded</b> as unimportant.",
+   "exKo": "예술은 우리가 중요치 않다고 무시했던 것들을 우리에게 다시 상기시켜 준다.",
+   "derived": [],
+   "syn": [
+    [
+     "neglect",
+     "무시, 방치하다"
+    ],
+    [
+     "take no account of",
+     "~을 무시하다"
+    ],
+    [
+     "ignore",
+     "무시하다"
+    ]
+   ]
+  },
+  {
+   "no": "0746",
+   "word": "consult",
+   "ph": "[kánsʌlt]",
+   "pos": "동",
+   "mean": "상담하다, 상의하다, 찾아보다",
+   "ex": "While he is retired today, he still makes speeches and is <b>consulted</b> on these matters.",
+   "exKo": "그는 현재 은퇴했지만, 여전히 연설을 하고 그 문제들을 상담한다.",
+   "derived": [
+    [
+     "consultant",
+     "상담사, 컨설턴트"
+    ],
+    [
+     "consultation",
+     "상담, 협의, 자문"
+    ]
+   ],
+   "syn": [
+    [
+     "confer",
+     "협의하다, 상담하다, 수여하다"
+    ]
+   ]
+  },
+  {
+   "no": "0747",
+   "word": "bend",
+   "ph": "[bend]",
+   "pos": "동",
+   "mean": "굽히다, 구부리다",
+   "ex": "You have to <b>bend</b> your knees when landing on the ground to absorb the shock.",
+   "exKo": "땅에 착지할 때에는 충격을 흡수하기 위해서 무릎을 구부려야 한다.",
+   "derived": [
+    [
+     "⚠ blend",
+     "(혼동 주의) 섞다, 혼합하다"
+    ]
+   ],
+   "syn": [
+    [
+     "twist",
+     "꼬다, 구부리다, 반전"
+    ],
+    [
+     "distort",
+     "왜곡하다, 뒤틀다"
+    ]
+   ]
+  },
+  {
+   "no": "0748",
+   "word": "retire",
+   "ph": "[ritáiər]",
+   "pos": "동",
+   "mean": "은퇴하다, 철수하다",
+   "ex": "She fell badly, spraining her ankle, and had to <b>retire</b>.",
+   "exKo": "그녀는 심하게 넘어지면서 발목을 삐어 중도 탈락해야 했다.",
+   "derived": [
+    [
+     "retirement",
+     "은퇴, 퇴직, 회수"
+    ]
+   ],
+   "syn": [
+    [
+     "resign",
+     "물러나다, 단념하다"
+    ]
+   ]
+  },
+  {
+   "no": "0749",
+   "word": "sow",
+   "ph": "[sou]",
+   "pos": "동",
+   "mean": "(씨를) 뿌리다, 심다",
+   "ex": "<b>Sow</b> the seeds in rows.",
+   "exKo": "줄을 지어 씨를 뿌려라.",
+   "derived": [
+    [
+     "⚠ sew",
+     "(혼동 주의) 바느질하다"
+    ]
+   ],
+   "syn": [
+    [
+     "seed",
+     "씨를 뿌리다, 씨앗"
+    ]
+   ]
+  },
+  {
+   "no": "0750",
+   "word": "spell",
+   "ph": "[spel]",
+   "pos": "동·명",
+   "mean": "(동) 철자하다 / (명) 기간, 매력, 마법",
+   "ex": "Too many young people are unable to write or <b>spell</b> well.",
+   "exKo": "너무나 많은 젊은이들이 글이나 철자를 제대로 쓸 줄 모른다.",
+   "derived": [
+    [
+     "⚠ spill",
+     "(혼동 주의) 엎지르다, 유출(물)"
+    ]
+   ],
+   "syn": [
+    [
+     "charm",
+     "매력, 아름다움"
+    ]
+   ]
+  }
+ ]
+}
