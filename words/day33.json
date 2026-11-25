@@ -1,0 +1,832 @@
+{
+ "day": "DAY 33",
+ "words": [
+  {
+   "no": "1601",
+   "word": "digestion",
+   "ph": "[didʒéstʃən]",
+   "pos": "명",
+   "mean": "소화, 소화력",
+   "ex": "Probiotics have positive health benefits that aid <b>digestion</b> and the immune system.",
+   "exKo": "활생균은 소화와 면역 시스템을 돕는 긍정적인 건강 이점들을 갖고 있습니다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1602",
+   "word": "diplomat",
+   "ph": "[dípləmæ̀t]",
+   "pos": "명",
+   "mean": "외교관",
+   "ex": "Club members have to solve problems, just like <b>diplomat</b>s at the UN.",
+   "exKo": "동아리 회원들은 유엔에 있는 외교관들처럼 문제들을 해결해야 해.",
+   "derived": [],
+   "syn": [
+    [
+     "ambassador",
+     "대사, 대표, 사절"
+    ]
+   ]
+  },
+  {
+   "no": "1603",
+   "word": "courtesy",
+   "ph": "[kə́ːrtəsi]",
+   "pos": "명",
+   "mean": "공손함, 예의, 관용",
+   "ex": "My teacher told me if we follow this common <b>courtesy</b>, we can be respectful of our surroundings.",
+   "exKo": "선생님이 우리가 이 평범한 예의를 따른다면, 우리는 우리의 주변을 존중할 수 있을 것이라고 말해줬어.",
+   "derived": [],
+   "syn": [
+    [
+     "manners",
+     "예절"
+    ],
+    [
+     "etiquette",
+     "예절, 에티켓"
+    ],
+    [
+     "civility",
+     "정중함, 예의 바름"
+    ]
+   ]
+  },
+  {
+   "no": "1604",
+   "word": "project",
+   "ph": "[prádʒekt]",
+   "pos": "명·동",
+   "mean": "(명) 계획, 프로젝트 / (동) 기획하다, 투사하다",
+   "ex": "China has been working on the <b>project</b> for nearly a decade.",
+   "exKo": "중국은 거의 10년 가까이 이 프로젝트를 수행해 왔습니다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1605",
+   "word": "boundary",
+   "ph": "[báundəri]",
+   "pos": "명",
+   "mean": "경계, 영역, 한계",
+   "ex": "National <b>boundaries</b> are becoming more meaningless in the global economy.",
+   "exKo": "국경은 세계 경제 속에서 더 무의미해지고 있다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1606",
+   "word": "therapy",
+   "ph": "[θérəpi]",
+   "pos": "명",
+   "mean": "치료, 요법",
+   "ex": "Most leukemia patients undergo some sort of drug <b>therapy</b>.",
+   "exKo": "대부분의 백혈병 환자들은 어떤 종류의 약물 치료를 받는다.",
+   "derived": [],
+   "syn": [
+    [
+     "treatment",
+     "치료"
+    ],
+    [
+     "cure",
+     "치료법, 치료제, 치료하다"
+    ]
+   ]
+  },
+  {
+   "no": "1607",
+   "word": "composure",
+   "ph": "[kəmpóuʒər]",
+   "pos": "명",
+   "mean": "침착, 냉정, 평정",
+   "ex": "She recovered her <b>composure</b> and salvaged the tennis match.",
+   "exKo": "그녀는 평정을 되찾아 그 테니스 경기에서 패배를 모면했다.",
+   "derived": [],
+   "syn": [
+    [
+     "equanimity",
+     "침착, 평정"
+    ],
+    [
+     "calmness",
+     "차분함, 침착함"
+    ]
+   ]
+  },
+  {
+   "no": "1608",
+   "word": "dissolution",
+   "ph": "[dìsəljúːʃən]",
+   "pos": "명",
+   "mean": "용해, 분해, 해산",
+   "ex": "He stayed on until the <b>dissolution</b> of the firm in 1948.",
+   "exKo": "그는 1948년에 회사가 해산될 때까지 남아 있었다.",
+   "derived": [],
+   "syn": [
+    [
+     "disintegration",
+     "붕괴, 분해, 분열"
+    ]
+   ]
+  },
+  {
+   "no": "1609",
+   "word": "retrospect",
+   "ph": "[rétrəspèkt]",
+   "pos": "명",
+   "mean": "회상, 회고, 추억",
+   "ex": "What is interesting in <b>retrospect</b> is how wrong our assumptions were.",
+   "exKo": "회상해 보면 흥미로운 점은 우리의 가정이 정말 틀렸다는 것이다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1610",
+   "word": "runway",
+   "ph": "[rʌ́nwèi]",
+   "pos": "명",
+   "mean": "활주로, 차도",
+   "ex": "When the white blanket of mist hides <b>runway</b>, airplanes cannot take off or land.",
+   "exKo": "짙게 드리운 하얀 안개가 활주로를 가리면 비행기는 이륙하거나 착륙할 수 없다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1611",
+   "word": "scar",
+   "ph": "[skaːr]",
+   "pos": "명·동",
+   "mean": "(명) (피부에 생긴) 흉터 / (동) 흉터를 남기다",
+   "ex": "He had a long, curved <b>scar</b> on his right cheek, which made people scared.",
+   "exKo": "그는 오른쪽 뺨에 흉터가 길게 곡선으로 나있었는데 그 때문에 사람들이 겁을 먹었다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1612",
+   "word": "fluid",
+   "ph": "[flúːid]",
+   "pos": "명·형",
+   "mean": "(명) 유체, 유동체 / (형) 부드러운, 우아한",
+   "ex": "The pockets are filled with <b>fluid</b> that helps our bones move smoothly.",
+   "exKo": "그 주머니들은 우리의 뼈가 부드럽게 움직이게끔 도와주는 유체로 가득 차 있습니다.",
+   "derived": [],
+   "syn": [
+    [
+     "liquid",
+     "액체의, 유동성의, 수분"
+    ]
+   ]
+  },
+  {
+   "no": "1613",
+   "word": "solvent",
+   "ph": "[sálvənt]",
+   "pos": "형",
+   "mean": "지급 능력이 있는, 녹이는",
+   "ex": "Losing his job and unable to stay <b>solvent</b>, he decided to work as a day laborer for some time.",
+   "exKo": "직업을 잃고 부채를 상환할 능력이 안 되자 그는 당분간 일용직 일을 하기로 했다.",
+   "derived": [
+    [
+     "insolvent",
+     "파산한, 지급능력 없는"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1614",
+   "word": "colony",
+   "ph": "[káləni]",
+   "pos": "명",
+   "mean": "식민지, 집단",
+   "ex": "Macau was the first and last European <b>colony</b> in China.",
+   "exKo": "마카오는 중국에서 처음이자 마지막으로 유럽의 식민지였던 곳입니다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1615",
+   "word": "fragrance",
+   "ph": "[fréigrəns]",
+   "pos": "명",
+   "mean": "향, 향기",
+   "ex": "The room was full of the <b>fragrance</b> of roses.",
+   "exKo": "그 방은 장미향으로 가득했다.",
+   "derived": [],
+   "syn": [
+    [
+     "perfume",
+     "향수, 향기"
+    ],
+    [
+     "aroma",
+     "향기, 방향, 기품"
+    ],
+    [
+     "scent",
+     "냄새, 향기"
+    ]
+   ]
+  },
+  {
+   "no": "1616",
+   "word": "prominent",
+   "ph": "[prámənənt]",
+   "pos": "형",
+   "mean": "중요한, 현저한, 눈에 잘 띄는",
+   "ex": "The government should be playing a more <b>prominent</b> role in promoting human rights.",
+   "exKo": "정부는 인권 신장에 있어서 더욱 중요한 역할을 해야 한다.",
+   "derived": [],
+   "syn": [
+    [
+     "outstanding",
+     "걸출한, 눈에 띄는, 현저한"
+    ]
+   ]
+  },
+  {
+   "no": "1617",
+   "word": "librarian",
+   "ph": "[laibrɛ́(ː)əriən]",
+   "pos": "명",
+   "mean": "사서, 도서관원",
+   "ex": "An experienced <b>librarian</b> may take administrative positions such as library or information center director.",
+   "exKo": "경험이 많은 사서는 도서관이나 정보센터의 책임자와 같은 관리직을 맡을 수 있다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1618",
+   "word": "locomotive",
+   "ph": "[lòukəmóutiv]",
+   "pos": "명·형",
+   "mean": "(명) 기관차, 견인차 / (형) 운동의",
+   "ex": "A <b>locomotive</b> is a railway vehicle that provides the motive power for a train.",
+   "exKo": "기관차는 기차에 동력을 제공하는 철도 차량이다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1619",
+   "word": "euthanasia",
+   "ph": "[jùːθənéiʒiə]",
+   "pos": "명",
+   "mean": "안락사",
+   "ex": "There are strong arguments for and against <b>euthanasia</b>.",
+   "exKo": "안락사에 대해서는 강한 찬반 주장들이 있다.",
+   "derived": [],
+   "syn": [
+    [
+     "mercy killing",
+     "안락사"
+    ],
+    [
+     "doctor-assisted suicide",
+     "의사 조력 자살"
+    ]
+   ]
+  },
+  {
+   "no": "1620",
+   "word": "sum",
+   "ph": "[sʌm]",
+   "pos": "명·동",
+   "mean": "(명) 총계, 요약, 액수 / (동) 요약하다, 총계하다",
+   "ex": "In <b>sum</b>, this result suggests that there may exist extraterrestrial beings.",
+   "exKo": "요약해서 말하면, 이 결과는 외계 생명체가 존재할 수도 있다는 것을 시사한다.",
+   "derived": [],
+   "syn": [
+    [
+     "aggregate",
+     "총액, 전체, 총계"
+    ]
+   ]
+  },
+  {
+   "no": "1621",
+   "word": "divorce",
+   "ph": "[divɔ́ːrs]",
+   "pos": "명·동",
+   "mean": "(명) 이혼 / (동) 이혼하다",
+   "ex": "Since getting a <b>divorce</b>, she has been raising her two children alone.",
+   "exKo": "이혼 후에 그녀는 두 아이를 혼자 키워오고 있다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1622",
+   "word": "atom",
+   "ph": "[ǽtəm]",
+   "pos": "명",
+   "mean": "원자, 극소량",
+   "ex": "A molecule of water consists of two <b>atom</b>s of hydrogen and one <b>atom</b> of oxygen.",
+   "exKo": "물의 분자는 두 개의 수소 원자와 한 개의 산소 원자로 구성되어 있다.",
+   "derived": [
+    [
+     "molecule",
+     "분자"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1623",
+   "word": "property",
+   "ph": "[prápərti]",
+   "pos": "명",
+   "mean": "부동산, 자산, 소유권, 특성",
+   "ex": "It shows that the Indus script shares an important <b>property</b> of language.",
+   "exKo": "이것은 인더스 문자가 언어의 중요한 한 특성을 가지고 있다는 것을 보여줍니다.",
+   "derived": [],
+   "syn": [
+    [
+     "asset",
+     "자산"
+    ]
+   ]
+  },
+  {
+   "no": "1624",
+   "word": "fee",
+   "ph": "[fiː]",
+   "pos": "명",
+   "mean": "수수료, 요금",
+   "ex": "Readers can also read articles using smartphones if they pay the <b>fee</b>.",
+   "exKo": "독자들은 구독료를 낸다면 스마트폰에서 기사를 읽을 수도 있다.",
+   "derived": [],
+   "syn": [
+    [
+     "cost",
+     "비용, 가격, (비용이)들다"
+    ],
+    [
+     "fare",
+     "요금, 운임"
+    ],
+    [
+     "charge",
+     "비용, 청구하다, 기소, 책임"
+    ]
+   ]
+  },
+  {
+   "no": "1625",
+   "word": "proportion",
+   "ph": "[prəpɔ́ːrʃən]",
+   "pos": "명",
+   "mean": "부분, 비율, 비",
+   "ex": "Our world's overuse of plastic has reached outrageous <b>proportion</b>s.",
+   "exKo": "우리 세상의 과도한 플라스틱 사용은 터무니없는 비율에 이르렀다.",
+   "derived": [],
+   "syn": [
+    [
+     "ratio",
+     "비율, ~률"
+    ],
+    [
+     "portion",
+     "부분, 일부"
+    ]
+   ]
+  },
+  {
+   "no": "1626",
+   "word": "confidence",
+   "ph": "[kánfidəns]",
+   "pos": "명",
+   "mean": "자신감, 신뢰, 확신",
+   "ex": "Supervisors need <b>confidence</b>, respect for their associates, knowledge, and experience to be successful.",
+   "exKo": "관리자들은 성공하기 위해 자신감, 직원들을 존중하는 마음, 지식 그리고 경험이 필요하다.",
+   "derived": [],
+   "syn": [
+    [
+     "belief",
+     "신념, 믿음, 생각"
+    ]
+   ]
+  },
+  {
+   "no": "1627",
+   "word": "referee",
+   "ph": "[rèfəríː]",
+   "pos": "명",
+   "mean": "심판, 판정, 주심",
+   "ex": "For example, when <b>referee</b>s make mistakes in a match, they are blamed.",
+   "exKo": "예를 들면, 심판이 경기에서 실수를 한다면, 비난을 받게 된다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1628",
+   "word": "scenery",
+   "ph": "[síːnəri]",
+   "pos": "명",
+   "mean": "(시골의) 자연풍경, 경치",
+   "ex": "The <b>scenery</b> of Scotland has been an inspiration over the years to the artistic and literary figures.",
+   "exKo": "스코틀랜드의 자연풍경은 그 수년 동안 예술가와 문학가들에게 영감이 되어왔다.",
+   "derived": [
+    [
+     "scenic",
+     "(풍경이) 아름다운"
+    ]
+   ],
+   "syn": []
+  },
+  {
+   "no": "1629",
+   "word": "harbor",
+   "ph": "[háːrbər]",
+   "pos": "명·동",
+   "mean": "(명) 항구, 피난처 / (동) 품다",
+   "ex": "The ship entered the <b>harbor</b> before sunset.",
+   "exKo": "그 배는 해 지기 전에 항구에 들어갔다.",
+   "derived": [],
+   "syn": [
+    [
+     "port",
+     "항구, 항만"
+    ],
+    [
+     "dock",
+     "부두"
+    ],
+    [
+     "haven",
+     "안식처, 피난처"
+    ],
+    [
+     "refuge",
+     "피난처, 도피처, 보호처"
+    ],
+    [
+     "sanctuary",
+     "성역, 보호구역"
+    ],
+    [
+     "hold",
+     "유지하다, 보유하다, 잡다"
+    ]
+   ]
+  },
+  {
+   "no": "1630",
+   "word": "territory",
+   "ph": "[téritɔ̀ːri]",
+   "pos": "명",
+   "mean": "지역, 영역, 구역",
+   "ex": "I was moving into uncharted <b>territory</b> with this relationship.",
+   "exKo": "나는 이 관계로 인해 (지금까지 경험해 보지 못한) 미지의 영역으로 들어가고 있었다.",
+   "derived": [],
+   "syn": [
+    [
+     "district",
+     "지구, 지역"
+    ]
+   ]
+  },
+  {
+   "no": "1631",
+   "word": "barrier",
+   "ph": "[bǽriər]",
+   "pos": "명",
+   "mean": "장벽, 장애물",
+   "ex": "Ozone is the earth's <b>barrier</b> against ultra-violet radiation.",
+   "exKo": "오존은 지구를 자외선으로부터 차단해 주는 방어막이다.",
+   "derived": [],
+   "syn": [
+    [
+     "obstacle",
+     "장애물"
+    ]
+   ]
+  },
+  {
+   "no": "1632",
+   "word": "bureaucrat",
+   "ph": "[bjúərəkræ̀t]",
+   "pos": "명",
+   "mean": "관료",
+   "ex": "They tried to dislodge a <b>bureaucrat</b> from his job.",
+   "exKo": "그들은 한 관료를 자리에서 물러나게 하려 했다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1633",
+   "word": "statue",
+   "ph": "[stǽtʃuː]",
+   "pos": "명",
+   "mean": "조각상",
+   "ex": "We tramped across the wet grass to look at the <b>statue</b>.",
+   "exKo": "우리는 저벅저벅 걸어서 젖어 있는 풀밭을 지나[가로질러] 그 조각상을 보러 갔다.",
+   "derived": [
+    [
+     "status",
+     "신분, 지위"
+    ]
+   ],
+   "syn": [
+    [
+     "sculpture",
+     "조각상"
+    ]
+   ]
+  },
+  {
+   "no": "1634",
+   "word": "process",
+   "ph": "[práses]",
+   "pos": "명·동",
+   "mean": "(명) 과정 / (동) 가공하다",
+   "ex": "Detoxing is the <b>process</b> of getting rid of an addiction.",
+   "exKo": "디톡스를 하는 것은 중독을 없애는 과정입니다.",
+   "derived": [
+    [
+     "processed foods",
+     "가공식품"
+    ]
+   ],
+   "syn": [
+    [
+     "procedure",
+     "절차, 과정"
+    ]
+   ]
+  },
+  {
+   "no": "1635",
+   "word": "margin",
+   "ph": "[máːrdʒin]",
+   "pos": "명",
+   "mean": "가장자리, 여백, 차이, 이윤",
+   "ex": "There is an uncertainty <b>margin</b>, but we can see the difference here.",
+   "exKo": "불확실성의 오차가 있지만, 우리는 여기서 그 차이를 볼 수 있습니다.",
+   "derived": [
+    [
+     "marginal",
+     "가장자리의, 변두리의"
+    ],
+    [
+     "marginalize",
+     "소외시키다"
+    ]
+   ],
+   "syn": [
+    [
+     "edge",
+     "가장자리"
+    ],
+    [
+     "border",
+     "경계, 가장자리"
+    ]
+   ]
+  },
+  {
+   "no": "1636",
+   "word": "attorney",
+   "ph": "[ətə́ːrni]",
+   "pos": "명",
+   "mean": "변호사, 대리인",
+   "ex": "She was made her father's <b>attorney</b> when he became ill.",
+   "exKo": "그녀는 아버지가 병이 나자 아버지 대리인이 되었다.",
+   "derived": [],
+   "syn": [
+    [
+     "lawyer",
+     "변호사"
+    ],
+    [
+     "counselor",
+     "변호사, 상담가"
+    ]
+   ]
+  },
+  {
+   "no": "1637",
+   "word": "mundane",
+   "ph": "[mʌ́ndein]",
+   "pos": "형",
+   "mean": "평범한, 현세의, 세속의",
+   "ex": "He opted to change his career again because he grew tired of the <b>mundane</b> routine of driving a cab.",
+   "exKo": "그는 택시를 운전하는 평범한 일상에 실증이 나서 그의 직업을 다시 바꾸기로 결정했다.",
+   "derived": [],
+   "syn": [
+    [
+     "worldly",
+     "세상의, 세속적인"
+    ],
+    [
+     "secular",
+     "세속의, 세속적인"
+    ]
+   ]
+  },
+  {
+   "no": "1638",
+   "word": "underscore",
+   "ph": "[ʌ̀ndərskɔ́ːr]",
+   "pos": "동",
+   "mean": "강조하다, 밑줄을 긋다",
+   "ex": "The incident <b>underscore</b>s the importance of having proper safety measures in place.",
+   "exKo": "그 사건은 적절한 안전 조치가 제대로 마련되어 있는 것의 중요성을 강조한다.",
+   "derived": [],
+   "syn": [
+    [
+     "emphasize",
+     "강조하다"
+    ],
+    [
+     "highlight",
+     "부각시키다"
+    ],
+    [
+     "stress",
+     "강조하다"
+    ]
+   ]
+  },
+  {
+   "no": "1639",
+   "word": "committee",
+   "ph": "[kəmíti]",
+   "pos": "명",
+   "mean": "위원회",
+   "ex": "With successful results, the <b>committee</b> announced it is confident of the upcoming launch.",
+   "exKo": "성공적인 결과로, 위원회는 앞으로의 발사에 자신감이 있다고 발표했다.",
+   "derived": [],
+   "syn": [
+    [
+     "council",
+     "의회, 위원회"
+    ]
+   ]
+  },
+  {
+   "no": "1640",
+   "word": "expedition",
+   "ph": "[èkspidíʃən]",
+   "pos": "명",
+   "mean": "탐험, 원정, 여행",
+   "ex": "The <b>expedition</b> is active from Mar., 2015 to Feb., 2016.",
+   "exKo": "그 탐험대는 2015년 3월부터 2016년 2월까지 활동합니다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1641",
+   "word": "minority",
+   "ph": "[minɔ́(ː)rəti]",
+   "pos": "명",
+   "mean": "소수, 소수 집단, 미성년",
+   "ex": "Kurds, an ethnic <b>minority</b> group in Iraq, are moving to expand their areas.",
+   "exKo": "이라크 소수 민족 집단인 쿠르드족은 그들의 영역을 확장시키려고 움직이고 있다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1642",
+   "word": "laundry",
+   "ph": "[lɔ́ːndri]",
+   "pos": "명",
+   "mean": "세탁, 빨래",
+   "ex": "Every Sunday morning she does the <b>laundry</b> and cleans up the house.",
+   "exKo": "그녀는 매주 일요일 아침에 빨래를 하고 집안을 청소한다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1643",
+   "word": "abstinent",
+   "ph": "[ǽbstənənt]",
+   "pos": "형",
+   "mean": "금욕적인, 절제하는",
+   "ex": "Do adults or teens who use alcohol have better relationships than those <b>abstinent</b>? That's just not true.",
+   "exKo": "알코올을 섭취하는 어른들 또는 10대들이 알코올 섭취를 절제하는 사람들보다 좋은 인간관계를 갖고 있는가? 절대 그렇지 않다.",
+   "derived": [],
+   "syn": [
+    [
+     "austere",
+     "엄숙한, 진지한"
+    ],
+    [
+     "rigid",
+     "완고한, 엄숙한"
+    ]
+   ]
+  },
+  {
+   "no": "1644",
+   "word": "shield",
+   "ph": "[ʃiːld]",
+   "pos": "명·동",
+   "mean": "(명) 방패, 방어물 / (동) 보호하다",
+   "ex": "The immune system is our body's <b>shield</b> against infection.",
+   "exKo": "면역 체계는 우리의 몸을 감염으로부터 막아주는 방패이다.",
+   "derived": [],
+   "syn": [
+    [
+     "defense",
+     "방위, 방어, 수비"
+    ]
+   ]
+  },
+  {
+   "no": "1645",
+   "word": "fraction",
+   "ph": "[frǽkʃən]",
+   "pos": "명·동",
+   "mean": "(명) 파편, 소량, 분수 / (동) 세분하다",
+   "ex": "The question asks you to decimalize the <b>fraction</b> 7/8.",
+   "exKo": "그 문제는 분수 7/8을 십진법으로 쓰라는 것이다.",
+   "derived": [
+    [
+     "⚠ friction",
+     "(혼동 주의) 마찰"
+    ]
+   ],
+   "syn": [
+    [
+     "portion",
+     "부분, 일부"
+    ]
+   ]
+  },
+  {
+   "no": "1646",
+   "word": "metaphor",
+   "ph": "[métəfɔ̀ːr]",
+   "pos": "명",
+   "mean": "은유, 비유",
+   "ex": "And now I can't get, I can't shake the <b>metaphor</b>.",
+   "exKo": "그리고 도무지 그 비유를 떨쳐낼 수 없어요.",
+   "derived": [],
+   "syn": [
+    [
+     "analogy",
+     "비유, 유추, 유사"
+    ],
+    [
+     "allegory",
+     "풍유, 우화, 비유"
+    ]
+   ]
+  },
+  {
+   "no": "1647",
+   "word": "slope",
+   "ph": "[sloup]",
+   "pos": "명·동",
+   "mean": "(명) 경사지, 비탈 / (동) 경사지다",
+   "ex": "She watched his slow progress down the steep <b>slope</b>.",
+   "exKo": "그녀는 그가 가파른 경사를 천천히 내려가는 모습을 지켜보았다.",
+   "derived": [],
+   "syn": [
+    [
+     "incline",
+     "경사, 기울기"
+    ]
+   ]
+  },
+  {
+   "no": "1648",
+   "word": "botany",
+   "ph": "[bátəni]",
+   "pos": "명",
+   "mean": "식물학",
+   "ex": "They shared a common interest in <b>botany</b>.",
+   "exKo": "그들은 식물학에 대해 공통적인 관심을 지니고 있었다.",
+   "derived": [],
+   "syn": []
+  },
+  {
+   "no": "1649",
+   "word": "pioneer",
+   "ph": "[pàiəníər]",
+   "pos": "명·형·동",
+   "mean": "(명) 선구자, 개척자 / (형) 선구적인 / (동) 개척하다",
+   "ex": "She was a renowned scientist and <b>pioneer</b> of the global environmental movement.",
+   "exKo": "그녀는 저명한 과학자이며 세계 환경 운동의 선구자이다.",
+   "derived": [],
+   "syn": [
+    [
+     "forerunner",
+     "선구자"
+    ]
+   ]
+  },
+  {
+   "no": "1650",
+   "word": "ministry",
+   "ph": "[mínistri]",
+   "pos": "명",
+   "mean": "(정부) 부처, 목사",
+   "ex": "So far, the grading scale hasn't been finalized by the <b>Ministry</b> of Education.",
+   "exKo": "지금까지, 채점 등급은 교육부가 최종 결정하지 않았다.",
+   "derived": [],
+   "syn": []
+  }
+ ]
+}
